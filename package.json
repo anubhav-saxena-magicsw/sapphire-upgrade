@@ -1,0 +1,19 @@
+{
+  "name": "upgraded-sapphire",
+  "private": true,
+  "version": "0.0.0",
+  "description": "Sapphire, next-generation epub reader.",
+  "repository": "https://github.com/anubhav-saxena-magicsw/upgrade-sapphire.git",
+  "license": "MIT",
+  "devDependencies": {
+    "bower": "latest",
+    "http-server": "latest",
+    "jasmine-core": "latest",
+    "karma": "latest",
+    "karma-chrome-launcher": "latest",
+    "karma-firefox-launcher": "latest",
+    "karma-jasmine": "latest",
+    "karma-junit-reporter": "latest",
+    "protractor": "latest"
+  }
+}
