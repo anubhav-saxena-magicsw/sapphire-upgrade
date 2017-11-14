@@ -20060,7 +20060,7 @@ function(e) {
                 t()
             },
             getPathUrl: function(e) {
-                return "/epub_library.json" == e ? "epub_content/epub_library.json" : e
+                return "/epub_library.json" == e ? "content/epub_library.json" : e
             },
             initStorage: function(e, t) {
                 e()
@@ -20512,7 +20512,7 @@ function(e) {
                     console.error(t), console.log(e)
                 }
                 if (n && n.is("absolute")) return e;
-                0 == e.indexOf("epub_content/") && (e = e.replace("epub_content/", ""));
+                0 == e.indexOf("content/") && (e = e.replace("content/", ""));
                 var i = t.epubLibraryPath.split("/");
                 i.pop();
                 var r = i.join("/");
