@@ -1,0 +1,310 @@
+.CalculatorWrapperStyle
+{
+	height: 191px;
+	width: 179px;
+	background: lightblue;
+	z-index:99999999;
+	-webkit-transform: translatez(0);
+    -moz-transform: translatez(0);
+    -ms-transform: translatez(0);
+    -o-transform: translatez(0);
+    transform: translatez(0);
+}
+.CalcultorTitleBarStyle
+{
+	width: 179px;
+	height: 13px;
+	background: darkblue;
+}
+.CalculatorButtonContainerStyle
+{
+	
+}
+
+.CalcInputStyle
+{
+	width: 165px;
+	height: 20px;
+	background-color: #FFFFFF;
+	font-size: 1.2em;
+	left: 7px;
+	top: 15px;
+	position: absolute;
+	text-align: right;
+}
+.CalcBtnStyle1
+{
+	width: 25px;
+	height: 25px;
+	position: absolute;
+	left: 7px;
+	top: 40px;
+	cursor: pointer;
+	background: blue;
+	color: white;
+	font-weight: bold;
+	text-align: center;
+}
+.CalcBtnStyle2
+{
+	width: 25px;
+	height: 25px;
+	position: absolute;
+	left: 42px;
+	top: 40px;
+	cursor: pointer;
+	background: blue;
+	color: white;
+	font-weight: bold;
+	text-align: center;
+}
+.CalcBtnStyle3
+{
+	width: 25px;
+	height: 25px;
+	position: absolute;
+	left: 77px;
+	top: 40px;
+	cursor: pointer;
+	background: blue;
+	color: white;
+	font-weight: bold;
+	text-align: center;
+}
+.CalcBtnStyle4
+{
+	width: 25px;
+	height: 25px;
+	position: absolute;
+	left: 112px;
+	top: 40px;
+	cursor: pointer;
+	background: blue;
+	color: white;
+	font-weight: bold;
+	text-align: center;
+}
+.CalcBtnStyle5
+{
+	width: 25px;
+	height: 25px;
+	position: absolute;
+	left: 147px;
+	top: 40px;
+	cursor: pointer;
+	background: blue;
+	color: white;
+	font-weight: bold;
+	text-align: center;
+}
+.CalcBtnStyle6
+{
+	width: 25px;
+	height: 25px;
+	position: absolute;
+	left: 7px;
+	top: 70px;
+	cursor: pointer;
+	background: blue;
+	color: white;
+	font-weight: bold;
+	text-align: center;
+}
+.CalcBtnStyle7
+{
+	width: 25px;
+	height: 25px;
+	position: absolute;
+	left: 42px;
+	top: 70px;
+	cursor: pointer;
+	background: blue;
+	color: white;
+	font-weight: bold;
+	text-align: center;
+}
+.CalcBtnStyle8
+{
+	width: 25px;
+	height: 25px;
+	position: absolute;
+	left: 77px;
+	top: 70px;
+	cursor: pointer;
+	background: blue;
+	color: white;
+	font-weight: bold;
+	text-align: center;
+}
+.CalcBtnStyle9
+{
+	width: 25px;
+	height: 25px;
+	position: absolute;
+	left: 112px;
+	top: 70px;
+	cursor: pointer;
+	background: blue;
+	color: white;
+	font-weight: bold;
+	text-align: center;
+}
+.CalcBtnStyleZero
+{
+	width: 25px;
+	height: 25px;
+	position: absolute;
+	left: 147px;
+	top: 70px;
+	cursor: pointer;
+	background: blue;
+	color: white;
+	font-weight: bold;
+	text-align: center;
+}
+.CalcBtnStyleDecimal
+{
+	width: 25px;
+	height: 25px;
+	position: absolute;
+	left: 7px;
+	top: 100px;
+	cursor: pointer;
+	background: blue;
+	color: white;
+	font-weight: bold;
+	text-align: center;
+}
+.CalcBtnStyleMultiplication
+{
+	width: 25px;
+	height: 25px;
+	position: absolute;
+	left: 42px;
+	top: 100px;
+	cursor: pointer;
+	background: blue;
+	color: white;
+	font-weight: bold;
+	text-align: center;
+}
+.CalcBtnStyleDivision
+{
+	width: 25px;
+	height: 25px;
+	position: absolute;
+	left: 77px;
+	top: 100px;
+	cursor: pointer;
+	background: blue;
+	color: white;
+	font-weight: bold;
+	text-align: center;
+}
+.CalcBtnStyleMinus
+{
+	width: 25px;
+	height: 25px;
+	position: absolute;
+	left: 112px;
+	top: 100px;
+	cursor: pointer;
+	background: blue;
+	color: white;
+	font-weight: bold;
+	text-align: center;
+}
+.CalcBtnStyleSum
+{
+	width: 25px;
+	height: 25px;
+	position: absolute;
+	left: 147px;
+	top: 100px;
+	cursor: pointer;
+	background: blue;
+	color: white;
+	font-weight: bold;
+	text-align: center;
+}
+.CalcBtnStyleEqulas
+{
+	width: 25px;
+	height: 25px;
+	position: absolute;
+	left: 7px;
+	top: 130px;
+	cursor: pointer;
+	background: blue;
+	color: white;
+	font-weight: bold;
+	text-align: center;
+}
+.CalcBtnStyleClear
+{
+	width: 25px;
+	height: 25px;
+	position: absolute;
+	left: 42px;
+	top: 130px;
+	cursor: pointer;
+	background: blue;
+	color: white;
+	font-weight: bold;
+	text-align: center;
+}
+.CalcBtnStyleCubeRoot
+{
+	width: 80px;
+	height: 25px;
+	position: absolute;
+	left: 7px;
+	top: 160px;
+	cursor: pointer;
+	background: blue;
+	color: white;
+	font-weight: bold;
+	text-align: center;
+}
+.CalcBtnStyleSqrt
+{
+	width: 80px;
+	height: 25px;
+	position: absolute;
+	left: 93px;
+	top: 160px;
+	cursor: pointer;
+	background: blue;
+	color: white;
+	font-weight: bold;
+	text-align: center;
+}
+.CalcBtnStyleXRestY
+{
+	width: 25px;
+	height: 25px;
+	position: absolute;
+	left: 147px;
+	top: 130px;
+	cursor: pointer;
+	background: blue;
+	color: white;
+	font-weight: bold;
+	text-align: center;
+}
+.CalcBtnStyleBackspace
+{
+	width: 60px;
+	height: 25px;
+	position: absolute;
+	left: 77px;
+	top: 130px;
+	cursor: pointer;
+	background: blue;
+	color: white;
+	font-weight: bold;
+	text-align: center;
+	font-size: 10px;
+}
+
+

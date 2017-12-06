@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="en">
+	<!--<![endif]-->
+	<head>
+		<meta charset="utf-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+
+		<title>Writing Activity</title>
+
+		<script type="text/javascript">
+			var basePath, configPath, strBootstrapCSS, strMPlayerCSS, strPreloaderCSS;
+
+			/**
+			 * Please update this variable when needed to set the base path of the framework
+			 */
+			basePath = "";
+
+			/**
+			 * Please update this variable when needed to set the baseUrl of the require js
+			 */
+			reqBaseUrl = "";
+			/**
+			 * Please specify the config file here with the path relative to index.html. If file path is not given here, framework will pick the file from 'data/productConfig.xml'
+			 */
+
+			//configPath = "samples/data/product-config.xml";
+			  configPath = "interactivities/writing/data/product-config.xml";
+			//configPath = "authoring/data/product-config-property.xml";
+			//configPath = "export/data/product-config.xml";
+			//configPath = "haf-demo/data/product-config.xml";
+			/**
+			 * PLEASE DON'T MODIFY ANYTHING BELOW
+			 */
+
+			// bootstrap css
+			strBootstrapCSS = '<link rel="stylesheet" href="' + basePath + 'framework/css/bootstrap.min.css"/>';
+			// mPlayer css
+			strMPlayerCSS = '<link rel="stylesheet" href="' + basePath + 'framework/css/mplayer.css"/>';
+			// preloader css
+			strPreloaderCSS = '<link rel="stylesheet" href="' + basePath + 'style/preloder.css"/>';
+			// add to the document
+			document.write(strBootstrapCSS);
+			document.write(strMPlayerCSS);
+			document.write(strPreloaderCSS);
+		</script>
+	</head>
+
+	<body>
+
+		<!-- content area -->
+		<div id="playerContainer" style="position:absolute; width:100%; height:100%;">
+			<div id="mPlayer" class="mPlayer">
+				<!-- popup manager container -->
+				<div id="popupHolder" class="popupHolder" style="z-index: 1">
+					<div id="screenBlocker" class="screenBlocker" ></div>
+					<div id="popupContent" class="popupContent"></div>
+				</div>
+			</div>
+
+		</div>
+		<div id="playerContainer3" style="position:absolute; right:10px; top:50px; width:250px; height:auto;">
+			<div id="mPlayer" class="mPlayer" style="height:auto; position:relative;"></div>
+		</div>
+		<div id="playerContainer2" style="position:absolute; left:75%; top:110px; width:250px; height:auto;">
+			<div id="mPlayer" class="mPlayer" style="height:auto;position:relative;"></div>
+		</div>
+
+		<!-- preloader - PLEASE DON'T CHANGE ANYTHING ELSE AND FOLLOW THE COMMENT AREA -->
+		<div id="preloader" class="preloader">
+			<!-- THIS IS THE BACKGROUND WHICH WILL BLOCK THE USER INTERACTION WHEN PRELOADER IS VISIBLE -->
+			<div id="preloaderBg" class="preloaderBg"></div>
+			<!-- THIS IS THE ACTUAL VISIBLE PRELOADER DIV -->
+			<div id="preloaderContent" class="container preloaderContent">
+				<!-- put the desired structure for preloader -->
+				<!-- PLACEHOLDER FOR PRELOADER -->
+				<div id="circularG">
+					<div id="circularG_1" class="circularG"></div>
+					<div id="circularG_2" class="circularG"></div>
+					<div id="circularG_3" class="circularG"></div>
+					<div id="circularG_4" class="circularG"></div>
+					<div id="circularG_5" class="circularG"></div>
+					<div id="circularG_6" class="circularG"></div>
+					<div id="circularG_7" class="circularG"></div>
+					<div id="circularG_8" class="circularG"></div>
+				</div>
+				<div class="preloaderLbl">
+					Loading...
+				</div>
+			</div>
+		</div>
+
+		<!-- CUSTOM DEBUGGER POPUP WINDOW LAYOUT -->
+		<div id="debuggerHolder" class="debuggerHolder">
+			<div id="btnShowDebugger" class="launchDebugger">
+				Debug
+			</div>
+			<div id="debugTextHeaderAndTextArea" class="debugChildHolder">
+				<!-- DEBUG WINDOW HEADER AREA -->
+				<div id="objHeadaer" class="debuggerHeader">
+					Debugger Window
+					<div class="debuggerPopupButtonHolder">
+						<div id="btnHideDebugger"   class="debuggerPopupButton"  style="float:right;">
+							x
+						</div>
+						<div id="btnClearDebugger" class="debuggerPopupButton" style="float:right;border-radius: 0px">
+							C
+						</div>
+					</div>
+				</div>
+				<!-- END DEBUG WINDOW HEADER AREA -->
+				<!-- DEBUG WINDOW TEXT AREA -->
+				<div id="debugTextArea" style="width:100%; height:80%;" class="wordwrap ui-widget-content"></div>
+				<!-- END DEBUG WINDOW TEXT AREA -->
+			</div>
+		</div>
+		<!-- END CUSTOM DEBUGGER POPUP WINDOW LAYOUT -->
+
+		<!-- DO NOT MODIFY
+		process required js files and add it to the document -->
+		<script type="text/javascript">
+			var strDeviceJSPath, strRequireJSPath, strMainPath, strAppInitalizer;
+
+			strAppInitalizer = '<script type="text/javascript" src="' + "" + 'app-initializer.js"><\/script>';
+
+			//js file to detect devices and platforms
+			strDeviceJSPath = '<script type="text/javascript" src="' + basePath + 'framework/libs/utils/device.min.js"><\/script>';
+			// js file to change favicon and title at runtime
+			strTitleUpdaterJSPath = '<script type="text/javascript" src="' + basePath + 'framework/libs/utils/title-updater.js"><\/script>';
+			//require js script
+			strRequireJSPath = '<script type="text/javascript" data-main="' + basePath + 'framework/player/main" src="' + basePath + 'framework/libs/require/require.js"><\/script>';
+
+			//add it to document
+			document.write(strAppInitalizer);
+			document.write(strTitleUpdaterJSPath);
+			document.write(strDeviceJSPath);
+			document.write(strRequireJSPath);
+
+		</script>
+		<!--<script type="text/javascript" src="http://121.241.115.126/haf/assets/v3.0/source/framework/libs/utils/device.min.js"></script>-->
+		<!-- require js script -->
+		<!--<script type="text/javascript" data-main="http://121.241.115.126/haf/assets/v3.0/source/framework/player/main" src="http://121.241.115.126/haf/assets/v3.0/source/framework/libs/require/require.js"></script>-->
+		<script type="text/template" id="mplayerTemplate">
+			<div id="playerContainer" style="position:absolute; width:100%; height:100%;">
+			<div id="mPlayer" class="mPlayer">
+			<!-- popup manager container -->
+			<div id="popupHolder" class="popupHolder">
+			<div id="screenBlocker" class="screenBlocker" ></div>
+			<div id="popupContent" class="popupContent"></div>
+			</div>
+			</div>
+			</div>
+		</script>
+	</body>
+</html>
+

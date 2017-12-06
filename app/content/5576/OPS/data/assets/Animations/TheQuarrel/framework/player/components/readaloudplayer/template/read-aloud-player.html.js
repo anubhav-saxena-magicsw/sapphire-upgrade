@@ -1,0 +1,1 @@
+define('text!components/readaloudplayer/template/read-aloud-player.html',[],function () { return '<div id="hotSpotsParent">\n\t{{ strHotSpots }}\n</div>\n<div id="audioPlayerParent">\n\t\n</div>\n';});

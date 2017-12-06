@@ -1,0 +1,186 @@
+/* jssor slider arrow navigator skin 05 css */
+	            /*
+	            .jssora05l              (normal)
+	            .jssora05r              (normal)
+	            .jssora05l:hover        (normal mouseover)
+	            .jssora05r:hover        (normal mouseover)
+	            .jssora05ldn            (mousedown)
+	            .jssora05rdn            (mousedown)
+	            */
+ /*Arrow Navigator Skin Begin */				
+.jssora05l, .jssora05r, .jssora05ldn, .jssora05rdn
+{
+	position: absolute;
+	cursor: pointer;
+	display: block;
+	background: url(img/a17.png) no-repeat;
+	overflow:hidden;
+}
+.jssora05l { background-position: -10px -40px; }
+.jssora05r { background-position: -70px -40px; }
+.jssora05l:hover { background-position: -130px -40px; }
+.jssora05r:hover { background-position: -190px -40px; }
+.jssora05ldn { background-position: -250px -40px; }
+.jssora05rdn { background-position: -310px -40px; }
+
+/* jssor slider thumbnail navigator skin 01 css */
+                /*
+                .jssort01 .p           (normal)
+                .jssort01 .p:hover     (normal mouseover)
+                .jssort01 .pav           (active)
+                .jssort01 .pav:hover     (active mouseover)
+                .jssort01 .pdn           (mousedown)
+                */
+.jssort01 .w {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 100%;
+	height: 100%;
+	/*-webkit-tap-highlight-color: transparent;*/
+}
+
+.jssort01 .c {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 84px;
+	height: 84px;
+	border: black 3px solid;
+	/*-webkit-tap-highlight-color: transparent;*/
+}
+
+.jssort01 .pav:hover .c, .jssort01 .pav .c {
+	border: #f9d356 5px solid;
+	top: 0px;
+	left: 0px;
+	width: 80px;
+	height: 80px;
+}
+
+/*
+.jssort01 .pav .z{
+	position: absolute;
+	width: 104px;
+	height: 102px;
+	top: -6px;
+	left: -7px;
+	border: 1px solid black;
+	background: #f9d356;
+}
+
+.jssort01 .p:hover .c, .jssort01 .pav:hover .c, .jssort01 .pav .c::after {
+	  content: '';
+	  position: absolute;
+	  top: -5px;
+	  left: -5px;
+	  right: -5px;
+	  bottom: -5px;
+	  background:  #f9d356;
+	  z-index: -1;
+	  border: 1px black solid; 
+}
+*/
+/*
+.jssort01 .p:hover .c, .jssort01 .pav:hover .c {
+	top: 0px;
+	left: 0px;
+	width: 88px;
+	height: 88px;
+	border: orange 1px solid;
+}
+*/
+
+/**** GALLERY UI CSS****/
+.closeBtn{
+	background-image: url("../../../images/close.png");
+	width:42px;
+	height:42px;
+	cursor:pointer;
+	display:none;
+	left: 16px;
+    position: absolute;
+    top: 14px;
+}
+
+.outerSliderContainer{
+	position: relative; 
+	top: 0px; 
+	left: 0px;
+	margin:auto; 
+	width: 100%;
+	height: 100%; 
+	overflow: hidden;
+}
+
+.slider1_container{
+	position: absolute; 
+	top: 0px; 
+	left: 0px; 
+	width: 931px;
+	height: 953px;
+	overflow: hidden;
+}
+
+.title{
+	position:absolute;
+	top: 0px; 
+	left: 0px;
+	background-color: #e6e6e6;
+	height: 33px;
+	width:92%;
+	text-align: left;
+	line-height: 48px;
+	font-weight: bold;
+	font-size:24px;
+	padding-left: 21px;
+	color:#606060;
+}
+.imgHolder{
+	cursor: default;
+	position: absolute; 
+	left: 21px; 
+	top: 51px; 
+	width: 888px; 
+	height: 570px; 
+	overflow: hidden;
+}
+.thumbnavigator{
+	position: absolute; 
+	width: 931px; 
+	height: 150px; 
+	left:0px; 
+	bottom: -20px;
+}
+.thumbnailtemplate{
+	width: 100%;
+	height: 100%; 
+	border: none;
+	position:absolute; 
+	top: 0; 
+	left: 0;
+}
+.captionContainer{
+	font-weight: bold;
+	position: absolute;
+	background: #e6e6e6;
+	padding: 10px;
+	top: 620px;
+	left: 19px;
+	font-size: 18px;
+	width: 93%;
+	height: auto;
+}
+.imgCaption{
+	display:none
+}
+.zoomBtnContainer{
+	background-image: url("../../../images/zoom.png");
+	width:42px;
+	height:42px;
+	cursor:pointer;
+	display:none;
+	left: 19px;
+	position: absolute;
+	top: 20px;
+}

@@ -1,0 +1,12 @@
+
+<thead>
+    {{# if(hasOwnProperty('headers')){ }}
+	<tr class="rowHeaderStyle">
+		{{# _.each(headers.header, function(key){ }}
+			<th class="headerDataStyle">{{ key }}</th>
+	    {{# }); }}
+	</tr>
+    {{# } }}
+</thead>
+
+<tbody style="overflow-y: auto; height:100px;"></tbody>

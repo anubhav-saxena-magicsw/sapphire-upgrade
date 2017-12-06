@@ -1,0 +1,259 @@
+.wrapper_screen1 {
+	width: 100%;
+	height: 100%;
+	
+}
+
+.skin1 .screenHolder_screen1 {
+	background-image: none;
+	background-color: #000000;
+}
+
+.skin1 .curtain {
+	width: 100%;
+	height: 100%;
+	background-color: black;
+	display: none;
+}
+.bgPoster{
+	background-image: url('assets/images/Play.jpg');
+	width: 100%;
+	height: 100%;
+	position:absolute;
+	display:none;
+	top: 0px;
+	left: 0px;
+	z-index:2;
+}
+.skin1 .hotspotBtn1 {
+	cursor: pointer;
+	position: absolute;
+	right: 120px;
+	bottom: 130px;
+	background-image: url('assets/images/Button.png');
+	width: 188px;
+	height: 63px;
+}
+
+
+.skin1 .videoAndControllsCont_screen1 {
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	bottom: 0px;
+}
+
+.controllsCont_screen1 {
+	width: 100%;
+	bottom: 50px;
+	position: relative;
+}
+
+.controllsCont_screen1 > div {
+	float: left;
+	position: relative;
+}
+.first_frame_screen_screen1{
+	width: 740px;
+	height: 510px;
+	position: absolute;
+	/*background-image: url('assets/images/1.png');*/
+	display:none;
+	top:0px;
+}
+.btnReset {
+	width: 64px;
+	height: 30px;
+	background-image: url('assets/images/stop_btn_up.png') ;
+	display:none;
+	left: 395px;
+    position: absolute;
+    top: -25px;
+    cursor:pointer;
+}
+.btnReset:hover {
+	background-image: url('assets/images/stop_btn_over.png') ;
+	}
+
+.btnReset:active {
+	width: 64px;
+	height: 30px;
+	background-image: url('assets/images/stop_btn_down.png');
+	left: 395px;
+    position: absolute;
+    top: -25px;
+}
+
+.controllsCont .btnPlay {
+	background-image: url('assets/images/intro_play0001.png');
+	font-size: 64px;
+	color: green;
+	cursor: pointer;
+	display: none;
+	left:265px;
+	top:192px;
+	/*left: calc(50% - 105px);*/
+	/*bottom: 133px;*/
+	width: 211px;
+	position: absolute;
+	height: 126px;
+	z-index: 3;
+}
+
+.controllsCont .btnPlay:active {
+	background-image: url('assets/images/intro_play0002.png');
+}
+
+.controllsCont_screen1 .closeCaptionDivStyle {
+	width: 560px;
+	height: 45px;
+	background-color: black;
+	color: white;
+	font-size: 15px;
+	line-height: 3em;
+	display: none;
+}
+
+.controllsCont_screen1 .btnCaption {
+	width: 45px;
+	height: 45px;
+	background-position: -96px -49px;
+	background-image: url('../../shell/assets/images/global_ui_elements_main.png');
+}
+
+.controllsCont_screen1 .btnCaption:active {
+	width: 45px;
+	height: 45px;
+	background-position: -96px -96px;
+	background-image: url('../../shell/assets/images/global_ui_elements_main.png');
+}
+
+.controllsCont_screen1 .SliderVerticalWrapperStyle {
+	background-color: yellow;
+	width: 45px;
+	top: -110px;
+	background-image: url('assets/images/vol_slider.png');
+	display: none;
+}
+
+.controllsCont_screen1 .slideUp {
+	-webkit-animation-name: slideUp;
+	-webkit-animation-duration: 0.5s;
+	animation-name: slideUp;
+	animation-duration: 1s;
+}
+@-webkit-keyframes
+slideUp {
+from {
+	height: 0px;
+	top: 0px;
+}
+to {
+	height: 100px;
+	top: -110px;
+}
+}
+@-moz-keyframes
+slideUp {from {
+	height: 0px;
+}
+to {
+	height: 100px;
+}
+}
+
+.controllsCont_screen1 .slideDown {
+	-webkit-animation-name: slideDown;
+	-webkit-animation-duration: 0.5s;
+	animation-name: slideDown;
+	animation-duration: 1s;
+}
+@-webkit-keyframes
+slideUp {
+from {
+	height: 100px;
+	top: -110px;
+}
+to {
+	height: 0px;
+	top: 0px;
+}
+}
+@-moz-keyframes
+slideUp {from {
+	height: 100px;
+	top: -110px;
+}
+to {
+	height: 0px;
+	top: 0px;
+}
+}
+
+.controllsCont_screen1 .SliderVerticalWrapperStyle .SliderThumbStyle {
+	background: url('assets/images/vol_thumb.png') no-repeat;
+	height: 20px;
+	width: 20px;
+	left: 12.5px;
+}
+
+.controllsCont_screen1 .SliderVerticalWrapperStyle .SliderBarStyle {
+	background: none;
+	background-position: center;
+	width: 5px;
+	left: 0px;
+}
+
+.controllsCont_screen1 .SliderVerticalWrapperStyle .SliderBoundingBoxStyle {
+	top: 0px;
+	left: 0px;
+	height: 100%;
+	width: 0px;
+}
+
+.skin1 .videoPlayerContainer_screen1 {
+	position: relative;
+	width: 100%;
+	height: 100%;
+}
+.skin1 .videoPlayerContainer_screen1 > div {
+	width: 100%;
+	height: 100%;
+}
+.nav {
+	display: none;
+}
+
+.controllsCont {
+	width: 100%;
+	height:100%;
+	/*bottom: 50px;*/
+	position: absolute;
+	
+	left: 0px;
+	top:0px;
+}
+
+.controllsCont > div {
+	float: left;
+	position: relative;
+}
+
+.controllsCont .btnPlay {
+	background-image: url('assets/images/intro_play0001.png');
+	font-size: 64px;
+	color: green;
+	cursor: pointer;
+	display: none;
+	left:265px;
+	top:192px;
+	/*left: calc(50% - 105px);*/
+	/*bottom: 133px;*/
+	width: 211px;
+	position: absolute;
+	height: 126px;
+}
+
+.controllsCont .btnPlay:active {
+	background-image: url('assets/images/intro_play0002.png');
+}

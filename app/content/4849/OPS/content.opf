@@ -1,0 +1,2003 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="pub-id" prefix="rendition: http://www.idpf.org/vocab/rendition/#" version="3.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:identifier id="pub-id">urn:uuid:a0f5b74b-ffed-4014-ab66-46be5953dbb5</dc:identifier>
+    <dc:title>Our Nations Capital Washington DC</dc:title>
+    <dc:language>en-US</dc:language>
+    <meta property="dcterms:modified">2015-05-14T03:51:03Z</meta>
+    <meta content="cover_image" name="cover">
+    </meta>
+    <meta property="rendition:layout">pre-paginated</meta>
+    <meta property="rendition:orientation">auto</meta>
+    <meta property="rendition:spread">auto</meta>
+  </metadata>
+  <manifest>
+    <item properties="cover-image" id="cover_image" href="images/cover.png" media-type="image/png">
+    </item>
+    <item id="page001" href="page0001.xhtml" media-type="application/xhtml+xml" media-overlay="smil_page0001">
+    </item>
+    <item id="page002" href="page0002.xhtml" media-type="application/xhtml+xml">
+    </item>
+    <item id="page003" href="page0003.xhtml" media-type="application/xhtml+xml" media-overlay="smil_page0003">
+    </item>
+    <item id="page004" href="page0004.xhtml" media-type="application/xhtml+xml">
+    </item>
+    <item id="page005" href="page0005.xhtml" media-type="application/xhtml+xml" media-overlay="smil_page0005">
+    </item>
+    <item id="page006" href="page0006.xhtml" media-type="application/xhtml+xml" media-overlay="smil_page0006">
+    </item>
+    <item id="page007" href="page0007.xhtml" media-type="application/xhtml+xml" media-overlay="smil_page0007">
+    </item>
+    <item id="page008" href="page0008.xhtml" media-type="application/xhtml+xml" media-overlay="smil_page0008">
+    </item>
+    <item id="page009" href="page0009.xhtml" media-type="application/xhtml+xml" media-overlay="smil_page0009">
+    </item>
+    <item id="page010" href="page0010.xhtml" media-type="application/xhtml+xml" media-overlay="smil_page0010">
+    </item>
+    <item id="page011" href="page0011.xhtml" media-type="application/xhtml+xml" media-overlay="smil_page0011">
+    </item>
+    <item id="page012" href="page0012.xhtml" media-type="application/xhtml+xml" media-overlay="smil_page0012">
+    </item>
+    <item id="page013" href="page0013.xhtml" media-type="application/xhtml+xml" media-overlay="smil_page0013">
+    </item>
+    <item id="page014" href="page0014.xhtml" media-type="application/xhtml+xml" media-overlay="smil_page0014">
+    </item>
+    <item id="page015" href="page0015.xhtml" media-type="application/xhtml+xml" media-overlay="smil_page0015">
+    </item>
+    <item id="page016" href="page0016.xhtml" media-type="application/xhtml+xml" media-overlay="smil_page0016">
+    </item>
+    <item id="page017" href="page0017.xhtml" media-type="application/xhtml+xml" media-overlay="smil_page0017">
+    </item>
+    <item id="page018" href="page0018.xhtml" media-type="application/xhtml+xml" media-overlay="smil_page0018">
+    </item>
+    <item id="page019" href="page0019.xhtml" media-type="application/xhtml+xml" media-overlay="smil_page0019">
+    </item>
+    <item id="page020" href="page0020.xhtml" media-type="application/xhtml+xml" media-overlay="smil_page0020">
+    </item>
+    <item id="page021" href="page0021.xhtml" media-type="application/xhtml+xml" media-overlay="smil_page0021">
+    </item>
+    <item id="page022" href="page0022.xhtml" media-type="application/xhtml+xml" media-overlay="smil_page0022">
+    </item>
+    <item id="page023" href="page0023.xhtml" media-type="application/xhtml+xml" media-overlay="smil_page0023">
+    </item>
+    <item id="page024" href="page0024.xhtml" media-type="application/xhtml+xml" media-overlay="smil_page0024">
+    </item>
+    <item id="page025" href="page0025.xhtml" media-type="application/xhtml+xml" media-overlay="smil_page0025">
+    </item>
+    <item id="page026" href="page0026.xhtml" media-type="application/xhtml+xml" media-overlay="smil_page0026">
+    </item>
+    <item id="page027" href="page0027.xhtml" media-type="application/xhtml+xml" media-overlay="smil_page0027">
+    </item>
+    <item id="page028" href="page0028.xhtml" media-type="application/xhtml+xml" media-overlay="smil_page0028">
+    </item>
+    <item id="page029" href="page0029.xhtml" media-type="application/xhtml+xml" media-overlay="smil_page0029">
+    </item>
+    <item id="page030" href="page0030.xhtml" media-type="application/xhtml+xml" media-overlay="smil_page0030">
+    </item>
+    <item id="page031" href="page0031.xhtml" media-type="application/xhtml+xml" media-overlay="smil_page0031">
+    </item>
+    <item id="page032" href="page0032.xhtml" media-type="application/xhtml+xml" media-overlay="smil_page0032">
+    </item>
+    <item id="page033" href="page0033.xhtml" media-type="application/xhtml+xml" media-overlay="smil_page0033">
+    </item>
+    <item id="page034" href="page0034.xhtml" media-type="application/xhtml+xml" media-overlay="smil_page0034">
+    </item>
+    <item id="page035" href="page0035.xhtml" media-type="application/xhtml+xml">
+    </item>
+    <item id="page036" href="page0036.xhtml" media-type="application/xhtml+xml" media-overlay="smil_page0036">
+    </item>
+    <item id="page037" href="page0037.xhtml" media-type="application/xhtml+xml">
+    </item>
+	
+    <item id="styles" href="css/common.css" media-type="text/css">
+    </item>
+    <item id="bg001" href="images/page0001.png" media-type="image/png">
+    </item>
+    <item id="bg003" href="images/page0003.png" media-type="image/png">
+    </item>
+    <item id="bg004" href="images/page0004.png" media-type="image/png">
+    </item>
+    <item id="bg005" href="images/page0005.png" media-type="image/png">
+    </item>
+    <item id="bg006" href="images/page0006.png" media-type="image/png">
+    </item>
+    <item id="bg007" href="images/page0007.png" media-type="image/png">
+    </item>
+    <item id="bg008" href="images/page0008.png" media-type="image/png">
+    </item>
+    <item id="bg009" href="images/page0009.png" media-type="image/png">
+    </item>
+    <item id="bg010" href="images/page0010.png" media-type="image/png">
+    </item>
+    <item id="bg011" href="images/page0011.png" media-type="image/png">
+    </item>
+    <item id="bg012" href="images/page0012.png" media-type="image/png">
+    </item>
+    <item id="bg013" href="images/page0013.png" media-type="image/png">
+    </item>
+    <item id="bg014" href="images/page0014.png" media-type="image/png">
+    </item>
+    <item id="bg015" href="images/page0015.png" media-type="image/png">
+    </item>
+    <item id="bg016" href="images/page0016.png" media-type="image/png">
+    </item>
+    <item id="bg017" href="images/page0017.png" media-type="image/png">
+    </item>
+    <item id="bg018" href="images/page0018.png" media-type="image/png">
+    </item>
+    <item id="bg019" href="images/page0019.png" media-type="image/png">
+    </item>
+    <item id="bg020" href="images/page0020.png" media-type="image/png">
+    </item>
+    <item id="bg021" href="images/page0021.png" media-type="image/png">
+    </item>
+    <item id="bg022" href="images/page0022.png" media-type="image/png">
+    </item>
+    <item id="bg023" href="images/page0023.png" media-type="image/png">
+    </item>
+    <item id="bg024" href="images/page0024.png" media-type="image/png">
+    </item>
+    <item id="bg025" href="images/page0025.png" media-type="image/png">
+    </item>
+    <item id="bg026" href="images/page0026.png" media-type="image/png">
+    </item>
+    <item id="bg027" href="images/page0027.png" media-type="image/png">
+    </item>
+    <item id="bg028" href="images/page0028.png" media-type="image/png">
+    </item>
+    <item id="bg029" href="images/page0029.png" media-type="image/png">
+    </item>
+    <item id="bg030" href="images/page0030.png" media-type="image/png">
+    </item>
+    <item id="bg031" href="images/page0031.png" media-type="image/png">
+    </item>
+    <item id="bg032" href="images/page0032.png" media-type="image/png">
+    </item>
+    <item id="bg033" href="images/page0033.png" media-type="image/png">
+    </item>
+    <item id="bg034" href="images/page0034.png" media-type="image/png">
+    </item>
+    <item id="bg035" href="images/page0035.png" media-type="image/png">
+    </item>
+    <item id="bg036" href="images/page0036.png" media-type="image/png">
+    </item>
+    <item id="f38" href="fonts/f38.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f39" href="fonts/f39.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f40" href="fonts/f40.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f43" href="fonts/f43.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f42" href="fonts/f42.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f45" href="fonts/f45.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f44" href="fonts/f44.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f12" href="fonts/f12.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f13" href="fonts/f13.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f14" href="fonts/f14.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f15" href="fonts/f15.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f18" href="fonts/f18.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f19" href="fonts/f19.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f20" href="fonts/f20.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f21" href="fonts/f21.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f23" href="fonts/f23.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f24" href="fonts/f24.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f25" href="fonts/f25.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f26" href="fonts/f26.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f27" href="fonts/f27.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f28" href="fonts/f28.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f29" href="fonts/f29.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f30" href="fonts/f30.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f31" href="fonts/f31.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f32" href="fonts/f32.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f33" href="fonts/f33.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f35" href="fonts/f35.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f36" href="fonts/f36.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f37" href="fonts/f37.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f46" href="fonts/f46.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f47" href="fonts/f47.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f48" href="fonts/f48.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f49" href="fonts/f49.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f50" href="fonts/f50.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f53" href="fonts/f53.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f51" href="fonts/f51.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f52" href="fonts/f52.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f54" href="fonts/f54.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f55" href="fonts/f55.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f57" href="fonts/f57.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f58" href="fonts/f58.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f59" href="fonts/f59.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f60" href="fonts/f60.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f61" href="fonts/f61.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f62" href="fonts/f62.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f63" href="fonts/f63.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f64" href="fonts/f64.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f65" href="fonts/f65.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f66" href="fonts/f66.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f67" href="fonts/f67.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f68" href="fonts/f68.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f69" href="fonts/f69.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f73" href="fonts/f73.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f70" href="fonts/f70.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f71" href="fonts/f71.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f72" href="fonts/f72.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f74" href="fonts/f74.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f76" href="fonts/f76.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f77" href="fonts/f77.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f78" href="fonts/f78.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f79" href="fonts/f79.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f80" href="fonts/f80.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f81" href="fonts/f81.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f82" href="fonts/f82.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f83" href="fonts/f83.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f84" href="fonts/f84.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f85" href="fonts/f85.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f0" href="fonts/f0.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f1" href="fonts/f1.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f2" href="fonts/f2.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f89" href="fonts/f89.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f5" href="fonts/f5.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f4" href="fonts/f4.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f3" href="fonts/f3.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f11" href="fonts/f11.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f9" href="fonts/f9.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f8" href="fonts/f8.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f7" href="fonts/f7.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f16" href="fonts/f16.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f6" href="fonts/f6.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f10" href="fonts/f10.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f17" href="fonts/f17.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f22" href="fonts/f22.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f41" href="fonts/f41.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f34" href="fonts/f34.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f56" href="fonts/f56.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f75" href="fonts/f75.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f87" href="fonts/f87.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f86" href="fonts/f86.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f88" href="fonts/f88.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item properties="nav" id="nav" href="nav.xhtml" media-type="application/xhtml+xml">
+    </item>
+    <item id="page0001" href="css/page0001.css" media-type="text/css" />
+    <item id="page0002" href="css/page0002.css" media-type="text/css" />
+    <item id="page0003" href="css/page0003.css" media-type="text/css" />
+    <item id="page0004" href="css/page0004.css" media-type="text/css" />
+    <item id="page0005" href="css/page0005.css" media-type="text/css" />
+    <item id="page0006" href="css/page0006.css" media-type="text/css" />
+    <item id="page0007" href="css/page0007.css" media-type="text/css" />
+    <item id="page0008" href="css/page0008.css" media-type="text/css" />
+    <item id="page0009" href="css/page0009.css" media-type="text/css" />
+    <item id="page0010" href="css/page0010.css" media-type="text/css" />
+    <item id="page0011" href="css/page0011.css" media-type="text/css" />
+    <item id="page0012" href="css/page0012.css" media-type="text/css" />
+    <item id="page0013" href="css/page0013.css" media-type="text/css" />
+    <item id="page0014" href="css/page0014.css" media-type="text/css" />
+    <item id="page0015" href="css/page0015.css" media-type="text/css" />
+    <item id="page0016" href="css/page0016.css" media-type="text/css" />
+    <item id="page0017" href="css/page0017.css" media-type="text/css" />
+    <item id="page0018" href="css/page0018.css" media-type="text/css" />
+    <item id="page0019" href="css/page0019.css" media-type="text/css" />
+    <item id="page0020" href="css/page0020.css" media-type="text/css" />
+    <item id="page0021" href="css/page0021.css" media-type="text/css" />
+    <item id="page0022" href="css/page0022.css" media-type="text/css" />
+    <item id="page0023" href="css/page0023.css" media-type="text/css" />
+    <item id="page0024" href="css/page0024.css" media-type="text/css" />
+    <item id="page0025" href="css/page0025.css" media-type="text/css" />
+    <item id="page0026" href="css/page0026.css" media-type="text/css" />
+    <item id="page0027" href="css/page0027.css" media-type="text/css" />
+    <item id="page0028" href="css/page0028.css" media-type="text/css" />
+    <item id="page0029" href="css/page0029.css" media-type="text/css" />
+    <item id="page0030" href="css/page0030.css" media-type="text/css" />
+    <item id="page0031" href="css/page0031.css" media-type="text/css" />
+    <item id="page0032" href="css/page0032.css" media-type="text/css" />
+    <item id="page0033" href="css/page0033.css" media-type="text/css" />
+    <item id="page0034" href="css/page0034.css" media-type="text/css" />
+    <item id="page0035" href="css/page0035.css" media-type="text/css" />
+    <item id="page0036" href="css/page0036.css" media-type="text/css" />
+    <item id="page0037" href="css/page0037.css" media-type="text/css" />
+	
+    <item id="page001_t" href="images/thumbnails/page0001_t.png" media-type="image/png" />
+    <item id="page002_t" href="images/thumbnails/page0002_t.png" media-type="image/png" />
+    <item id="page003_t" href="images/thumbnails/page0003_t.png" media-type="image/png" />
+    <item id="page004_t" href="images/thumbnails/page0004_t.png" media-type="image/png" />
+    <item id="page005_t" href="images/thumbnails/page0005_t.png" media-type="image/png" />
+    <item id="page006_t" href="images/thumbnails/page0006_t.png" media-type="image/png" />
+    <item id="page007_t" href="images/thumbnails/page0007_t.png" media-type="image/png" />
+    <item id="page008_t" href="images/thumbnails/page0008_t.png" media-type="image/png" />
+    <item id="page009_t" href="images/thumbnails/page0009_t.png" media-type="image/png" />
+    <item id="page010_t" href="images/thumbnails/page0010_t.png" media-type="image/png" />
+    <item id="page011_t" href="images/thumbnails/page0011_t.png" media-type="image/png" />
+    <item id="page012_t" href="images/thumbnails/page0012_t.png" media-type="image/png" />
+    <item id="page013_t" href="images/thumbnails/page0013_t.png" media-type="image/png" />
+    <item id="page014_t" href="images/thumbnails/page0014_t.png" media-type="image/png" />
+    <item id="page015_t" href="images/thumbnails/page0015_t.png" media-type="image/png" />
+    <item id="page016_t" href="images/thumbnails/page0016_t.png" media-type="image/png" />
+    <item id="page017_t" href="images/thumbnails/page0017_t.png" media-type="image/png" />
+    <item id="page018_t" href="images/thumbnails/page0018_t.png" media-type="image/png" />
+    <item id="page019_t" href="images/thumbnails/page0019_t.png" media-type="image/png" />
+    <item id="page020_t" href="images/thumbnails/page0020_t.png" media-type="image/png" />
+    <item id="page021_t" href="images/thumbnails/page0021_t.png" media-type="image/png" />
+    <item id="page022_t" href="images/thumbnails/page0022_t.png" media-type="image/png" />
+    <item id="page023_t" href="images/thumbnails/page0023_t.png" media-type="image/png" />
+    <item id="page024_t" href="images/thumbnails/page0024_t.png" media-type="image/png" />
+    <item id="page025_t" href="images/thumbnails/page0025_t.png" media-type="image/png" />
+    <item id="page026_t" href="images/thumbnails/page0026_t.png" media-type="image/png" />
+    <item id="page027_t" href="images/thumbnails/page0027_t.png" media-type="image/png" />
+    <item id="page028_t" href="images/thumbnails/page0028_t.png" media-type="image/png" />
+    <item id="page029_t" href="images/thumbnails/page0029_t.png" media-type="image/png" />
+    <item id="page030_t" href="images/thumbnails/page0030_t.png" media-type="image/png" />
+    <item id="page031_t" href="images/thumbnails/page0031_t.png" media-type="image/png" />
+    <item id="page032_t" href="images/thumbnails/page0032_t.png" media-type="image/png" />
+    <item id="page033_t" href="images/thumbnails/page0033_t.png" media-type="image/png" />
+    <item id="page034_t" href="images/thumbnails/page0034_t.png" media-type="image/png" />
+    <item id="page035_t" href="images/thumbnails/page0035_t.png" media-type="image/png" />
+    <item id="page036_t" href="images/thumbnails/page0036_t.png" media-type="image/png" />
+    <item id="page037_t" href="images/thumbnails/page0037_t.png" media-type="image/png" />
+    
+	<item id="TCM18362_backpage" href="Audio/TCM18362_backpage.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_bodytext_pg4" href="Audio/TCM18362_bodytext_pg4.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_bodytext_pg5" href="Audio/TCM18362_bodytext_pg5.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_bodytext_pg6" href="Audio/TCM18362_bodytext_pg6.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_bodytext_pg8" href="Audio/TCM18362_bodytext_pg8.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_bodytext_pg9" href="Audio/TCM18362_bodytext_pg9.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_bodytext_pg10" href="Audio/TCM18362_bodytext_pg10.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_bodytext_pg12" href="Audio/TCM18362_bodytext_pg12.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_bodytext_pg13" href="Audio/TCM18362_bodytext_pg13.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_bodytext_pg14" href="Audio/TCM18362_bodytext_pg14.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_bodytext_pg15" href="Audio/TCM18362_bodytext_pg15.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_bodytext_pg16" href="Audio/TCM18362_bodytext_pg16.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_bodytext_pg17" href="Audio/TCM18362_bodytext_pg17.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_bodytext_pg18C2" href="Audio/TCM18362_bodytext_pg18C2.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_bodytext_pg20" href="Audio/TCM18362_bodytext_pg20.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_bodytext_pg21" href="Audio/TCM18362_bodytext_pg21.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_bodytext_pg22" href="Audio/TCM18362_bodytext_pg22.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_bodytext_pg23" href="Audio/TCM18362_bodytext_pg23.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_bodytext_pg24" href="Audio/TCM18362_bodytext_pg24.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_bodytext_pg25" href="Audio/TCM18362_bodytext_pg25.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_bodytext_pg26" href="Audio/TCM18362_bodytext_pg26.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_bodytext_pg28" href="Audio/TCM18362_bodytext_pg28.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_glossary1" href="Audio/TCM18362_glossary1.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_glossary2" href="Audio/TCM18362_glossary2.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_glossary3" href="Audio/TCM18362_glossary3.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_glossary4" href="Audio/TCM18362_glossary4.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_glossary5C2" href="Audio/TCM18362_glossary5C2.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_glossary6" href="Audio/TCM18362_glossary6.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_glossary7" href="Audio/TCM18362_glossary7.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_glossary8" href="Audio/TCM18362_glossary8.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_glossary9" href="Audio/TCM18362_glossary9.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_glossary10" href="Audio/TCM18362_glossary10.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_glossary11" href="Audio/TCM18362_glossary11.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_glossary12" href="Audio/TCM18362_glossary12.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_glossary13" href="Audio/TCM18362_glossary13.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_glossary14" href="Audio/TCM18362_glossary14.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_glossary15" href="Audio/TCM18362_glossary15.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_glossary16" href="Audio/TCM18362_glossary16.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_index1" href="Audio/TCM18362_index1.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_index2" href="Audio/TCM18362_index2.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_index3" href="Audio/TCM18362_index3.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_index4" href="Audio/TCM18362_index4.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_index5" href="Audio/TCM18362_index5.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_index6" href="Audio/TCM18362_index6.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_index7" href="Audio/TCM18362_index7.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_index8" href="Audio/TCM18362_index8.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_index9" href="Audio/TCM18362_index9.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_index10" href="Audio/TCM18362_index10.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_index11" href="Audio/TCM18362_index11.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_index12" href="Audio/TCM18362_index12.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_index13" href="Audio/TCM18362_index13.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_index14" href="Audio/TCM18362_index14.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_index15" href="Audio/TCM18362_index15.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_index16" href="Audio/TCM18362_index16.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_index17" href="Audio/TCM18362_index17.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_index18" href="Audio/TCM18362_index18.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_index19" href="Audio/TCM18362_index19.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_index20" href="Audio/TCM18362_index20.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_index21" href="Audio/TCM18362_index21.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_index22" href="Audio/TCM18362_index22.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_index23" href="Audio/TCM18362_index23.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_pg4_caption1" href="Audio/TCM18362_pg4_caption1.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_pg5_caption1" href="Audio/TCM18362_pg5_caption1.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_pg6_caption1" href="Audio/TCM18362_pg6_caption1.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_pg7_caption1" href="Audio/TCM18362_pg7_caption1.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_pg7_caption2" href="Audio/TCM18362_pg7_caption2.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_pg8_caption1" href="Audio/TCM18362_pg8_caption1.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_pg8_caption2" href="Audio/TCM18362_pg8_caption2.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_pg9_sidebar1" href="Audio/TCM18362_pg9_sidebar1.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_pg10_caption1" href="Audio/TCM18362_pg10_caption1.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_pg10_caption2" href="Audio/TCM18362_pg10_caption2.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_pg10_sidebar1" href="Audio/TCM18362_pg10_sidebar1.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_pg11_caption1" href="Audio/TCM18362_pg11_caption1.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_pg11_caption2" href="Audio/TCM18362_pg11_caption2.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_pg11_caption3" href="Audio/TCM18362_pg11_caption3.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_pg11_caption4" href="Audio/TCM18362_pg11_caption4.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_pg11_caption5" href="Audio/TCM18362_pg11_caption5.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_pg11_sidebar1" href="Audio/TCM18362_pg11_sidebar1.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_pg13_caption1" href="Audio/TCM18362_pg13_caption1.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_pg13_caption2" href="Audio/TCM18362_pg13_caption2.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_pg13_caption3" href="Audio/TCM18362_pg13_caption3.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_pg13_sidebar1" href="Audio/TCM18362_pg13_sidebar1.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_pg15_caption1" href="Audio/TCM18362_pg15_caption1.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_pg15_caption2" href="Audio/TCM18362_pg15_caption2.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_pg16_caption1" href="Audio/TCM18362_pg16_caption1.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_pg17_sidebar1" href="Audio/TCM18362_pg17_sidebar1.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_pg18_caption1" href="Audio/TCM18362_pg18_caption1.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_pg19_caption1" href="Audio/TCM18362_pg19_caption1.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_pg19_sidebar1" href="Audio/TCM18362_pg19_sidebar1.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_pg20_caption1" href="Audio/TCM18362_pg20_caption1.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_pg21_caption1" href="Audio/TCM18362_pg21_caption1.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_pg21_sidebar1" href="Audio/TCM18362_pg21_sidebar1.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_pg22_caption1" href="Audio/TCM18362_pg22_caption1.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_pg22_sidebar1" href="Audio/TCM18362_pg22_sidebar1.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_pg23_caption1" href="Audio/TCM18362_pg23_caption1.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_pg24_caption1" href="Audio/TCM18362_pg24_caption1.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_pg24_sidebar1" href="Audio/TCM18362_pg24_sidebar1.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_pg25_caption1" href="Audio/TCM18362_pg25_caption1.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_pg27_caption1" href="Audio/TCM18362_pg27_caption1.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_pg29_caption1" href="Audio/TCM18362_pg29_caption1.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_pg29_caption2" href="Audio/TCM18362_pg29_caption2.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_pg32_text1_edit" href="Audio/TCM18362_pg32_text1_edit.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_pg32_text1c2" href="Audio/TCM18362_pg32_text1c2.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_pg32_title" href="Audio/TCM18362_pg32_title.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_title" href="Audio/TCM18362_title.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_titleauthor" href="Audio/TCM18362_titleauthor.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_titlepage" href="Audio/TCM18362_titlepage.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_toc1" href="Audio/TCM18362_toc1.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_toc2" href="Audio/TCM18362_toc2.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_toc3" href="Audio/TCM18362_toc3.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_toc4" href="Audio/TCM18362_toc4.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_toc5" href="Audio/TCM18362_toc5.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_toc6" href="Audio/TCM18362_toc6.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_toc7" href="Audio/TCM18362_toc7.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_toc8" href="Audio/TCM18362_toc8.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_toc9" href="Audio/TCM18362_toc9.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_toc10" href="Audio/TCM18362_toc10.mp3" media-type="Audio/mpeg" />
+	<item id="TCM18362_toc11" href="Audio/TCM18362_toc11.mp3" media-type="Audio/mpeg" />
+
+	
+	<item id="smil_page0001" href="smil/page0001.smil" media-type="application/smil+xml" />
+	<item id="smil_page0003" href="smil/page0003.smil" media-type="application/smil+xml" />
+	<item id="smil_page0005" href="smil/page0005.smil" media-type="application/smil+xml" />
+	<item id="smil_page0006" href="smil/page0006.smil" media-type="application/smil+xml" />
+	<item id="smil_page0007" href="smil/page0007.smil" media-type="application/smil+xml" />
+	<item id="smil_page0008" href="smil/page0008.smil" media-type="application/smil+xml" />
+	<item id="smil_page0009" href="smil/page0009.smil" media-type="application/smil+xml" />
+	<item id="smil_page0010" href="smil/page0010.smil" media-type="application/smil+xml" />
+	<item id="smil_page0011" href="smil/page0011.smil" media-type="application/smil+xml" />
+	<item id="smil_page0012" href="smil/page0012.smil" media-type="application/smil+xml" />
+	<item id="smil_page0013" href="smil/page0013.smil" media-type="application/smil+xml" />
+	<item id="smil_page0014" href="smil/page0014.smil" media-type="application/smil+xml" />
+	<item id="smil_page0015" href="smil/page0015.smil" media-type="application/smil+xml" />
+	<item id="smil_page0016" href="smil/page0016.smil" media-type="application/smil+xml" />
+	<item id="smil_page0017" href="smil/page0017.smil" media-type="application/smil+xml" />
+	<item id="smil_page0018" href="smil/page0018.smil" media-type="application/smil+xml" />
+	<item id="smil_page0019" href="smil/page0019.smil" media-type="application/smil+xml" />
+	<item id="smil_page0020" href="smil/page0020.smil" media-type="application/smil+xml" />
+	<item id="smil_page0021" href="smil/page0021.smil" media-type="application/smil+xml" />
+	<item id="smil_page0022" href="smil/page0022.smil" media-type="application/smil+xml" />
+	<item id="smil_page0023" href="smil/page0023.smil" media-type="application/smil+xml" />
+	<item id="smil_page0024" href="smil/page0024.smil" media-type="application/smil+xml" />
+	<item id="smil_page0025" href="smil/page0025.smil" media-type="application/smil+xml" />
+	<item id="smil_page0026" href="smil/page0026.smil" media-type="application/smil+xml" />
+	<item id="smil_page0027" href="smil/page0027.smil" media-type="application/smil+xml" />
+	<item id="smil_page0028" href="smil/page0028.smil" media-type="application/smil+xml" />
+	<item id="smil_page0029" href="smil/page0029.smil" media-type="application/smil+xml" />
+	<item id="smil_page0030" href="smil/page0030.smil" media-type="application/smil+xml" />
+	<item id="smil_page0031" href="smil/page0031.smil" media-type="application/smil+xml" />
+	<item id="smil_page0032" href="smil/page0032.smil" media-type="application/smil+xml" />
+	<item id="smil_page0033" href="smil/page0033.smil" media-type="application/smil+xml" />
+	<item id="smil_page0034" href="smil/page0034.smil" media-type="application/smil+xml" />
+	<item id="smil_page0036" href="smil/page0036.smil" media-type="application/smil+xml" />
+	
+	<item id="Video_1" href="activity/interactivities/comp/launchScreen/assets/video/video.mp4" media-type="video/mp4" />
+	<item id="Video_2" href="activity/interactivities/comp/launchScreen/assets/video/video.ogv" media-type="video/ogv" />
+	<item id="Video_3" href="activity/interactivities/writing/launchScreen/assets/video/video.mp4" media-type="video/mp4" />
+	<item id="Video_4" href="activity/interactivities/writing/launchScreen/assets/video/video.ogv" media-type="video/ogv" />
+	<item id="Video_5" href="activity/interactivities/Vocabulary/launchScreen/assets/video/video.mp4" media-type="video/mp4" />
+	<item id="Video_6" href="activity/interactivities/Vocabulary/launchScreen/assets/video/video.ogv" media-type="video/ogv" />
+	
+	<item id="html_1" href="activity/ComprehensionActivity.html" media-type="application/html" title="Comprehension Activity" data-visibilty="0"></item>
+	<item id="html_2" href="activity/WritingActivity.html" media-type="application/html" title="Writing Activity" data-visibilty="0"></item>
+	<item id="html_3" href="activity/VocabularyActivity.html" media-type="application/html" title="Vocabulary Activity" data-visibilty="0"></item>
+	
+	<item id="video1" href="video/18362_pg25.mp4" media-type="video/mp4" data-visibilty="0" /> 
+	<item id="video2" href="video/18362_pg27.mp4" media-type="video/mp4" data-visibilty="0" />
+	
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<item title="Monday Testinfg" caption="Monday Testinfg" data-visibilty="0" id="MjAxNS0xMC0xOVQxMToyMjo1Mi45ODNa" href="" media-type="text/contentnote" spineid="page012" />
+<item title="Monday Testinfg" caption="Monday Testinfg" data-visibilty="0" id="MjAxNS0xMC0xOVQxMToyMzoxMC43MTFa" href="data/contentnote/1445253815825-resume-assessment.png" media-type="image/png" spineid="page012" />
+<item title="Monday Testinfg" caption="sacsac" data-visibilty="0" id="MjAxNS0xMC0xOVQxMToyMjo0Ni4zNzZa" href="" media-type="[mediatype]" spineid="page012" />
+<item title="s" caption="" data-visibilty="0" id="MjAxNi0wMS0xNVQwOTozNzo1MS4xMTZa" href="data/contentnote/1452850665347-video.mp4" media-type="video/mp4" spineid="page010" />
+<item title="fg" caption="" data-visibilty="0" id="MjAxNi0wMS0xNVQwOToxMzozNi4zOTJa" href="data/contentnote/1452832235556-video.mp4" media-type="video/mp4" spineid="page010" />
+<item title="ff" caption="" data-visibilty="0" id="MjAxNi0wMS0xNVQwODowNDo1OC42MjVa" href="data/contentnote/1452832235556-video.mp4" media-type="video/mp4" spineid="page010" />
+<item title="ee" caption="" data-visibilty="0" id="MjAxNi0wMS0xOFQxMToyMDo0NC4zNDRa" href="data/contentnote/1452829505458-video.mp4" media-type="video/mp4" spineid="page004" />
+<item title="j" caption="" data-visibilty="0" id="MjAxNi0wMS0xOFQxMTowOTo1Ny4zNTNa" href="data/contentnote/1452829528854-video.mp4" media-type="video/mp4" spineid="page004" />
+<item title="y" caption="" data-visibilty="0" id="MjAxNi0wMS0xOFQxMDozMzo0Ny41MDZa" href="data/contentnote/1452850665347-video.mp4" media-type="video/mp4" spineid="page004" />
+<item title="Monday Testinfg" caption="Monday Testinfg" data-visibilty="1" id="MjAxNS0xMC0xOVQxMToyNToxOS4xMjZa" href="" media-type="text/contentnote" spineid="page014" />
+<item title="Monday Testinfg" caption="Monday Testinfg" data-visibilty="0" id="MjAxNS0xMC0xOVQxMToyMzo0OC41MzVa" href="data/contentnote/1445253858761-BlackberrySmsTonewapkingcc.mp3" media-type="audio/mp3" spineid="page013" />
+<item title="Monday Testinfg" caption="" data-visibilty="0" id="MjAxNS0xMC0xOVQxMToyNTowMS4zNzRa" href="http://www.google.com" media-type="application/hta" spineid="page013" />
+<item title="Monday Testinfg" caption="Monday Testinfg" data-visibilty="0" id="MjAxNS0xMC0xOVQxMToyNDowNC44Mzla" href="data/contentnote/1445253873696-SampleVideo1080x7201mb.mp4" media-type="video/mp4" spineid="page013" />
+<item title="uy" caption="uy" data-visibilty="0" id="MjAxNS0wOS0xNlQxMTozMDozNi4zODJa" href="data/contentnote/1411627319627-Brainbrakesfastherthanfoot.mp3" media-type="audio/mpeg" spineid="page026" />
+<item title="vjkxdhrgv" caption="skcjyv" data-visibilty="0" id="MjAxNS0wOC0wN1QwNjoxMDo1NC44Mjda" href="" media-type="text/contentnote" spineid="page026" />
+<item title="my record" caption="sajhcjsacb" data-visibilty="0" id="MjAxNS0wOC0wN1QwNTo1NjozNi40MDRa" href="" media-type="[mediatype]" spineid="page026" />
+<item title="my doc" caption="dsvdsvdsv" data-visibilty="0" id="MjAxNS0wOC0wNlQxMTozNjowNS4xNDFa" href="data/contentnote/1431947657436-3-Test-Strategy.docx" media-type="application/vnd.openxmlformats-officedocument.wordprocessingml.document" spineid="page026" />
+<item title="my record" caption="dvsdvdbdb" data-visibilty="0" id="MjAxNS0wOC0wNlQxMTozNDozNy4zODJa" href="" media-type="[mediatype]" spineid="page026" />
+<item title="my audio" caption="dsvdsvdsv" data-visibilty="0" id="MjAxNS0wOC0wNlQxMTozNTo0MS4yNjha" href="data/contentnote/1437555049131-sanamofficialsanamekladkikodekha.mp3" media-type="audio/mp3" spineid="page026" />
+<item title="my photo" caption="sfsdsdvsdvsdvdsv" data-visibilty="0" id="MjAxNS0wOC0wNlQxMTozNToyNy4zODha" href="data/contentnote/1438677262383-tiger1.jpg" media-type="image/jpeg" spineid="page026" />
+<item title="my video" caption="dsvdsvdsv" data-visibilty="0" id="MjAxNS0wOC0wNlQxMTozNTo1My4xNjVa" href="data/contentnote/1438669783571-H264-content.mp4" media-type="video/mp4" spineid="page026" />
+<item title="fewqw" caption="fwe" data-visibilty="0" id="MjAxNS0wOC0xN1QwNzo0Mjo0MS41NjFa" href="" media-type="[mediatype]" spineid="page026" />
+<item title="my weblink" caption="" data-visibilty="0" id="MjAxNS0wOC0wNlQxMTozNjoyMi45Njda" href="http://www.google.com" media-type="application/hta" spineid="page026" />
+<item title="hh" caption="" data-visibilty="0" id="MjAxNi0wMS0xNVQwMzo0NToyNy4zMjVa" href="data/contentnote/1452829528854-video.mp4" media-type="video/mp4" spineid="page020" />
+<item title="cc" caption="" data-visibilty="0" id="MjAxNi0wMS0xNVQwMzo0MToyNS41NTha" href="data/contentnote/1452829285781-video.mp4" media-type="video/mp4" spineid="page020" />
+<item title="sd" caption="ss" data-visibilty="0" id="MjAxNi0wMS0xNFQxMDoxODowNS40Nzha" href="" media-type="text/contentnote" spineid="page020" />
+<item title="bb" caption="" data-visibilty="0" id="MjAxNi0wMS0xNVQwMzo0MTowNi42MDRa" href="data/contentnote/1452829267780-video.mp4" media-type="video/mp4" spineid="page020" />
+<item title="gf" caption="" data-visibilty="0" id="MjAxNi0wMS0xNVQwNDozMjozMy4xNTJa" href="data/contentnote/1452832353007-video.mp4" media-type="video/mp4" spineid="page020" />
+<item title="ff" caption="" data-visibilty="0" id="MjAxNi0wMS0xNVQwMzo0NDo0NC45NTla" href="data/contentnote/1452829484624-video.mp4" media-type="video/mp4" spineid="page020" />
+<item title="dd" caption="" data-visibilty="0" id="MjAxNi0wMS0xNVQwMzo0MTo0Ny4xNTVa" href="data/contentnote/1452829306496-video.mp4" media-type="video/mp4" spineid="page020" />
+<item title="jj" caption="" data-visibilty="0" id="MjAxNi0wMS0xNVQwMzo0NjoxNS44MDda" href="data/contentnote/1452829571722-video.mp4" media-type="video/mp4" spineid="page020" />
+<item title="gg" caption="" data-visibilty="0" id="MjAxNi0wMS0xNVQwMzo0NTowNC44OTNa" href="data/contentnote/1452829505458-video.mp4" media-type="video/mp4" spineid="page020" />
+<item title="hhg" caption="gh" data-visibilty="0" id="MjAxNi0wMS0xNFQwNzozNzo1MC41MjZa" href="" media-type="text/contentnote" spineid="page020" />
+<item title="ii" caption="" data-visibilty="0" id="MjAxNi0wMS0xNVQwMzo0NTo0OS4yNTBa" href="data/contentnote/1452829547562-video.mp4" media-type="video/mp4" spineid="page020" />
+<item title="aa" caption="" data-visibilty="0" id="MjAxNi0wMS0xNVQwMzo0MDo0Ni44MjVa" href="data/contentnote/1452829244694-video.mp4" media-type="video/mp4" spineid="page020" />
+<item title="uu" caption="fgg" data-visibilty="0" id="MjAxNi0wMS0xNVQwNDoyMjo0Ni4zMDla" href="data/contentnote/1452831773494-Abhinav-Mangla-Elearning2.mp3" media-type="audio/mp3" spineid="page020" />
+<item title="dsfsdfsddf" caption="dzfdzsfsd
+f
+ds
+f
+dsf
+sd
+f
+ds
+fd
+f
+ds
+f
+dsfsdfds
+f
+sdf
+d" data-visibilty="0" id="MjAxNS0wOS0xMVQwOToyMjoyMS41MDFa" href="" media-type="text/contentnote" spineid="page027" />
+<item title="dszgdf" caption="dfzsgbdfgvb" data-visibilty="0" id="MjAxNS0wOC0wNlQxMjo0ODoxMi4xNDda" href="" media-type="[mediatype]" spineid="page027" />
+<item title="de" caption="" data-visibilty="0" id="MjAxNi0wMS0xOFQwODo1ODoxNS44NjFa" href="data/contentnote/1452850665347-video.mp4" media-type="video/mp4" spineid="page011" />
+<item title="Friday" caption="Friday" data-visibilty="0" id="MjAxNS0xMC0yM1QwNjo1MTowMC41MDha" href="data/contentnote/1445241400941-Abhinav-Mangla-Elearning2.mp3" media-type="audio/mp3" spineid="page016" />
+<item title="Friday" caption="Friday" data-visibilty="0" id="MjAxNS0xMC0yM1QwNjo1MToyMS43MDBa" href="data/contentnote/1445241432264-video.mp4" media-type="video/mp4" spineid="page016" />
+<item title="Friday" caption="Friday" data-visibilty="0" id="MjAxNS0xMC0yM1QwNjo1MDozOS4xMTBa" href="" media-type="text/contentnote" spineid="page016" />
+<item title="Friday" caption="Friday" data-visibilty="0" id="MjAxNS0xMC0yM1QwNjo1MDozMi43NDha" href="" media-type="[mediatype]" spineid="page016" />
+<item title="Friday" caption="Friday" data-visibilty="0" id="MjAxNS0xMC0yM1QwNjo1MToxMS4xMDBa" href="data/contentnote/1445238112959-dir.txt" media-type="text/plain" spineid="page016" />
+<item title="Friday" caption="Friday" data-visibilty="0" id="MjAxNS0xMC0yM1QwNjo1MDo1MC4xMDha" href="data/contentnote/1445241351363-20150910.png" media-type="image/png" spineid="page016" />
+<item title="l" caption="" data-visibilty="0" id="MjAxNi0wMS0xOFQwODoxMTozMS4yODha" href="data/contentnote/1452829528854-video.mp4" media-type="video/mp4" spineid="page007" />
+<item title="frwe" caption="ger" data-visibilty="0" id="MjAxNS0wOC0yN1QwNTozMToxOS4zOTha" href="" media-type="[mediatype]" spineid="page007" />
+<item title="audio new" caption="listen and enjoy" data-visibilty="0" id="MjAxNS0wNy0zMFQwNzowNTo0OC4xMzZa" href="data/contentnote/1411816931464-Kalimba.mp3" media-type="audio/mpeg" spineid="page007" />
+<item title="meme" caption="record clear" data-visibilty="0" id="MjAxNS0wNy0zMFQwNzowNToxOC4zODha" href="" media-type="[mediatype]" spineid="page007" />
+<item title="h" caption="" data-visibilty="0" id="MjAxNS0xMS0xNlQwNDo1Njo0MC4xNDda" href="http://www.google.com" media-type="application/hta" spineid="page007" />
+<item title="jj" caption="" data-visibilty="0" id="MjAxNi0wMS0xOFQxMTowODo0Ny42Nzda" href="data/contentnote/1452832353007-video.mp4" media-type="video/mp4" spineid="page005" />
+<item title="My link" caption="" data-visibilty="0" id="MjAxNS0wNy0yOVQwNjoxMDoxOS4zNTla" href="http://www.facebook.com" media-type="application/hta" spineid="page006" />
+<item title="vvv" caption="" data-visibilty="0" id="MjAxNi0wMS0xOFQwNzozODoyMC4zMjNa" href="data/contentnote/1452832353007-video.mp4" media-type="video/mp4" spineid="page006" />
+<item title="gerg" caption="grege" data-visibilty="0" id="MjAxNS0wOC0yN1QwNDoyNDo0NC43OTNa" href="" media-type="text/contentnote" spineid="page006" />
+<item title="My song" caption="listen careful;ly" data-visibilty="0" id="MjAxNS0wNy0yOVQwNjowOTozNS4zMjVa" href="data/contentnote/1427110723295-Abhinav-Mangla-Elearning2.mp3" media-type="audio/mp3" spineid="page006" />
+<item title="hj" caption="" data-visibilty="0" id="MjAxNi0wMS0xNVQwNjozMDo0Mi4yNTNa" href="data/contentnote/1452832353007-video.mp4" media-type="video/mp4" spineid="page006" />
+<item title="title" caption="publish" data-visibilty="0" id="MjAxNS0wNy0yOVQwNzo1Mjo1My45NzBa" href="" media-type="text/contentnote" spineid="page006" />
+<item title="My Text" caption="Brief Notesdvsd" data-visibilty="0" id="MjAxNS0wNy0yOVQwNjowODo0OS42MTBa" href="" media-type="text/contentnote" spineid="page006" />
+<item title="my doc" caption="doc uploaded" data-visibilty="0" id="MjAxNS0wNy0yOVQwNjoxMDowNS42MDBa" href="data/contentnote/1426836237090-BIOZONESamplePages.pdf" media-type="application/pdf" spineid="page006" />
+<item title="My audio recorder" caption="speak" data-visibilty="0" id="MjAxNS0wNy0yOVQwNjowODozMC44ODNa" href="" media-type="[mediatype]" spineid="page006" />
+<item title="hehehehehehehe" caption="gdfgdfgdfgfgdfgdfg" data-visibilty="0" id="MjAxNS0wOS0xMVQwODozODo1Ni44MzNa" href="data/contentnote/1431081794542-A-sample-mov-fileSD.mp4" media-type="video/mp4" spineid="page006" />
+<item title="d" caption="d" data-visibilty="0" id="MjAxNS0xMC0xOVQwNzozNjozMS43MDha" href="" media-type="text/contentnote" spineid="page006" />
+<item title="My Video" caption="" data-visibilty="0" id="MjAxNS0wNy0yOVQwNjowOTo0OC45MjRa" href="data/contentnote/1427110747200-Crazy-Gloucester-Cheese-Rolling-Festival.mp4" media-type="video/mp4" spineid="page006" />
+<item title="My Photo" caption="of a tiger" data-visibilty="0" id="MjAxNS0wNy0yOVQwNjowOToxNS4wNTha" href="data/contentnote/1438075726425-tiger3.jpg" media-type="image/jpeg" spineid="page006" />
+<item title="new doc" caption="uploading" data-visibilty="0" id="MjAxNS0wNy0yOVQwNzowMjowNS40NDVa" href="data/contentnote/1426836237090-BIOZONESamplePages.pdf" media-type="application/pdf" spineid="page006" />
+<item title="ss" caption="ss" data-visibilty="1" id="MjAxNS0xMi0wMlQwNzo0OTo1NS4yNzFa" href="data/contentnote/1438922654033-directions.mp3" media-type="audio/mpeg" spineid="page006" />
+<item title="d" caption="dg" data-visibilty="0" id="MjAxNS0wOC0wNlQxMDoyNjozMy45ODha" href="" media-type="text/contentnote" spineid="page024" />
+<item title="asd" caption="" data-visibilty="0" id="MjAxNS0xMS0yN1QwNzoyMTo1OS41MTJa" href="http://www.gmail.com" media-type="application/hta" spineid="page029" />
+<item title="AAA" caption="" data-visibilty="0" id="MjAxNS0xMS0yN1QwNzoyMTo0OC4yNDRa" href="http://www.google.com" media-type="application/hta" spineid="page029" />
+<item title="hjk" caption="hjk" data-visibilty="0" id="MjAxNS0wOS0xNFQwOToyOTowNy44ODJa" href="" media-type="text/contentnote" spineid="page008" />
+<item title="sd" caption="" data-visibilty="0" id="MjAxNi0wMS0xNVQwNjo1ODowOC4yMTJa" href="data/contentnote/1452829505458-video.mp4" media-type="video/mp4" spineid="page008" />
+<item title="uh" caption="uhi" data-visibilty="0" id="MjAxNS0wOS0xNFQwOToyODo0MS4xNzFa" href="" media-type="text/contentnote" spineid="page001" />
+<item title="k" caption="hj" data-visibilty="0" id="MjAxNS0wOS0xMVQxMTowMToyNy4wNTZa" href="data/contentnote/1409301294288-bbbb.rtf" media-type="application/msword" spineid="page001" />
+</manifest>
+  <spine>
+    <itemref idref="page001">
+    </itemref>
+    <itemref idref="page002">
+    </itemref>
+    <itemref idref="page003">
+    </itemref>
+    <itemref idref="page004">
+    </itemref>
+    <itemref idref="page005">
+    </itemref>
+    <itemref idref="page006">
+    </itemref>
+    <itemref idref="page007">
+    </itemref>
+    <itemref idref="page008">
+    </itemref>
+    <itemref idref="page009">
+    </itemref>
+    <itemref idref="page010">
+    </itemref>
+    <itemref idref="page011">
+    </itemref>
+    <itemref idref="page012">
+    </itemref>
+    <itemref idref="page013">
+    </itemref>
+    <itemref idref="page014">
+    </itemref>
+    <itemref idref="page015">
+    </itemref>
+    <itemref idref="page016">
+    </itemref>
+    <itemref idref="page017">
+    </itemref>
+    <itemref idref="page018">
+    </itemref>
+    <itemref idref="page019">
+    </itemref>
+    <itemref idref="page020">
+    </itemref>
+    <itemref idref="page021">
+    </itemref>
+    <itemref idref="page022">
+    </itemref>
+    <itemref idref="page023">
+    </itemref>
+    <itemref idref="page024">
+    </itemref>
+    <itemref idref="page025">
+    </itemref>
+    <itemref idref="page026">
+    </itemref>
+    <itemref idref="page027">
+    </itemref>
+    <itemref idref="page028">
+    </itemref>
+    <itemref idref="page029">
+    </itemref>
+    <itemref idref="page030">
+    </itemref>
+    <itemref idref="page031">
+    </itemref>
+    <itemref idref="page032">
+    </itemref>
+    <itemref idref="page033">
+    </itemref>
+    <itemref idref="page034">
+    </itemref>
+    <itemref idref="page035">
+    </itemref>
+    <itemref idref="page036">
+    </itemref>
+    <itemref idref="page037">
+    </itemref>
+  </spine>
+</package>

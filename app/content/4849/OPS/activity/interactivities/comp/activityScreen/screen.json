@@ -1,0 +1,155 @@
+{
+	"screens": [
+		{
+			"id": "screen1",
+			"type": "screen",
+			"templateId": "activity_screen",
+			"script": "interactivities/comp/activityScreen/screen",
+			"data": {
+				"styleClass":"contentareasmall"
+			},			
+			"events": [
+				{
+					"allChildAddedInDom": [
+						{
+							"target": "helper",
+							"method": "hidePreloader"
+						}			
+											
+					]	
+				}
+			],
+			"components": [
+				
+				{
+					"id": "audioController",
+					"type": "audio-player",
+					"parentId": "#audioContainer",
+					"data": {
+						"loop": "false",
+						"ui": "false",
+						"source": [
+							{
+								"path": "interactivities/comp/activityScreen/assets/audios/TCM_18352_vocab_directions.mp3",
+								"type": "mp3"
+							}
+						]
+					},
+					"events": [
+						{
+							"audiofinish": [
+								{
+									"target": "helper",
+									"method": "onAudioFinish"
+								}
+							]
+						}
+					]
+				},
+				{
+					"id": "dndComp",
+					"type": "dnd-advance",
+					"parentId": "#dndContainer",
+					"data": {},
+					"events": [
+						{
+							"dndItemDropEvent": [
+								{
+									"target": "helper",
+									"method": "handleDndEvent"
+								}
+							]
+						},
+						{
+							"dndItemDragStartEvent": [
+								{
+									"target": "helper",
+									"method": "handleDragStart"
+								}
+							]
+						}
+						
+						
+					]
+				},
+				{
+					"id": "menu",
+					"type": "button",
+					"parentId": "#menubutton",
+					"state": "attached",
+					"data": {
+						"label": "<< Menu",
+						"styleClass": "actionbtnsback"						
+					},
+					"style": {
+						"cursor": "pointer"
+					},
+					"events": [
+						{
+							"compClick": [
+								{
+									"target": "helper",
+									"method": "exitActivity"									
+								}
+							]
+						}
+					]
+				},
+				{
+					"id": "pbtn",
+					"type": "button",
+					"parentId": "#print",
+					"state": "attached",
+					"data": {
+						"label": "Try Again!",
+						"styleClass": "tryAgainBtn"						
+					},
+					"style": {
+						"cursor": "pointer"
+					},
+					"events": [
+						{
+							"compClick": [
+								{
+									"target": "helper",
+									"method": "tryAaginFunction"									
+								}
+							]
+						}
+					]
+				},
+				{
+					"id": "sumbitBtn",
+					"type": "button",
+					"parentId": "#sumbit",
+					"state": "attached",
+					"data": {
+						"label": "Send",
+						"styleClass": "sumbitBtn"						
+					},
+					"style": {
+						"cursor": "pointer"
+					},
+					"events": [
+						{
+							"compClick": [
+								{
+									"target": "helper",
+									"method": "evaluate"									
+								}
+							]
+						}
+					]
+				},{
+					"id": "correctFeedbackAnim1",
+					"type": "animation-player",
+					"data": {
+						"animationDiv": "#popupfeedback",
+						"spriteWidth": 10830
+					}
+				}	
+						
+			]		
+		}
+	]
+}

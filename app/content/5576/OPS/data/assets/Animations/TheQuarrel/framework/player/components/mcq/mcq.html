@@ -1,0 +1,29 @@
+<!-- question text container -->
+<div id="question_{{ quesId}}" class="questionText">
+    <span>{{ quesLabel}}</span>
+    {{# if(img && img !== ""){ }}
+    <img class="questionImg" src="{{ img }}"/>
+    {{# } }}
+</div>
+<!-- options container -->
+<div id="optContainer_{{ quesId}}" class="optionContainer"></div>
+<!--
+    following div is to display the feedback for question
+-->
+{{# if(isFeedbackAvailable == true){ }}
+	
+<div id="correctFB_{{quesId}}" class="correctFb">
+    <span class="correctFbText">{{correctFeedback.description}}</span>
+    {{# if(correctFeedback.image && correctFeedback.image !== ""){ }}
+    		<img class="correctFbImg" src="{{correctFeedback.image}}" />
+    {{# } }}
+</div>
+
+<div id="incorrectFB_{{quesId}}" class="incorrectFb">
+    <span class="incorrectFbText">{{incorrectFeedback.description}}</span>
+    {{# if(incorrectFeedback.image && incorrectFeedback.image !== ""){ }}
+    		<img class="incorrectFbImg" src="{{incorrectFeedback.image}}" />
+    {{# } }}
+</div>
+
+{{# } }}

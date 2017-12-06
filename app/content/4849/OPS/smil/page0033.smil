@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" version="3.0">
+	<body>
+		<par id="id-1">
+			<text src="../page0033.xhtml#word1"/>
+			<audio clipBegin="0.000000" clipEnd="1.177882" src="../Audio/TCM18362_index1.mp3"/>
+		</par>
+		<par id="id-2">
+			<text src="../page0033.xhtml#word2"/>
+			<audio clipBegin="0.000000" clipEnd="1.773572" src="../Audio/TCM18362_index2.mp3"/>
+		</par>
+		<par id="id-3">
+			<text src="../page0033.xhtml#word3"/>
+			<audio clipBegin="0.000000" clipEnd="1.099161" src="../Audio/TCM18362_index3.mp3"/>
+		</par>
+		<par id="id-4">
+			<text src="../page0033.xhtml#word4"/>
+			<audio clipBegin="0.000000" clipEnd="1.869418" src="../Audio/TCM18362_index4.mp3"/>
+		</par>
+		<par id="id-5">
+			<text src="../page0033.xhtml#word5"/>
+			<audio clipBegin="0.000000" clipEnd="0.965276" src="../Audio/TCM18362_index5.mp3"/>
+		</par>
+		<par id="id-6">
+			<text src="../page0033.xhtml#word6"/>
+			<audio clipBegin="0.000000" clipEnd="1.192253" src="../Audio/TCM18362_index6.mp3"/>
+		</par>
+		<par id="id-7">
+			<text src="../page0033.xhtml#word7"/>
+			<audio clipBegin="0.000000" clipEnd="2.225044" src="../Audio/TCM18362_index7.mp3"/>
+		</par>
+		<par id="id-8">
+			<text src="../page0033.xhtml#word8"/>
+			<audio clipBegin="0.000000" clipEnd="1.946041" src="../Audio/TCM18362_index8.mp3"/>
+		</par>
+		<par id="id-9">
+			<text src="../page0033.xhtml#word9"/>
+			<audio clipBegin="0.000000" clipEnd="3.006454" src="../Audio/TCM18362_index9.mp3"/>
+		</par>
+		<par id="id-10">
+			<text src="../page0033.xhtml#word10"/>
+			<audio clipBegin="0.000000" clipEnd="2.123908" src="../Audio/TCM18362_index10.mp3"/>
+		</par>
+		<par id="id-11">
+			<text src="../page0033.xhtml#word11"/>
+			<audio clipBegin="0.000000" clipEnd="1.868982" src="../Audio/TCM18362_index11.mp3"/>
+		</par>
+		<par id="id-12">
+			<text src="../page0033.xhtml#word12"/>
+			<audio clipBegin="0.000000" clipEnd="2.044641" src="../Audio/TCM18362_index12.mp3"/>
+		</par>
+		<par id="id-13">
+			<text src="../page0033.xhtml#word13"/>
+			<audio clipBegin="0.000000" clipEnd="1.850222" src="../Audio/TCM18362_index13.mp3"/>
+		</par>
+		<par id="id-14">
+			<text src="../page0033.xhtml#word14"/>
+			<audio clipBegin="0.000000" clipEnd="1.949204" src="../Audio/TCM18362_index14.mp3"/>
+		</par>
+		<par id="id-15">
+			<text src="../page0033.xhtml#word15"/>
+			<audio clipBegin="0.000000" clipEnd="1.536916" src="../Audio/TCM18362_index15.mp3"/>
+		</par>
+		<par id="id-16">
+			<text src="../page0033.xhtml#word16"/>
+			<audio clipBegin="0.000000" clipEnd="1.298215" src="../Audio/TCM18362_index16.mp3"/>
+		</par>
+		<par id="id-17">
+			<text src="../page0033.xhtml#word17"/>
+			<audio clipBegin="0.000000" clipEnd="1.438698" src="../Audio/TCM18362_index17.mp3"/>
+		</par>
+		<par id="id-18">
+			<text src="../page0033.xhtml#word18"/>
+			<audio clipBegin="0.000000" clipEnd="2.021480" src="../Audio/TCM18362_index18.mp3"/>
+		</par>
+		<par id="id-19">
+			<text src="../page0033.xhtml#word19"/>
+			<audio clipBegin="0.000000" clipEnd="1.725936" src="../Audio/TCM18362_index19.mp3"/>
+		</par>
+		<par id="id-20">
+			<text src="../page0033.xhtml#word20"/>
+			<audio clipBegin="0.000000" clipEnd="1.915610" src="../Audio/TCM18362_index20.mp3"/>
+		</par>
+		<par id="id-21">
+			<text src="../page0033.xhtml#word21"/>
+			<audio clipBegin="0.000000" clipEnd="1.942905" src="../Audio/TCM18362_index21.mp3"/>
+		</par>
+		<par id="id-22">
+			<text src="../page0031.xhtml#word22"/>
+			<audio clipBegin="0.000000" clipEnd="1.330009" src="../Audio/TCM18362_index22.mp3"/>
+		</par>
+		
+	</body>
+</smil>

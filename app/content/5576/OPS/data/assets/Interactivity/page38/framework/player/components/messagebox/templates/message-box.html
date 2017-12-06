@@ -1,0 +1,14 @@
+<div id="messageBoxTitle" class="MessageBoxTitle">
+	<span>{{ title }}</span>
+</div>
+<div id="messageBoxBody" class="messageBoxBody">
+	<div id="messageBoxContent" class="messageBoxContent">
+		{{ content }}
+	</div>
+	{{# if(!readonly){ }}
+	<textarea rows="8" cols="50" id="messageBoxInput" class="messageBoxInput"> </textarea>
+	<button id="messageBoxOkBtn" class="btn-primary messageBoxOkBtn">
+		Ok
+	</button>
+	{{# } }}
+</div>

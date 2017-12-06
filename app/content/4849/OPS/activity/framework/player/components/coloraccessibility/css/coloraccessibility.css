@@ -1,0 +1,27 @@
+.horizontal {
+	width: 270px !important;
+	min-height: 50px !important;
+}
+
+.vertical {
+	height: auto !important;
+	max-width: 100px !important;
+}
+
+.grayscaleInvertFilter {
+	-webkit-filter: grayscale(100%) invert(100%);
+	-moz-filter: grayscale(100%) invert(100%);
+	-ms-filter: grayscale(100%) invert(100%);
+	-o-filter: grayscale(100%) invert(100%);
+	filter: grayscale(100%) invert(100%);
+	filter: url(svgs/inverted-grayscale-filter.svg#invertedGrayscale); /* Firefox 4+ */
+}
+.grayscaleFilter {
+	-webkit-filter: grayscale(100%);
+	-moz-filter: grayscale(100%);
+	-ms-filter: grayscale(100%);
+	-o-filter: grayscale(100%);
+	filter: grayscale(100%);
+	filter: url(svgs/grayscale-filter.svg#grayscale); /* Firefox 4+ */
+	filter: gray; /* IE 6-9 */
+}

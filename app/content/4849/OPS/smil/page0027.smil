@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" version="3.0">
+	<body>
+		<par id="id-1">
+			<text src="../page0027.xhtml#word1"/>
+			<audio clipBegin="0.000000" clipEnd="3.383921" src="../Audio/TCM18362_bodytext_pg25.mp3"/>
+		</par>
+		<par id="id-2">
+			<text src="../page0027.xhtml#word2"/>
+			<audio clipBegin="3.383921" clipEnd="37.820289" src="../Audio/TCM18362_bodytext_pg25.mp3"/>
+		</par>
+		<par id="id-3">
+			<text src="../page0027.xhtml#word3"/>
+			<audio clipBegin="0.000000" clipEnd="2.436505" src="../Audio/TCM18362_pg25_caption1.mp3"/>
+		</par>
+	</body>
+</smil>

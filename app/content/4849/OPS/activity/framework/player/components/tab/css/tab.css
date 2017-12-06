@@ -1,0 +1,29 @@
+.horizontal {
+	display: inline-block !important;
+	width: auto !important;
+	min-height: 50px !important;
+}
+
+.vertical {
+	display: block !important;
+	height: auto !important;
+	max-width: 100px !important;
+}
+
+.btnActive {
+
+	background-color: #006600;
+}
+
+.disableTab {
+	pointer-events: none;
+	opacity: 0.5;
+}
+
+.verticalBtn {
+	display: block !important;
+}
+
+.horizontalBtn {
+	display: inline-block !important;
+}

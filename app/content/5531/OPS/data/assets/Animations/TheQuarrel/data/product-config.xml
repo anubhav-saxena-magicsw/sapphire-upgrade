@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<product>
+	<playerConfig src="data/mplayer-config.xml"></playerConfig>
+	<activityConfig src="data/activity-config.xml"></activityConfig>
+</product>

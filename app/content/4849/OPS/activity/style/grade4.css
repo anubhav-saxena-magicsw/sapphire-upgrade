@@ -1,0 +1,73 @@
+.wrapper {
+    border: 3px solid #bed630 !important;
+    box-shadow: 0 0 1px 1px #bed630 !important;
+}
+#feedbackHead {
+    background: none repeat scroll 0 0 #bed630 !important;
+    border: 1px solid #bed630 !important;
+}
+#head {
+    background: none repeat scroll 0 0 #bed630 !important;
+}
+#heading {
+    background: none repeat scroll 0 0 #bed630 !important;
+}
+.feedbackContainer {
+    border: 1px solid #bed630 !important;
+}
+#next {
+    background-color: #bed630 !important;
+}
+#back {
+    background-color: #bed630 !important;
+}
+.wrapper_screen1 {
+    box-shadow: 0px 0px 1px 1px #bed630 !important;
+    border: 3px solid #bed630 !important;
+}
+#reset{
+	background: none repeat scroll 0 0 #bed630 !important;
+}
+.reset{
+	background: none repeat scroll 0 0 #bed630 !important;
+}
+#replay{
+	background: none repeat scroll 0 0 #bed630 !important;
+}
+#show_answer{
+	background: none repeat scroll 0 0 #bed630 !important;
+}
+#showfeedback{
+	background: none repeat scroll 0 0 #bed630 !important;
+}
+.showfeedback{
+	background: none repeat scroll 0 0 #bed630 !important;
+}
+#heading{
+	background: none repeat scroll 0 0 #bed630 !important;
+}
+#dndWidgetTmpl{
+    box-shadow: 0px 0px 1px 1px #bed630 !important;
+    border: 3px solid #bed630 !important;
+}
+.buttonStyle {
+	background-color: #bed630 !important;
+}
+.ques{
+	background: none repeat scroll 0 0 #bed630 !important;
+}
+#quesText{
+	background: none repeat scroll 0 0 #bed630 !important;
+}
+.response {
+    background-color: #bed630 !important;
+}
+#btnPrevious {
+	background-color: #bed630 !important;
+}
+#btnNext {
+	background-color: #bed630 !important;
+}
+.btn {
+    background: none repeat scroll 0 0 #bed630 !important;
+}

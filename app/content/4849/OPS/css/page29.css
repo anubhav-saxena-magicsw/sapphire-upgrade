@@ -1,0 +1,27 @@
+#videoplayer
+{
+position: absolute;
+width: inherit;
+height: inherit;
+}
+.closebutton {
+background: url("../images/close1.png") no-repeat scroll 0 0 transparent;
+bottom: 9px;
+left: 35px;
+cursor: pointer;
+float: right;
+height: 43px;
+position: relative;
+width: 43px;
+z-index: 100;
+}
+#videocontainer{
+top: 257px;
+left: 133px;
+width: 500px;
+height: 375px;
+position: absolute;
+display: none;
+border: solid 4px;
+border-radius: 5px;
+}

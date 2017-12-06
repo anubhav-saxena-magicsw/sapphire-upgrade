@@ -1,0 +1,97 @@
+.horizontal {
+	display: inline-block !important;
+	width: auto !important;
+	min-height: 50px !important;
+}
+
+.vertical {
+	display: block !important;
+	height: auto !important;
+	max-width: 100px !important;
+}
+
+.btnActive {
+
+	background-color: #006600 !important;
+}
+
+.disableTab {
+	pointer-events: none;
+	opacity: 0.5;
+}
+
+.verticalBtn {
+	display: block !important;
+}
+
+.horizontalBtn {
+	display: inline-block !important;
+}
+
+.card.flippedVertical {
+	-webkit-transform: rotatex(-180deg);
+	-moz-transform: rotatex(-180deg);
+	transform: rotatex(-180deg);
+}
+
+.card.flippedHorizontal {
+	-webkit-transform: rotatey(-180deg);
+	-moz-transform: rotatey(-180deg);
+	transform: rotatey(-180deg);
+}
+
+.card {
+	-webkit-transform-style: preserve-3d;
+	-webkit-transition: 0.5s;
+	-moz-transform-style: preserve-3d;
+	-moz-transition: 0.5s;
+	transform-style: preserve-3d;
+	transition: 0.5s;
+}
+
+.frontflipcard {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	pointer-events: none;
+	-webkit-backface-visibility: hidden;
+	-moz-backface-visibility: hidden;
+	backface-visibility: hidden;
+	cursor: pointer;
+	z-index:1;
+	
+}
+
+.backflipcardHorizontal {
+	-webkit-transform: rotatey(-180deg);
+	-moz-transform: rotatey(-180deg);
+	transform: rotatey(-180deg);
+	top: 0px;
+	left: 0px;
+	pointer-events: none;
+	position: absolute;
+	-webkit-backface-visibility: hidden;
+	backface-visibility: hidden;
+	cursor: pointer;
+}
+
+.backflipcardVertical {
+	-webkit-transform: rotatex(-180deg);
+	-moz-transform: rotatex(-180deg);
+	transform: rotatex(-180deg);
+	top: 0px;
+	left: 0px;
+	pointer-events: none;
+	position: absolute;
+	-webkit-backface-visibility: hidden;
+	backface-visibility: hidden;
+	cursor: pointer;
+}
+
+.disableflipcard {
+	pointer-events: none;
+	opacity: 0.5;
+}
+
+
+

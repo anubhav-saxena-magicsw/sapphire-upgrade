@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem>
+<videoTags>
+   <videoTag mediaPage="7">
+            <video id="videoplayer" controls="controls" name="media">
+				<source src="videos/Valles_Marineris_Fly_Through-1.mp4" type="video/mp4" />
+			</video>
+   </videoTag>
+</videoTags>
+
+</assessmentItem>

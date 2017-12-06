@@ -1,0 +1,1651 @@
+@font-face {
+	font-family:f38generic;
+	src:url(../fonts/f38.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f39generic;
+	src:url(../fonts/f39.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f40generic;
+	src:url(../fonts/f40.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f43generic;
+	src:url(../fonts/f43.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f42generic;
+	src:url(../fonts/f42.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f45generic;
+	src:url(../fonts/f45.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f44generic;
+	src:url(../fonts/f44.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f12generic;
+	src:url(../fonts/f12.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f13generic;
+	src:url(../fonts/f13.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f14generic;
+	src:url(../fonts/f14.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f15generic;
+	src:url(../fonts/f15.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f18generic;
+	src:url(../fonts/f18.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f19generic;
+	src:url(../fonts/f19.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f20generic;
+	src:url(../fonts/f20.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f21generic;
+	src:url(../fonts/f21.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f23generic;
+	src:url(../fonts/f23.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f24generic;
+	src:url(../fonts/f24.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f25generic;
+	src:url(../fonts/f25.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f26generic;
+	src:url(../fonts/f26.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f27generic;
+	src:url(../fonts/f27.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f28generic;
+	src:url(../fonts/f28.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f29generic;
+	src:url(../fonts/f29.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f30generic;
+	src:url(../fonts/f30.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f31generic;
+	src:url(../fonts/f31.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f32generic;
+	src:url(../fonts/f32.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f33generic;
+	src:url(../fonts/f33.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f35generic;
+	src:url(../fonts/f35.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f36generic;
+	src:url(../fonts/f36.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f37generic;
+	src:url(../fonts/f37.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f46generic;
+	src:url(../fonts/f46.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f47generic;
+	src:url(../fonts/f47.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f48generic;
+	src:url(../fonts/f48.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f49generic;
+	src:url(../fonts/f49.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f50generic;
+	src:url(../fonts/f50.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f53generic;
+	src:url(../fonts/f53.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f51generic;
+	src:url(../fonts/f51.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f52generic;
+	src:url(../fonts/f52.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f54generic;
+	src:url(../fonts/f54.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f55generic;
+	src:url(../fonts/f55.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f57generic;
+	src:url(../fonts/f57.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f58generic;
+	src:url(../fonts/f58.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f59generic;
+	src:url(../fonts/f59.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f60generic;
+	src:url(../fonts/f60.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f61generic;
+	src:url(../fonts/f61.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f62generic;
+	src:url(../fonts/f62.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f63generic;
+	src:url(../fonts/f63.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f64generic;
+	src:url(../fonts/f64.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f65generic;
+	src:url(../fonts/f65.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f66generic;
+	src:url(../fonts/f66.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f67generic;
+	src:url(../fonts/f67.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f68generic;
+	src:url(../fonts/f68.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f69generic;
+	src:url(../fonts/f69.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f73generic;
+	src:url(../fonts/f73.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f70generic;
+	src:url(../fonts/f70.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f71generic;
+	src:url(../fonts/f71.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f72generic;
+	src:url(../fonts/f72.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f74generic;
+	src:url(../fonts/f74.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f76generic;
+	src:url(../fonts/f76.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f77generic;
+	src:url(../fonts/f77.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f78generic;
+	src:url(../fonts/f78.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f79generic;
+	src:url(../fonts/f79.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f80generic;
+	src:url(../fonts/f80.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f81generic;
+	src:url(../fonts/f81.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f82generic;
+	src:url(../fonts/f82.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f83generic;
+	src:url(../fonts/f83.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f84generic;
+	src:url(../fonts/f84.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f85generic;
+	src:url(../fonts/f85.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f0generic;
+	src:url(../fonts/f0.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f1generic;
+	src:url(../fonts/f1.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f2generic;
+	src:url(../fonts/f2.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f89generic;
+	src:url(../fonts/f89.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f5generic;
+	src:url(../fonts/f5.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f4generic;
+	src:url(../fonts/f4.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f3generic;
+	src:url(../fonts/f3.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f11generic;
+	src:url(../fonts/f11.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f9generic;
+	src:url(../fonts/f9.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f8generic;
+	src:url(../fonts/f8.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f7generic;
+	src:url(../fonts/f7.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f16generic;
+	src:url(../fonts/f16.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f6generic;
+	src:url(../fonts/f6.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f10generic;
+	src:url(../fonts/f10.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f17generic;
+	src:url(../fonts/f17.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f22generic;
+	src:url(../fonts/f22.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f41generic;
+	src:url(../fonts/f41.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f34generic;
+	src:url(../fonts/f34.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f56generic;
+	src:url(../fonts/f56.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f75generic;
+	src:url(../fonts/f75.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f87generic;
+	src:url(../fonts/f87.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f86generic;
+	src:url(../fonts/f86.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f88generic;
+	src:url(../fonts/f88.otf) format("opentype");
+}
+.PageContainer {
+	overflow:hidden;
+	background-color:#FFFFFF;
+}
+
+
+.s0 {
+	
+	position:absolute;
+	display:inline-block;
+}
+
+.s1 {
+	border:0;
+	margin:0;
+	
+	position:absolute;
+	display:block;
+}
+
+.trn_link {
+	background-image:url('data:image/gif;base64,R0lGODlhAQABAPAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICR??AEAOw==');
+	position:absolute;
+}
+
+.l2 { line-height:1.00; }
+
+.l0 { line-height:1.00; }
+
+.l1 { line-height:1.00; }
+
+.l4 { line-height:1.00; }
+
+.l3 { line-height:1.02; }
+
+.fs17 {font-size:10.1px; }
+
+.fs10 {font-size:10.4px; }
+
+.fs9 {font-size:12.1px; }
+
+.fs11 {font-size:13px; }
+
+.fs8 {font-size:13.9px; }
+
+.fs7 {font-size:15.6px; }
+
+.fs0 {font-size:17.3px; }
+
+.fs16 {font-size:19.1px; }
+
+.fs13 {font-size:20.8px; }
+
+.fs18 {font-size:21.7px; }
+
+.fs12 {font-size:22.5px; }
+
+.fs6 {font-size:24.3px; }
+
+.fs3 {font-size:27.8px; }
+
+.fs15 {font-size:31.2px; }
+
+.fs4 {font-size:34.7px; }
+
+.fs5 {font-size:36.9px; }
+
+.fs1 {font-size:43.4px; }
+
+.fs14 {font-size:48.6px; }
+
+.fs19 {font-size:52px; }
+
+.fs2 {font-size:54.2px; }
+
+.t0 {
+	-webkit-transform:matrix(0.000000, 1.000000, -1.000000, 0.000000, 0.000000, 0.000000);
+	-o-transform:matrix(0.000000, 1.000000, -1.000000, 0.000000, 0.000000, 0.000000);
+	-ms-transform:matrix(0.000000, 1.000000, -1.000000, 0.000000, 0.000000, 0.000000);
+	-moz-transform:matrix(0.000000, 1.000000, -1.000000, 0.000000, 0.000000, 0.000000);
+	transform:matrix(0.000000, 1.000000, -1.000000, 0.000000, 0.000000, 0.000000);
+}
+
+.t38 {
+	-webkit-transform:matrix(0.819378, -0.151863, 0.212608, 1.147131, 0.000000, 0.000000);
+	-o-transform:matrix(0.819378, -0.151863, 0.212608, 1.147131, 0.000000, 0.000000);
+	-ms-transform:matrix(0.819378, -0.151863, 0.212608, 1.147131, 0.000000, 0.000000);
+	-moz-transform:matrix(0.819378, -0.151863, 0.212608, 1.147131, 0.000000, 0.000000);
+	transform:matrix(0.819378, -0.151863, 0.212608, 1.147131, 0.000000, 0.000000);
+}
+
+.t16 {
+	-webkit-transform:matrix(0.819379, -0.151863, 0.212608, 1.147131, 0.000000, 0.000000);
+	-o-transform:matrix(0.819379, -0.151863, 0.212608, 1.147131, 0.000000, 0.000000);
+	-ms-transform:matrix(0.819379, -0.151863, 0.212608, 1.147131, 0.000000, 0.000000);
+	-moz-transform:matrix(0.819379, -0.151863, 0.212608, 1.147131, 0.000000, 0.000000);
+	transform:matrix(0.819379, -0.151863, 0.212608, 1.147131, 0.000000, 0.000000);
+}
+
+.t65 {
+	-webkit-transform:matrix(0.819380, -0.151863, 0.212610, 1.147130, 0.000000, 0.000000);
+	-o-transform:matrix(0.819380, -0.151863, 0.212610, 1.147130, 0.000000, 0.000000);
+	-ms-transform:matrix(0.819380, -0.151863, 0.212610, 1.147130, 0.000000, 0.000000);
+	-moz-transform:matrix(0.819380, -0.151863, 0.212610, 1.147130, 0.000000, 0.000000);
+	transform:matrix(0.819380, -0.151863, 0.212610, 1.147130, 0.000000, 0.000000);
+}
+
+.t71 {
+	-webkit-transform:matrix(0.831779, -0.050873, 0.071224, 1.164491, 0.000000, 0.000000);
+	-o-transform:matrix(0.831779, -0.050873, 0.071224, 1.164491, 0.000000, 0.000000);
+	-ms-transform:matrix(0.831779, -0.050873, 0.071224, 1.164491, 0.000000, 0.000000);
+	-moz-transform:matrix(0.831779, -0.050873, 0.071224, 1.164491, 0.000000, 0.000000);
+	transform:matrix(0.831779, -0.050873, 0.071224, 1.164491, 0.000000, 0.000000);
+}
+
+.t22 {
+	-webkit-transform:matrix(0.831779, -0.050874, 0.071223, 1.164491, 0.000000, 0.000000);
+	-o-transform:matrix(0.831779, -0.050874, 0.071223, 1.164491, 0.000000, 0.000000);
+	-ms-transform:matrix(0.831779, -0.050874, 0.071223, 1.164491, 0.000000, 0.000000);
+	-moz-transform:matrix(0.831779, -0.050874, 0.071223, 1.164491, 0.000000, 0.000000);
+	transform:matrix(0.831779, -0.050874, 0.071223, 1.164491, 0.000000, 0.000000);
+}
+
+.t44 {
+	-webkit-transform:matrix(0.831779, -0.050873, 0.071223, 1.164490, 0.000000, 0.000000);
+	-o-transform:matrix(0.831779, -0.050873, 0.071223, 1.164490, 0.000000, 0.000000);
+	-ms-transform:matrix(0.831779, -0.050873, 0.071223, 1.164490, 0.000000, 0.000000);
+	-moz-transform:matrix(0.831779, -0.050873, 0.071223, 1.164490, 0.000000, 0.000000);
+	transform:matrix(0.831779, -0.050873, 0.071223, 1.164490, 0.000000, 0.000000);
+}
+
+.t18 {
+	-webkit-transform:matrix(0.833206, 0.014544, -0.020361, 1.166489, 0.000000, 0.000000);
+	-o-transform:matrix(0.833206, 0.014544, -0.020361, 1.166489, 0.000000, 0.000000);
+	-ms-transform:matrix(0.833206, 0.014544, -0.020361, 1.166489, 0.000000, 0.000000);
+	-moz-transform:matrix(0.833206, 0.014544, -0.020361, 1.166489, 0.000000, 0.000000);
+	transform:matrix(0.833206, 0.014544, -0.020361, 1.166489, 0.000000, 0.000000);
+}
+
+.t42 {
+	-webkit-transform:matrix(0.833206, 0.014544, -0.020362, 1.166489, 0.000000, 0.000000);
+	-o-transform:matrix(0.833206, 0.014544, -0.020362, 1.166489, 0.000000, 0.000000);
+	-ms-transform:matrix(0.833206, 0.014544, -0.020362, 1.166489, 0.000000, 0.000000);
+	-moz-transform:matrix(0.833206, 0.014544, -0.020362, 1.166489, 0.000000, 0.000000);
+	transform:matrix(0.833206, 0.014544, -0.020362, 1.166489, 0.000000, 0.000000);
+}
+
+.t67 {
+	-webkit-transform:matrix(0.833207, 0.014542, -0.020361, 1.166489, 0.000000, 0.000000);
+	-o-transform:matrix(0.833207, 0.014542, -0.020361, 1.166489, 0.000000, 0.000000);
+	-ms-transform:matrix(0.833207, 0.014542, -0.020361, 1.166489, 0.000000, 0.000000);
+	-moz-transform:matrix(0.833207, 0.014542, -0.020361, 1.166489, 0.000000, 0.000000);
+	transform:matrix(0.833207, 0.014542, -0.020361, 1.166489, 0.000000, 0.000000);
+}
+
+.t40 {
+	-webkit-transform:matrix(0.833207, 0.014544, -0.020362, 1.166489, 0.000000, 0.000000);
+	-o-transform:matrix(0.833207, 0.014544, -0.020362, 1.166489, 0.000000, 0.000000);
+	-ms-transform:matrix(0.833207, 0.014544, -0.020362, 1.166489, 0.000000, 0.000000);
+	-moz-transform:matrix(0.833207, 0.014544, -0.020362, 1.166489, 0.000000, 0.000000);
+	transform:matrix(0.833207, 0.014544, -0.020362, 1.166489, 0.000000, 0.000000);
+}
+
+.t69 {
+	-webkit-transform:matrix(0.833207, 0.014543, -0.020362, 1.166488, 0.000000, 0.000000);
+	-o-transform:matrix(0.833207, 0.014543, -0.020362, 1.166488, 0.000000, 0.000000);
+	-ms-transform:matrix(0.833207, 0.014543, -0.020362, 1.166488, 0.000000, 0.000000);
+	-moz-transform:matrix(0.833207, 0.014543, -0.020362, 1.166488, 0.000000, 0.000000);
+	transform:matrix(0.833207, 0.014543, -0.020362, 1.166488, 0.000000, 0.000000);
+}
+
+.t20 {
+	-webkit-transform:matrix(0.833207, 0.014543, -0.020361, 1.166489, 0.000000, 0.000000);
+	-o-transform:matrix(0.833207, 0.014543, -0.020361, 1.166489, 0.000000, 0.000000);
+	-ms-transform:matrix(0.833207, 0.014543, -0.020361, 1.166489, 0.000000, 0.000000);
+	-moz-transform:matrix(0.833207, 0.014543, -0.020361, 1.166489, 0.000000, 0.000000);
+	transform:matrix(0.833207, 0.014543, -0.020361, 1.166489, 0.000000, 0.000000);
+}
+
+.t9 {
+	-webkit-transform:matrix(0.991807, -0.127744, 0.127744, 0.991807, 0.000000, 0.000000);
+	-o-transform:matrix(0.991807, -0.127744, 0.127744, 0.991807, 0.000000, 0.000000);
+	-ms-transform:matrix(0.991807, -0.127744, 0.127744, 0.991807, 0.000000, 0.000000);
+	-moz-transform:matrix(0.991807, -0.127744, 0.127744, 0.991807, 0.000000, 0.000000);
+	transform:matrix(0.991807, -0.127744, 0.127744, 0.991807, 0.000000, 0.000000);
+}
+
+.t8 {
+	-webkit-transform:matrix(0.991861, -0.127324, 0.127324, 0.991861, 0.000000, 0.000000);
+	-o-transform:matrix(0.991861, -0.127324, 0.127324, 0.991861, 0.000000, 0.000000);
+	-ms-transform:matrix(0.991861, -0.127324, 0.127324, 0.991861, 0.000000, 0.000000);
+	-moz-transform:matrix(0.991861, -0.127324, 0.127324, 0.991861, 0.000000, 0.000000);
+	transform:matrix(0.991861, -0.127324, 0.127324, 0.991861, 0.000000, 0.000000);
+}
+
+.t7 {
+	-webkit-transform:matrix(0.991907, -0.126964, 0.126964, 0.991907, 0.000000, 0.000000);
+	-o-transform:matrix(0.991907, -0.126964, 0.126964, 0.991907, 0.000000, 0.000000);
+	-ms-transform:matrix(0.991907, -0.126964, 0.126964, 0.991907, 0.000000, 0.000000);
+	-moz-transform:matrix(0.991907, -0.126964, 0.126964, 0.991907, 0.000000, 0.000000);
+	transform:matrix(0.991907, -0.126964, 0.126964, 0.991907, 0.000000, 0.000000);
+}
+
+.t6 {
+	-webkit-transform:matrix(0.991952, -0.126616, 0.126616, 0.991952, 0.000000, 0.000000);
+	-o-transform:matrix(0.991952, -0.126616, 0.126616, 0.991952, 0.000000, 0.000000);
+	-ms-transform:matrix(0.991952, -0.126616, 0.126616, 0.991952, 0.000000, 0.000000);
+	-moz-transform:matrix(0.991952, -0.126616, 0.126616, 0.991952, 0.000000, 0.000000);
+	transform:matrix(0.991952, -0.126616, 0.126616, 0.991952, 0.000000, 0.000000);
+}
+
+.t5 {
+	-webkit-transform:matrix(0.991987, -0.126340, 0.126340, 0.991987, 0.000000, 0.000000);
+	-o-transform:matrix(0.991987, -0.126340, 0.126340, 0.991987, 0.000000, 0.000000);
+	-ms-transform:matrix(0.991987, -0.126340, 0.126340, 0.991987, 0.000000, 0.000000);
+	-moz-transform:matrix(0.991987, -0.126340, 0.126340, 0.991987, 0.000000, 0.000000);
+	transform:matrix(0.991987, -0.126340, 0.126340, 0.991987, 0.000000, 0.000000);
+}
+
+.t4 {
+	-webkit-transform:matrix(0.992021, -0.126072, 0.126072, 0.992021, 0.000000, 0.000000);
+	-o-transform:matrix(0.992021, -0.126072, 0.126072, 0.992021, 0.000000, 0.000000);
+	-ms-transform:matrix(0.992021, -0.126072, 0.126072, 0.992021, 0.000000, 0.000000);
+	-moz-transform:matrix(0.992021, -0.126072, 0.126072, 0.992021, 0.000000, 0.000000);
+	transform:matrix(0.992021, -0.126072, 0.126072, 0.992021, 0.000000, 0.000000);
+}
+
+.t3 {
+	-webkit-transform:matrix(0.992057, -0.125788, 0.125788, 0.992057, 0.000000, 0.000000);
+	-o-transform:matrix(0.992057, -0.125788, 0.125788, 0.992057, 0.000000, 0.000000);
+	-ms-transform:matrix(0.992057, -0.125788, 0.125788, 0.992057, 0.000000, 0.000000);
+	-moz-transform:matrix(0.992057, -0.125788, 0.125788, 0.992057, 0.000000, 0.000000);
+	transform:matrix(0.992057, -0.125788, 0.125788, 0.992057, 0.000000, 0.000000);
+}
+
+.t2 {
+	-webkit-transform:matrix(0.992093, -0.125504, 0.125504, 0.992093, 0.000000, 0.000000);
+	-o-transform:matrix(0.992093, -0.125504, 0.125504, 0.992093, 0.000000, 0.000000);
+	-ms-transform:matrix(0.992093, -0.125504, 0.125504, 0.992093, 0.000000, 0.000000);
+	-moz-transform:matrix(0.992093, -0.125504, 0.125504, 0.992093, 0.000000, 0.000000);
+	transform:matrix(0.992093, -0.125504, 0.125504, 0.992093, 0.000000, 0.000000);
+}
+
+.t1 {
+	-webkit-transform:matrix(0.992140, -0.125132, 0.125132, 0.992140, 0.000000, 0.000000);
+	-o-transform:matrix(0.992140, -0.125132, 0.125132, 0.992140, 0.000000, 0.000000);
+	-ms-transform:matrix(0.992140, -0.125132, 0.125132, 0.992140, 0.000000, 0.000000);
+	-moz-transform:matrix(0.992140, -0.125132, 0.125132, 0.992140, 0.000000, 0.000000);
+	transform:matrix(0.992140, -0.125132, 0.125132, 0.992140, 0.000000, 0.000000);
+}
+
+.t10 {
+	-webkit-transform:matrix(0.994014, -0.109256, 0.109256, 0.994014, 0.000000, 0.000000);
+	-o-transform:matrix(0.994014, -0.109256, 0.109256, 0.994014, 0.000000, 0.000000);
+	-ms-transform:matrix(0.994014, -0.109256, 0.109256, 0.994014, 0.000000, 0.000000);
+	-moz-transform:matrix(0.994014, -0.109256, 0.109256, 0.994014, 0.000000, 0.000000);
+	transform:matrix(0.994014, -0.109256, 0.109256, 0.994014, 0.000000, 0.000000);
+}
+
+.t11 {
+	-webkit-transform:matrix(0.995489, -0.094880, 0.094880, 0.995489, 0.000000, 0.000000);
+	-o-transform:matrix(0.995489, -0.094880, 0.094880, 0.995489, 0.000000, 0.000000);
+	-ms-transform:matrix(0.995489, -0.094880, 0.094880, 0.995489, 0.000000, 0.000000);
+	-moz-transform:matrix(0.995489, -0.094880, 0.094880, 0.995489, 0.000000, 0.000000);
+	transform:matrix(0.995489, -0.094880, 0.094880, 0.995489, 0.000000, 0.000000);
+}
+
+.t12 {
+	-webkit-transform:matrix(0.996076, -0.088500, 0.088500, 0.996076, 0.000000, 0.000000);
+	-o-transform:matrix(0.996076, -0.088500, 0.088500, 0.996076, 0.000000, 0.000000);
+	-ms-transform:matrix(0.996076, -0.088500, 0.088500, 0.996076, 0.000000, 0.000000);
+	-moz-transform:matrix(0.996076, -0.088500, 0.088500, 0.996076, 0.000000, 0.000000);
+	transform:matrix(0.996076, -0.088500, 0.088500, 0.996076, 0.000000, 0.000000);
+}
+
+.t31 {
+	-webkit-transform:matrix(0.996433, -0.084386, 0.084386, 0.996433, 0.000000, 0.000000);
+	-o-transform:matrix(0.996433, -0.084386, 0.084386, 0.996433, 0.000000, 0.000000);
+	-ms-transform:matrix(0.996433, -0.084386, 0.084386, 0.996433, 0.000000, 0.000000);
+	-moz-transform:matrix(0.996433, -0.084386, 0.084386, 0.996433, 0.000000, 0.000000);
+	transform:matrix(0.996433, -0.084386, 0.084386, 0.996433, 0.000000, 0.000000);
+}
+
+.t59 {
+	-webkit-transform:matrix(0.996433, -0.084384, 0.084384, 0.996433, 0.000000, 0.000000);
+	-o-transform:matrix(0.996433, -0.084384, 0.084384, 0.996433, 0.000000, 0.000000);
+	-ms-transform:matrix(0.996433, -0.084384, 0.084384, 0.996433, 0.000000, 0.000000);
+	-moz-transform:matrix(0.996433, -0.084384, 0.084384, 0.996433, 0.000000, 0.000000);
+	transform:matrix(0.996433, -0.084384, 0.084384, 0.996433, 0.000000, 0.000000);
+}
+
+.t30 {
+	-webkit-transform:matrix(0.996472, -0.083920, 0.083920, 0.996472, 0.000000, 0.000000);
+	-o-transform:matrix(0.996472, -0.083920, 0.083920, 0.996472, 0.000000, 0.000000);
+	-ms-transform:matrix(0.996472, -0.083920, 0.083920, 0.996472, 0.000000, 0.000000);
+	-moz-transform:matrix(0.996472, -0.083920, 0.083920, 0.996472, 0.000000, 0.000000);
+	transform:matrix(0.996472, -0.083920, 0.083920, 0.996472, 0.000000, 0.000000);
+}
+
+.t58 {
+	-webkit-transform:matrix(0.996472, -0.083920, 0.083920, 0.996472, 0.000000, 0.000000);
+	-o-transform:matrix(0.996472, -0.083920, 0.083920, 0.996472, 0.000000, 0.000000);
+	-ms-transform:matrix(0.996472, -0.083920, 0.083920, 0.996472, 0.000000, 0.000000);
+	-moz-transform:matrix(0.996472, -0.083920, 0.083920, 0.996472, 0.000000, 0.000000);
+	transform:matrix(0.996472, -0.083920, 0.083920, 0.996472, 0.000000, 0.000000);
+}
+
+.t57 {
+	-webkit-transform:matrix(0.996499, -0.083600, 0.083600, 0.996499, 0.000000, 0.000000);
+	-o-transform:matrix(0.996499, -0.083600, 0.083600, 0.996499, 0.000000, 0.000000);
+	-ms-transform:matrix(0.996499, -0.083600, 0.083600, 0.996499, 0.000000, 0.000000);
+	-moz-transform:matrix(0.996499, -0.083600, 0.083600, 0.996499, 0.000000, 0.000000);
+	transform:matrix(0.996499, -0.083600, 0.083600, 0.996499, 0.000000, 0.000000);
+}
+
+.t29 {
+	-webkit-transform:matrix(0.996500, -0.083595, 0.083595, 0.996500, 0.000000, 0.000000);
+	-o-transform:matrix(0.996500, -0.083595, 0.083595, 0.996500, 0.000000, 0.000000);
+	-ms-transform:matrix(0.996500, -0.083595, 0.083595, 0.996500, 0.000000, 0.000000);
+	-moz-transform:matrix(0.996500, -0.083595, 0.083595, 0.996500, 0.000000, 0.000000);
+	transform:matrix(0.996500, -0.083595, 0.083595, 0.996500, 0.000000, 0.000000);
+}
+
+.t28 {
+	-webkit-transform:matrix(0.996529, -0.083242, 0.083242, 0.996529, 0.000000, 0.000000);
+	-o-transform:matrix(0.996529, -0.083242, 0.083242, 0.996529, 0.000000, 0.000000);
+	-ms-transform:matrix(0.996529, -0.083242, 0.083242, 0.996529, 0.000000, 0.000000);
+	-moz-transform:matrix(0.996529, -0.083242, 0.083242, 0.996529, 0.000000, 0.000000);
+	transform:matrix(0.996529, -0.083242, 0.083242, 0.996529, 0.000000, 0.000000);
+}
+
+.t56 {
+	-webkit-transform:matrix(0.996530, -0.083240, 0.083240, 0.996530, 0.000000, 0.000000);
+	-o-transform:matrix(0.996530, -0.083240, 0.083240, 0.996530, 0.000000, 0.000000);
+	-ms-transform:matrix(0.996530, -0.083240, 0.083240, 0.996530, 0.000000, 0.000000);
+	-moz-transform:matrix(0.996530, -0.083240, 0.083240, 0.996530, 0.000000, 0.000000);
+	transform:matrix(0.996530, -0.083240, 0.083240, 0.996530, 0.000000, 0.000000);
+}
+
+.t27 {
+	-webkit-transform:matrix(0.996555, -0.082936, 0.082936, 0.996555, 0.000000, 0.000000);
+	-o-transform:matrix(0.996555, -0.082936, 0.082936, 0.996555, 0.000000, 0.000000);
+	-ms-transform:matrix(0.996555, -0.082936, 0.082936, 0.996555, 0.000000, 0.000000);
+	-moz-transform:matrix(0.996555, -0.082936, 0.082936, 0.996555, 0.000000, 0.000000);
+	transform:matrix(0.996555, -0.082936, 0.082936, 0.996555, 0.000000, 0.000000);
+}
+
+.t55 {
+	-webkit-transform:matrix(0.996555, -0.082936, 0.082936, 0.996555, 0.000000, 0.000000);
+	-o-transform:matrix(0.996555, -0.082936, 0.082936, 0.996555, 0.000000, 0.000000);
+	-ms-transform:matrix(0.996555, -0.082936, 0.082936, 0.996555, 0.000000, 0.000000);
+	-moz-transform:matrix(0.996555, -0.082936, 0.082936, 0.996555, 0.000000, 0.000000);
+	transform:matrix(0.996555, -0.082936, 0.082936, 0.996555, 0.000000, 0.000000);
+}
+
+.t26 {
+	-webkit-transform:matrix(0.996577, -0.082668, 0.082668, 0.996577, 0.000000, 0.000000);
+	-o-transform:matrix(0.996577, -0.082668, 0.082668, 0.996577, 0.000000, 0.000000);
+	-ms-transform:matrix(0.996577, -0.082668, 0.082668, 0.996577, 0.000000, 0.000000);
+	-moz-transform:matrix(0.996577, -0.082668, 0.082668, 0.996577, 0.000000, 0.000000);
+	transform:matrix(0.996577, -0.082668, 0.082668, 0.996577, 0.000000, 0.000000);
+}
+
+.t54 {
+	-webkit-transform:matrix(0.996577, -0.082664, 0.082664, 0.996577, 0.000000, 0.000000);
+	-o-transform:matrix(0.996577, -0.082664, 0.082664, 0.996577, 0.000000, 0.000000);
+	-ms-transform:matrix(0.996577, -0.082664, 0.082664, 0.996577, 0.000000, 0.000000);
+	-moz-transform:matrix(0.996577, -0.082664, 0.082664, 0.996577, 0.000000, 0.000000);
+	transform:matrix(0.996577, -0.082664, 0.082664, 0.996577, 0.000000, 0.000000);
+}
+
+.t25 {
+	-webkit-transform:matrix(0.996601, -0.082386, 0.082386, 0.996601, 0.000000, 0.000000);
+	-o-transform:matrix(0.996601, -0.082386, 0.082386, 0.996601, 0.000000, 0.000000);
+	-ms-transform:matrix(0.996601, -0.082386, 0.082386, 0.996601, 0.000000, 0.000000);
+	-moz-transform:matrix(0.996601, -0.082386, 0.082386, 0.996601, 0.000000, 0.000000);
+	transform:matrix(0.996601, -0.082386, 0.082386, 0.996601, 0.000000, 0.000000);
+}
+
+.t53 {
+	-webkit-transform:matrix(0.996601, -0.082384, 0.082384, 0.996601, 0.000000, 0.000000);
+	-o-transform:matrix(0.996601, -0.082384, 0.082384, 0.996601, 0.000000, 0.000000);
+	-ms-transform:matrix(0.996601, -0.082384, 0.082384, 0.996601, 0.000000, 0.000000);
+	-moz-transform:matrix(0.996601, -0.082384, 0.082384, 0.996601, 0.000000, 0.000000);
+	transform:matrix(0.996601, -0.082384, 0.082384, 0.996601, 0.000000, 0.000000);
+}
+
+.t52 {
+	-webkit-transform:matrix(0.996624, -0.082104, 0.082104, 0.996624, 0.000000, 0.000000);
+	-o-transform:matrix(0.996624, -0.082104, 0.082104, 0.996624, 0.000000, 0.000000);
+	-ms-transform:matrix(0.996624, -0.082104, 0.082104, 0.996624, 0.000000, 0.000000);
+	-moz-transform:matrix(0.996624, -0.082104, 0.082104, 0.996624, 0.000000, 0.000000);
+	transform:matrix(0.996624, -0.082104, 0.082104, 0.996624, 0.000000, 0.000000);
+}
+
+.t24 {
+	-webkit-transform:matrix(0.996624, -0.082099, 0.082099, 0.996624, 0.000000, 0.000000);
+	-o-transform:matrix(0.996624, -0.082099, 0.082099, 0.996624, 0.000000, 0.000000);
+	-ms-transform:matrix(0.996624, -0.082099, 0.082099, 0.996624, 0.000000, 0.000000);
+	-moz-transform:matrix(0.996624, -0.082099, 0.082099, 0.996624, 0.000000, 0.000000);
+	transform:matrix(0.996624, -0.082099, 0.082099, 0.996624, 0.000000, 0.000000);
+}
+
+.t23 {
+	-webkit-transform:matrix(0.996654, -0.081732, 0.081732, 0.996654, 0.000000, 0.000000);
+	-o-transform:matrix(0.996654, -0.081732, 0.081732, 0.996654, 0.000000, 0.000000);
+	-ms-transform:matrix(0.996654, -0.081732, 0.081732, 0.996654, 0.000000, 0.000000);
+	-moz-transform:matrix(0.996654, -0.081732, 0.081732, 0.996654, 0.000000, 0.000000);
+	transform:matrix(0.996654, -0.081732, 0.081732, 0.996654, 0.000000, 0.000000);
+}
+
+.t51 {
+	-webkit-transform:matrix(0.996655, -0.081728, 0.081728, 0.996655, 0.000000, 0.000000);
+	-o-transform:matrix(0.996655, -0.081728, 0.081728, 0.996655, 0.000000, 0.000000);
+	-ms-transform:matrix(0.996655, -0.081728, 0.081728, 0.996655, 0.000000, 0.000000);
+	-moz-transform:matrix(0.996655, -0.081728, 0.081728, 0.996655, 0.000000, 0.000000);
+	transform:matrix(0.996655, -0.081728, 0.081728, 0.996655, 0.000000, 0.000000);
+}
+
+.t13 {
+	-webkit-transform:matrix(0.997026, -0.077068, 0.077068, 0.997026, 0.000000, 0.000000);
+	-o-transform:matrix(0.997026, -0.077068, 0.077068, 0.997026, 0.000000, 0.000000);
+	-ms-transform:matrix(0.997026, -0.077068, 0.077068, 0.997026, 0.000000, 0.000000);
+	-moz-transform:matrix(0.997026, -0.077068, 0.077068, 0.997026, 0.000000, 0.000000);
+	transform:matrix(0.997026, -0.077068, 0.077068, 0.997026, 0.000000, 0.000000);
+}
+
+.t32 {
+	-webkit-transform:matrix(0.997833, -0.065793, 0.065793, 0.997833, 0.000000, 0.000000);
+	-o-transform:matrix(0.997833, -0.065793, 0.065793, 0.997833, 0.000000, 0.000000);
+	-ms-transform:matrix(0.997833, -0.065793, 0.065793, 0.997833, 0.000000, 0.000000);
+	-moz-transform:matrix(0.997833, -0.065793, 0.065793, 0.997833, 0.000000, 0.000000);
+	transform:matrix(0.997833, -0.065793, 0.065793, 0.997833, 0.000000, 0.000000);
+}
+
+.t60 {
+	-webkit-transform:matrix(0.997833, -0.065792, 0.065792, 0.997833, 0.000000, 0.000000);
+	-o-transform:matrix(0.997833, -0.065792, 0.065792, 0.997833, 0.000000, 0.000000);
+	-ms-transform:matrix(0.997833, -0.065792, 0.065792, 0.997833, 0.000000, 0.000000);
+	-moz-transform:matrix(0.997833, -0.065792, 0.065792, 0.997833, 0.000000, 0.000000);
+	transform:matrix(0.997833, -0.065792, 0.065792, 0.997833, 0.000000, 0.000000);
+}
+
+.t14 {
+	-webkit-transform:matrix(0.998211, -0.059792, 0.059792, 0.998211, 0.000000, 0.000000);
+	-o-transform:matrix(0.998211, -0.059792, 0.059792, 0.998211, 0.000000, 0.000000);
+	-ms-transform:matrix(0.998211, -0.059792, 0.059792, 0.998211, 0.000000, 0.000000);
+	-moz-transform:matrix(0.998211, -0.059792, 0.059792, 0.998211, 0.000000, 0.000000);
+	transform:matrix(0.998211, -0.059792, 0.059792, 0.998211, 0.000000, 0.000000);
+}
+
+.t33 {
+	-webkit-transform:matrix(0.998680, -0.051370, 0.051370, 0.998680, 0.000000, 0.000000);
+	-o-transform:matrix(0.998680, -0.051370, 0.051370, 0.998680, 0.000000, 0.000000);
+	-ms-transform:matrix(0.998680, -0.051370, 0.051370, 0.998680, 0.000000, 0.000000);
+	-moz-transform:matrix(0.998680, -0.051370, 0.051370, 0.998680, 0.000000, 0.000000);
+	transform:matrix(0.998680, -0.051370, 0.051370, 0.998680, 0.000000, 0.000000);
+}
+
+.t61 {
+	-webkit-transform:matrix(0.998680, -0.051368, 0.051368, 0.998680, 0.000000, 0.000000);
+	-o-transform:matrix(0.998680, -0.051368, 0.051368, 0.998680, 0.000000, 0.000000);
+	-ms-transform:matrix(0.998680, -0.051368, 0.051368, 0.998680, 0.000000, 0.000000);
+	-moz-transform:matrix(0.998680, -0.051368, 0.051368, 0.998680, 0.000000, 0.000000);
+	transform:matrix(0.998680, -0.051368, 0.051368, 0.998680, 0.000000, 0.000000);
+}
+
+.t62 {
+	-webkit-transform:matrix(0.998988, -0.044968, 0.044968, 0.998988, 0.000000, 0.000000);
+	-o-transform:matrix(0.998988, -0.044968, 0.044968, 0.998988, 0.000000, 0.000000);
+	-ms-transform:matrix(0.998988, -0.044968, 0.044968, 0.998988, 0.000000, 0.000000);
+	-moz-transform:matrix(0.998988, -0.044968, 0.044968, 0.998988, 0.000000, 0.000000);
+	transform:matrix(0.998988, -0.044968, 0.044968, 0.998988, 0.000000, 0.000000);
+}
+
+.t34 {
+	-webkit-transform:matrix(0.998989, -0.044965, 0.044965, 0.998989, 0.000000, 0.000000);
+	-o-transform:matrix(0.998989, -0.044965, 0.044965, 0.998989, 0.000000, 0.000000);
+	-ms-transform:matrix(0.998989, -0.044965, 0.044965, 0.998989, 0.000000, 0.000000);
+	-moz-transform:matrix(0.998989, -0.044965, 0.044965, 0.998989, 0.000000, 0.000000);
+	transform:matrix(0.998989, -0.044965, 0.044965, 0.998989, 0.000000, 0.000000);
+}
+
+.t35 {
+	-webkit-transform:matrix(0.999439, -0.033506, 0.033506, 0.999439, 0.000000, 0.000000);
+	-o-transform:matrix(0.999439, -0.033506, 0.033506, 0.999439, 0.000000, 0.000000);
+	-ms-transform:matrix(0.999439, -0.033506, 0.033506, 0.999439, 0.000000, 0.000000);
+	-moz-transform:matrix(0.999439, -0.033506, 0.033506, 0.999439, 0.000000, 0.000000);
+	transform:matrix(0.999439, -0.033506, 0.033506, 0.999439, 0.000000, 0.000000);
+}
+
+.t63 {
+	-webkit-transform:matrix(0.999496, -0.031752, 0.031752, 0.999496, 0.000000, 0.000000);
+	-o-transform:matrix(0.999496, -0.031752, 0.031752, 0.999496, 0.000000, 0.000000);
+	-ms-transform:matrix(0.999496, -0.031752, 0.031752, 0.999496, 0.000000, 0.000000);
+	-moz-transform:matrix(0.999496, -0.031752, 0.031752, 0.999496, 0.000000, 0.000000);
+	transform:matrix(0.999496, -0.031752, 0.031752, 0.999496, 0.000000, 0.000000);
+}
+
+.t46 {
+	-webkit-transform:matrix(0.999657, -0.026178, 0.026178, 0.999657, 0.000000, 0.000000);
+	-o-transform:matrix(0.999657, -0.026178, 0.026178, 0.999657, 0.000000, 0.000000);
+	-ms-transform:matrix(0.999657, -0.026178, 0.026178, 0.999657, 0.000000, 0.000000);
+	-moz-transform:matrix(0.999657, -0.026178, 0.026178, 0.999657, 0.000000, 0.000000);
+	transform:matrix(0.999657, -0.026178, 0.026178, 0.999657, 0.000000, 0.000000);
+}
+
+.t47 {
+	-webkit-transform:matrix(0.999657, -0.026173, 0.026173, 0.999657, 0.000000, 0.000000);
+	-o-transform:matrix(0.999657, -0.026173, 0.026173, 0.999657, 0.000000, 0.000000);
+	-ms-transform:matrix(0.999657, -0.026173, 0.026173, 0.999657, 0.000000, 0.000000);
+	-moz-transform:matrix(0.999657, -0.026173, 0.026173, 0.999657, 0.000000, 0.000000);
+	transform:matrix(0.999657, -0.026173, 0.026173, 0.999657, 0.000000, 0.000000);
+}
+
+.t36 {
+	-webkit-transform:matrix(0.999869, -0.016193, 0.016193, 0.999869, 0.000000, 0.000000);
+	-o-transform:matrix(0.999869, -0.016193, 0.016193, 0.999869, 0.000000, 0.000000);
+	-ms-transform:matrix(0.999869, -0.016193, 0.016193, 0.999869, 0.000000, 0.000000);
+	-moz-transform:matrix(0.999869, -0.016193, 0.016193, 0.999869, 0.000000, 0.000000);
+	transform:matrix(0.999869, -0.016193, 0.016193, 0.999869, 0.000000, 0.000000);
+}
+
+.t64 {
+	-webkit-transform:matrix(0.999890, -0.014816, 0.014816, 0.999890, 0.000000, 0.000000);
+	-o-transform:matrix(0.999890, -0.014816, 0.014816, 0.999890, 0.000000, 0.000000);
+	-ms-transform:matrix(0.999890, -0.014816, 0.014816, 0.999890, 0.000000, 0.000000);
+	-moz-transform:matrix(0.999890, -0.014816, 0.014816, 0.999890, 0.000000, 0.000000);
+	transform:matrix(0.999890, -0.014816, 0.014816, 0.999890, 0.000000, 0.000000);
+}
+
+.t48 {
+	-webkit-transform:matrix(0.999962, 0.008728, -0.008728, 0.999962, 0.000000, 0.000000);
+	-o-transform:matrix(0.999962, 0.008728, -0.008728, 0.999962, 0.000000, 0.000000);
+	-ms-transform:matrix(0.999962, 0.008728, -0.008728, 0.999962, 0.000000, 0.000000);
+	-moz-transform:matrix(0.999962, 0.008728, -0.008728, 0.999962, 0.000000, 0.000000);
+	transform:matrix(0.999962, 0.008728, -0.008728, 0.999962, 0.000000, 0.000000);
+}
+
+.t49 {
+	-webkit-transform:matrix(0.999962, 0.008727, -0.008727, 0.999962, 0.000000, 0.000000);
+	-o-transform:matrix(0.999962, 0.008727, -0.008727, 0.999962, 0.000000, 0.000000);
+	-ms-transform:matrix(0.999962, 0.008727, -0.008727, 0.999962, 0.000000, 0.000000);
+	-moz-transform:matrix(0.999962, 0.008727, -0.008727, 0.999962, 0.000000, 0.000000);
+	transform:matrix(0.999962, 0.008727, -0.008727, 0.999962, 0.000000, 0.000000);
+}
+
+.t66 {
+	-webkit-transform:scale(1.055999);
+	-o-transform:scale(1.055999);
+	-ms-transform:scale(1.055999);
+	-moz-transform:scale(1.055999);
+	transform:scale(1.055999);
+}
+
+.t70 {
+	-webkit-transform:scale(1.056000);
+	-o-transform:scale(1.056000);
+	-ms-transform:scale(1.056000);
+	-moz-transform:scale(1.056000);
+	transform:scale(1.056000);
+}
+
+.t68 {
+	-webkit-transform:scale(1.113600);
+	-o-transform:scale(1.113600);
+	-ms-transform:scale(1.113600);
+	-moz-transform:scale(1.113600);
+	transform:scale(1.113600);
+}
+
+.t50 {
+	-webkit-transform:scale(1.232000);
+	-o-transform:scale(1.232000);
+	-ms-transform:scale(1.232000);
+	-moz-transform:scale(1.232000);
+	transform:scale(1.232000);
+}
+
+.t45 {
+	-webkit-transform:scale(1.302400);
+	-o-transform:scale(1.302400);
+	-ms-transform:scale(1.302400);
+	-moz-transform:scale(1.302400);
+	transform:scale(1.302400);
+}
+
+.t37 {
+	-webkit-transform:scale(1.632000);
+	-o-transform:scale(1.632000);
+	-ms-transform:scale(1.632000);
+	-moz-transform:scale(1.632000);
+	transform:scale(1.632000);
+}
+
+.t43 {
+	-webkit-transform:scale(1.795200);
+	-o-transform:scale(1.795200);
+	-ms-transform:scale(1.795200);
+	-moz-transform:scale(1.795200);
+	transform:scale(1.795200);
+}
+
+.t39 {
+	-webkit-transform:scale(1.795200);
+	-o-transform:scale(1.795200);
+	-ms-transform:scale(1.795200);
+	-moz-transform:scale(1.795200);
+	transform:scale(1.795200);
+}
+
+.t41 {
+	-webkit-transform:scale(1.893120);
+	-o-transform:scale(1.893120);
+	-ms-transform:scale(1.893120);
+	-moz-transform:scale(1.893120);
+	transform:scale(1.893120);
+}
+
+.t15 {
+	-webkit-transform:scale(1.920002);
+	-o-transform:scale(1.920002);
+	-ms-transform:scale(1.920002);
+	-moz-transform:scale(1.920002);
+	transform:scale(1.920002);
+}
+
+.t17 {
+	-webkit-transform:scale(2.112000);
+	-o-transform:scale(2.112000);
+	-ms-transform:scale(2.112000);
+	-moz-transform:scale(2.112000);
+	transform:scale(2.112000);
+}
+
+.t21 {
+	-webkit-transform:scale(2.112000);
+	-o-transform:scale(2.112000);
+	-ms-transform:scale(2.112000);
+	-moz-transform:scale(2.112000);
+	transform:scale(2.112000);
+}
+
+.t19 {
+	-webkit-transform:scale(2.227200);
+	-o-transform:scale(2.227200);
+	-ms-transform:scale(2.227200);
+	-moz-transform:scale(2.227200);
+	transform:scale(2.227200);
+}
+
+.o0 {
+	-webkit-transform-origin:0.00% 100.00%;
+	-o-transform-origin:0.00% 100.00%;
+	-ms-transform-origin:0.00% 100.00%;
+	-moz-transform-origin:0.00% 100.00%;
+	transform-origin:0.00% 100.00%;
+}
+
+.f38 {
+	font-family:f38generic;
+}
+
+
+.f39 {
+	font-family:f39generic;
+}
+
+
+.f40 {
+	font-family:f40generic;
+}
+
+
+.f43 {
+	font-family:f43generic;
+}
+
+
+.f42 {
+	font-family:f42generic;
+}
+
+
+.f45 {
+	font-family:f45generic;
+}
+
+
+.f44 {
+	font-family:f44generic;
+}
+
+
+.f12 {
+	font-family:f12generic;
+}
+
+
+.f13 {
+	font-family:f13generic;
+}
+
+
+.f14 {
+	font-family:f14generic;
+}
+
+
+.f15 {
+	font-family:f15generic;
+}
+
+
+.f18 {
+	font-family:f18generic;
+}
+
+
+.f19 {
+	font-family:f19generic;
+}
+
+
+.f20 {
+	font-family:f20generic;
+}
+
+
+.f21 {
+	font-family:f21generic;
+}
+
+
+.f23 {
+	font-family:f23generic;
+}
+
+
+.f24 {
+	font-family:f24generic;
+}
+
+
+.f25 {
+	font-family:f25generic;
+}
+
+
+.f26 {
+	font-family:f26generic;
+}
+
+
+.f27 {
+	font-family:f27generic;
+}
+
+
+.f28 {
+	font-family:f28generic;
+}
+
+
+.f29 {
+	font-family:f29generic;
+}
+
+
+.f30 {
+	font-family:f30generic;
+}
+
+
+.f31 {
+	font-family:f31generic;
+}
+
+
+.f32 {
+	font-family:f32generic;
+}
+
+
+.f33 {
+	font-family:f33generic;
+}
+
+
+.f35 {
+	font-family:f35generic;
+}
+
+
+.f36 {
+	font-family:f36generic;
+}
+
+
+.f37 {
+	font-family:f37generic;
+}
+
+
+.f46 {
+	font-family:f46generic;
+}
+
+
+.f47 {
+	font-family:f47generic;
+}
+
+
+.f48 {
+	font-family:f48generic;
+}
+
+
+.f49 {
+	font-family:f49generic;
+}
+
+
+.f50 {
+	font-family:f50generic;
+}
+
+
+.f53 {
+	font-family:f53generic;
+}
+
+
+.f51 {
+	font-family:f51generic;
+}
+
+
+.f52 {
+	font-family:f52generic;
+}
+
+
+.f54 {
+	font-family:f54generic;
+}
+
+
+.f55 {
+	font-family:f55generic;
+}
+
+
+.f57 {
+	font-family:f57generic;
+}
+
+
+.f58 {
+	font-family:f58generic;
+}
+
+
+.f59 {
+	font-family:f59generic;
+}
+
+
+.f60 {
+	font-family:f60generic;
+}
+
+
+.f61 {
+	font-family:f61generic;
+}
+
+
+.f62 {
+	font-family:f62generic;
+}
+
+
+.f63 {
+	font-family:f63generic;
+}
+
+
+.f64 {
+	font-family:f64generic;
+}
+
+
+.f65 {
+	font-family:f65generic;
+}
+
+
+.f66 {
+	font-family:f66generic;
+}
+
+
+.f67 {
+	font-family:f67generic;
+}
+
+
+.f68 {
+	font-family:f68generic;
+}
+
+
+.f69 {
+	font-family:f69generic;
+}
+
+
+.f73 {
+	font-family:f73generic;
+}
+
+
+.f70 {
+	font-family:f70generic;
+}
+
+
+.f71 {
+	font-family:f71generic;
+}
+
+
+.f72 {
+	font-family:f72generic;
+}
+
+
+.f74 {
+	font-family:f74generic;
+}
+
+
+.f76 {
+	font-family:f76generic;
+}
+
+
+.f77 {
+	font-family:f77generic;
+}
+
+
+.f78 {
+	font-family:f78generic;
+}
+
+
+.f79 {
+	font-family:f79generic;
+}
+
+
+.f80 {
+	font-family:f80generic;
+}
+
+
+.f81 {
+	font-family:f81generic;
+}
+
+
+.f82 {
+	font-family:f82generic;
+}
+
+
+.f83 {
+	font-family:f83generic;
+}
+
+
+.f84 {
+	font-family:f84generic;
+}
+
+
+.f85 {
+	font-family:f85generic;
+}
+
+
+.f0 {
+	font-family:f0generic;
+}
+
+
+.f1 {
+	font-family:f1generic;
+}
+
+
+.f2 {
+	font-family:f2generic;
+}
+
+
+.f89 {
+	font-family:f89generic;
+}
+
+
+.f5 {
+	font-family:f5generic;
+}
+
+
+.f4 {
+	font-family:f4generic;
+}
+
+
+.f3 {
+	font-family:f3generic;
+}
+
+
+.f11 {
+	font-family:f11generic;
+}
+
+
+.f9 {
+	font-family:f9generic;
+}
+
+
+.f8 {
+	font-family:f8generic;
+}
+
+
+.f7 {
+	font-family:f7generic;
+}
+
+
+.f16 {
+	font-family:f16generic;
+}
+
+
+.f6 {
+	font-family:f6generic;
+}
+
+
+.f10 {
+	font-family:f10generic;
+}
+
+
+.f17 {
+	font-family:f17generic;
+}
+
+
+.f22 {
+	font-family:f22generic;
+}
+
+
+.f41 {
+	font-family:f41generic;
+}
+
+
+.f34 {
+	font-family:f34generic;
+}
+
+
+.f56 {
+	font-family:f56generic;
+}
+
+
+.f75 {
+	font-family:f75generic;
+}
+
+
+.f87 {
+	font-family:f87generic;
+}
+
+
+.f86 {
+	font-family:f86generic;
+}
+
+
+.f88 {
+	font-family:f88generic;
+}
+
+
+body{margin:0;background-color:#808080;}
+
+.PageContainer{ position:absolute;top:0px;left:0px;}
+p { white-space:pre; }

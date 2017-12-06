@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dndInteractive>
+	<dnd id="dnd1" type="oneToOne" dragCopy="false" dropCopy="false" revert="true" revertToOriginalPosition="true" containment="#dndHolder" multiAccept="false" replace="false" onlyCorrect="false" theme="dnd1">
+		<draggableItem>
+			<option id="opt1" type="draggable" styleClass="draggableItem">
+					<label id="small_plane">archives</label>
+			</option>
+			<option id="opt2" type="draggable" styleClass="draggableItem">
+					<label id="small_plane">justices</label>
+			</option>
+			<option id="opt3" type="draggable" styleClass="draggableItem">
+					<label id="small_plane">congress</label>
+			</option>
+			<option id="opt4" type="draggable" styleClass="draggableItem">
+					<label id="small_plane">memorial</label>
+			</option>
+			<option id="opt5" type="draggable" styleClass="draggableItem">
+					<label id="small_plane">architect</label>
+			</option>
+	    </draggableItem>
+		
+		<droppableItem>
+			<option id="drop1" type="droppable" correctFor="opt3" styleClass="droppableItem" >
+			</option>
+			<option id="drop2" type="droppable" correctFor="opt4" styleClass="droppableItem" >
+			</option>
+			<option id="drop3" type="droppable" correctFor="opt1" styleClass="droppableItem" >
+			</option>
+			<option id="drop4" type="droppable" correctFor="opt5" styleClass="droppableItem" >
+			</option>
+			<option id="drop5" type="droppable" correctFor="opt2" styleClass="droppableItem" >
+			</option>
+		</droppableItem>
+	</dnd>	
+</dndInteractive>

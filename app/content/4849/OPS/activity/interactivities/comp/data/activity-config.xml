@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<player>
+  <regions>
+    <region id="mActivity" type="mActivity" edit="false" styleClass="mRegion">
+      <activities defaultLaunchID="1">
+        <activity id="1" name="Blank" modelPath="" modelName="" groupName="" lang="sample" class="sim-pictor">
+          <style source="interactivities/comp/activityScreen/screen.css"/>
+          <html source="interactivities/comp/activityScreen/screen.html"/>
+          <data source="interactivities/comp/activityScreen/screen.json"/>
+        </activity>
+       
+      </activities>
+    </region>
+  </regions>
+  <playerSettings>
+    <release>false</release>
+    <showPreloader>false</showPreloader>
+    <activityPath>
+      <keyword>dev</keyword>
+      <relativePath>../dev</relativePath>
+    </activityPath>
+    <debug>
+      <mode>false</mode>
+      <showTacer>true</showTacer>
+      <errorLogger>true</errorLogger>
+    </debug>
+    <themes defaultTheme="1" prefix="theme">
+      <theme id="1" prefix="theme">
+        <label>1</label>
+        <path>shell/themes/theme1/theme1.css</path>
+      </theme>
+    </themes>
+    <language commonSource="true">
+      <support>false</support>
+      <rootPath>data/local</rootPath>
+      <default>en</default>
+    </language>
+    <size>
+      <align>
+        <horizontal>center</horizontal>
+        <vertical>top</vertical>
+      </align>
+      <scale maxScale="" minScale="" isScalable="false"/>
+      <width></width>
+      <height></height>
+    </size>
+    <webService></webService>
+  </playerSettings>
+</player>

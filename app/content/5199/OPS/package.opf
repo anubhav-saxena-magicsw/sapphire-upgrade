@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="pub-id" prefix="rendition: http://www.idpf.org/vocab/rendition/#" version="3.0"> 
+ <metadata xmlns:dc="http://purl.org/dc/elements/1.1/"> 
+  <dc:identifier id="pub-id">
+    urn:uuid:1807c95e-e7df-47df-86f5-7fee79a6f0a2 
+  </dc:identifier> 
+  <dc:title>
+    POC_10Feb 
+  </dc:title> 
+  <dc:language>
+    en-US 
+  </dc:language> 
+  <meta property="dcterms:modified">
+    2015-02-05T14:04:02Z 
+  </meta> 
+  <meta content="cover_image" name="cover"> 
+  </meta> 
+  <meta property="rendition:layout">
+    pre-paginated 
+  </meta> 
+  <meta property="rendition:orientation">
+    Landscape 
+  </meta> 
+  <meta property="rendition:spread">
+    none 
+  </meta> 
+ </metadata> 
+ <manifest> 
+  <item properties="cover-image" id="cover_image" href="images/cover.png" media-type="image/png"> 
+  </item> 
+  <item id="cover" href="cover.xhtml" media-type="application/xhtml+xml" media-overlay="mo-Page001"> 
+  </item> 
+  <item id="mo-Page001" href="smil/cover.smil" media-type="application/smil+xml" /> 
+  <item id="page002" href="page002.xhtml" media-type="application/xhtml+xml" media-overlay="mo-Page002" properties="scripted"> 
+  </item> 
+  <item id="mo-Page002" href="smil/page002.smil" media-type="application/smil+xml" /> 
+  <item id="page003" href="page003.xhtml" media-type="application/xhtml+xml" media-overlay="mo-Page003"> 
+  </item> 
+  <item id="mo-Page003" href="smil/page003.smil" media-type="application/smil+xml" /> 
+  <item id="page004" href="page004.xhtml" media-type="application/xhtml+xml" media-overlay="mo-Page004"> 
+  </item> 
+  <item id="mo-Page004" href="smil/page004.smil" media-type="application/smil+xml" /> 
+  <item id="page005" href="page005.xhtml" media-type="application/xhtml+xml" media-overlay="mo-Page005"> 
+  </item> 
+  <item id="mo-Page005" href="smil/page005.smil" media-type="application/smil+xml" /> 
+  <item id="page006" href="page006.xhtml" media-type="application/xhtml+xml" properties="scripted"> 
+  </item> 
+  <item id="page007" href="page007.xhtml" media-type="application/xhtml+xml" media-overlay="mo-Page007" properties="scripted"> 
+  </item> 
+  <item id="mo-Page007" href="smil/page007.smil" media-type="application/smil+xml" /> 
+  <item id="page008" href="page008.xhtml" media-type="application/xhtml+xml" media-overlay="mo-Page008"> 
+  </item> 
+  <item id="mo-Page008" href="smil/page008.smil" media-type="application/smil+xml" /> 
+  <item id="page009" href="page009.xhtml" media-type="application/xhtml+xml" media-overlay="mo-Page009"> 
+  </item> 
+  <item id="mo-Page009" href="smil/page009.smil" media-type="application/smil+xml" /> 
+  <item id="page010" href="page010.xhtml" media-type="application/xhtml+xml" media-overlay="mo-Page010" properties="scripted"> 
+  </item> 
+  <item id="mo-Page010" href="smil/page010.smil" media-type="application/smil+xml" /> 
+  <item id="styles" href="css/Styles.css" media-type="text/css"> 
+  </item> 
+  <item id="font-faces" href="css/FontSrc.css" media-type="text/css"> 
+  </item> 
+  <item id="bg001" href="images/bg001.png" media-type="image/png"> 
+  </item> 
+  <item id="bg002" href="images/bg002.png" media-type="image/png"> 
+  </item> 
+  <item id="bg003" href="images/bg003.png" media-type="image/png"> 
+  </item> 
+  <item id="bg004" href="images/bg004.png" media-type="image/png"> 
+  </item> 
+  <item id="bg005" href="images/bg005.png" media-type="image/png"> 
+  </item> 
+  <item id="bg006" href="images/bg006.png" media-type="image/png"> 
+  </item> 
+  <item id="bg007" href="images/bg007.png" media-type="image/png"> 
+  </item> 
+  <item id="bg008" href="images/bg008.png" media-type="image/png"> 
+  </item> 
+  <item id="bg009" href="images/bg009.png" media-type="image/png"> 
+  </item> 
+  <item id="bg010" href="images/bg010.png" media-type="image/png"> 
+  </item> 
+  <item id="f8" href="fonts/f8.otf" media-type="application/vnd.ms-opentype"> 
+  </item> 
+  <item id="f4" href="fonts/f4.otf" media-type="application/vnd.ms-opentype"> 
+  </item> 
+  <item id="f5" href="fonts/f5.otf" media-type="application/vnd.ms-opentype"> 
+  </item> 
+  <item id="f0" href="fonts/f0.otf" media-type="application/vnd.ms-opentype"> 
+  </item> 
+  <item id="f1" href="fonts/f1.otf" media-type="application/vnd.ms-opentype"> 
+  </item> 
+  <item id="f2" href="fonts/f2.otf" media-type="application/vnd.ms-opentype"> 
+  </item> 
+  <item id="f3" href="fonts/f3.otf" media-type="application/vnd.ms-opentype"> 
+  </item> 
+  <item id="f7" href="fonts/f7.otf" media-type="application/vnd.ms-opentype"> 
+  </item> 
+  <item id="f6" href="fonts/f6.otf" media-type="application/vnd.ms-opentype"> 
+  </item> 
+  <item properties="nav" id="nav" href="nav.xhtml" media-type="application/xhtml+xml"> 
+  </item> 
+  <item id="page0001" href="css/page0001.css" media-type="text/css" /> 
+  <item id="page0002" href="css/page0002.css" media-type="text/css" /> 
+  <item id="page0003" href="css/page0003.css" media-type="text/css" /> 
+  <item id="page0004" href="css/page0004.css" media-type="text/css" /> 
+  <item id="page0005" href="css/page0005.css" media-type="text/css" /> 
+  <item id="page0006" href="css/page0006.css" media-type="text/css" /> 
+  <item id="page0007" href="css/page0007.css" media-type="text/css" /> 
+  <item id="page0008" href="css/page0008.css" media-type="text/css" /> 
+  <item id="page0009" href="css/page0009.css" media-type="text/css" /> 
+  <item id="page0010" href="css/page0010.css" media-type="text/css" /> 
+  <item id="Track01" href="audio/pg_1.mp3" media-type="audio/mpeg" /> 
+  <item id="Track02" href="audio/pg_2.mp3" media-type="audio/mpeg" /> 
+  <item id="Track03" href="audio/pg_3.mp3" media-type="audio/mpeg" /> 
+  <item id="Track04" href="audio/pg_4.mp3" media-type="audio/mpeg" /> 
+  <item id="Track05" href="audio/pg_5.mp3" media-type="audio/mpeg" /> 
+  <item id="Track06" href="audio/pg_7.mp3" media-type="audio/mpeg" /> 
+  <item id="Track07" href="audio/pg_8.mp3" media-type="audio/mpeg" /> 
+  <item id="Track08" href="audio/pg_9.mp3" media-type="audio/mpeg" /> 
+  <item id="Track09" href="audio/pg_10.mp3" media-type="audio/mpeg" />         
+  <item title="You Tube" caption="" data-visibilty="0" id="MjAxNS0wNC0yMFQxMToyMzozMi44MDFa" href="https://www.youtube.com/user/elearningsystem" media-type="application/hta" spineid="page004" /> 
+  <item title="test audio" caption="tets audio" data-visibilty="0" id="MjAxNS0wNC0yMlQwMzo0Nzo0Mi40Njda" href="data/contentnote/1425485043547-Climate-Change-Minute-Road-Trip-Glacier-National-Park.mp3" media-type="audio/mp3" spineid="page002" /> 
+  <item title="test web link" caption="" data-visibilty="0" id="MjAxNS0wNC0yMlQwMzo0NzoyNi45MTla" href="http://www.google.com" media-type="application/hta" spineid="page002" /> 
+  <item title="test teacher submiss" caption="test teacher submission" data-visibilty="0" id="MjAxNS0wNC0yMlQwMzo0ODoxNy45NTBa" href="" media-type="[mediatype]" spineid="page002" /> 
+  <item title="test pdf" caption="test pdf" data-visibilty="0" id="MjAxNS0wNC0yMlQwMzo0NzowNC4zOTda" href="data/contentnote/1428497415964-Ch4RACLBBpage69.pdf" media-type="application/pdf" spineid="page002" /> 
+  <item title="test foto" caption="test image content note" data-visibilty="0" id="MjAxNS0wNC0yMlQwMzo0NToxNC45MzFa" href="data/contentnote/1429002813837-Penguins.jpg" media-type="image/jpeg" spineid="page002" /> 
+  <item title="test video" caption="test video" data-visibilty="0" id="MjAxNS0wNC0yMlQwMzo0Nzo1Ni45NDZa" href="data/contentnote/1424683409926-Crazy-Gloucester-Cheese-Rolling-Festival.mp4" media-type="video/mp4" spineid="page002" /> 
+ </manifest> 
+ <spine> 
+  <itemref idref="cover"> 
+  </itemref> 
+  <itemref idref="page002"> 
+  </itemref> 
+  <itemref idref="page003"> 
+  </itemref> 
+  <itemref idref="page004"> 
+  </itemref> 
+  <itemref idref="page005"> 
+  </itemref> 
+  <itemref idref="page006"> 
+  </itemref> 
+  <itemref idref="page007"> 
+  </itemref> 
+  <itemref idref="page008"> 
+  </itemref> 
+  <itemref idref="page009"> 
+  </itemref> 
+  <itemref idref="page010"> 
+  </itemref> 
+ </spine> 
+</package>

@@ -1,0 +1,1 @@
+define([],function(){var e=Backbone.Model.extend({defaults:{Viewclass:"",isVisible:!1,viewContent:"view"}});return e});

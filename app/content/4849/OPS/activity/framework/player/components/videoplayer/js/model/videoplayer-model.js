@@ -1,0 +1,1 @@
+define(["player/base/base-activity-model"],function(t){var e=t.extend({defaults:function(){return{data:{},loop:!1,vWidth:"400px",vHeight:"400px",vControls:void 0,customControlls:!1}}});return e.prototype.__super__=t,e});

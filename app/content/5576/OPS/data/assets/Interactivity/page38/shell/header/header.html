@@ -1,0 +1,456 @@
+<div class="navbar-header">
+    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+    </button>
+      <div id="xrLogo" class="xrLogo"></div>
+    <div id="loTitle" class="hTitle navbar-brand">
+
+    </div>
+</div>
+
+<div class="navbar-collapse collapse" style="height:1px;">
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li>
+            <div id="btnHome" class="liBtnHome" style="display:none"></div>
+        </li>
+        <li>
+            <div id="btnPrevious" class="liBtnPrev" style="display:none"></div>
+        </li>
+        <li>
+            <div id="btnNext" class="liBtnNext" style="display:none"></div>
+        </li>
+        <li>
+            <div id="btnReplay" class="liBtnReplay" style="display:none"></div>
+        </li>
+        <li>
+            <div id="btnInstruction" class="liBtnInstruction" style="display:none"></div>
+        </li>
+        <li>
+            <div id="btnHelp" class="liBtnHelp" style="display:none"></div>
+        </li>
+        <li>
+            <div id="btnMenu" class="liBtnMenu" style="display:none"></div>
+        </li>
+    </ul>
+</div>
+
+<script type="text/template" id="screenPopupBlockerDiv">
+    <div id="screenPopupBlockerDiv" class="ScreenPopupBlocker">
+    </div>
+</script>
+
+
+
+
+
+
+<!--For credit popup -->
+
+<!-- <li>
+	<div id="zoomInOut" style="display: none;">
+		<div id="zoomInBtn" class="zoomInBtn" style="float: left;"></div>
+		<div id="zoomOutBtn" class="zoomOutBtn" style="float: left;"></div>
+	</div>
+</li> -->
+
+
+<script type="text/template" id="creditPopup">
+
+    <div id="creditPopupContainer" class="creditPopupStyle" align="center">
+        <div class="closeBtnParentDiv" align="right">
+            <div id="btnClose" class="popupCloseBtnStyle" ></div>
+        </div>
+        <table class="creditTableStyle">
+            <tr>
+                <td colspan="2" class="creditTitleCell">© Pearson Education do Brasil Ltda.</td>
+            </tr>
+
+            <tr>
+                <td class="creditLeftCell">Direção de conteúdos digitais:</td>
+                <td class="creditRightCell">Fabiana Zanni<br>Jeniffer Melo Rodrigues</td>
+            </tr>
+            <tr>
+                <td class="creditLeftCell">Organização:</td>
+                <td class="creditRightCell">Anielle Scandarolli</td>
+            </tr>
+            <tr>
+                <td class="creditLeftCell">Coordenação de conteúdos digitais:</td>
+                <td class="creditRightCell">Stella Camargo</td>
+            </tr>
+            <tr>
+                <td class="creditLeftCell">Edição de conteúdos digitais:</td>
+                <td class="creditRightCell">Ana Cristina da Silva Sobral<br>
+                    Andréa de Cássia Alarcon Santos</td>
+            </tr>
+            <tr>
+                <td class="creditLeftCell">Autoria colaborativa:</td>
+                <td class="creditRightCell">Anielle Scandarolli<br>
+                    Artur Zago Paes<br>
+                    Bruno Rodrigues Vieira<br>
+                    Cesar Souza<br>
+                    Fabio Junqueira Algarve<br>
+                    Jaqueline Fátima Targas Sirugi<br>
+                    Jullian Henrique Barbosa dos Santos<br>
+                    Pedro Henrique Rodrigues Pereira<br>
+                    Rafael Volner<br>
+                    Stella Camargo</td>
+            </tr>
+            <tr>
+                <td class="creditLeftCell">Validação:</td>
+                <td class="creditRightCell">Andreia Correcher Pitta<br>
+                    Márcio Almeida<br>
+                    Stella Camargo </td>
+            </tr>
+            <tr>
+                <td class="creditLeftCell">Pesquisa iconográfica:</td>
+                <td class="creditRightCell">Sandra Sebastião</td>
+            </tr>
+            <tr>
+                <td class="creditLeftCell">Revisão:</td>
+                <td class="creditRightCell">Luzia Leite Rodrigues</td>
+            </tr>
+            <tr>
+                <td class="creditLeftCell">Narração:</td>
+                <td class="creditRightCell">Letícia Bortoletto<br>
+                    Pierre Bittencourt</td>
+            </tr>
+            <tr>
+                <td class="creditLeftCell">Produção de áudio:</td>
+                <td class="creditRightCell">Marcello Dolme<br>
+                    Vinícius Borges</td>
+            </tr>
+            <tr>
+                <td class="creditLeftCell">Programação:</td>
+                <td class="creditRightCell">Felipe Ribeiro Tanso<br>
+                    Júlio Zeni<br>
+                    Paulo Sergio Viciali Guerra<br>
+                    Victor Bezerra Santochi Richtman<br>
+                    Yuri Saeki Utiyama</td>
+            </tr>
+            <tr>
+                <td class="creditLeftCell">Produção do livro digital:</td>
+                <td class="creditRightCell">Alexandre Grechi</td>
+            </tr>
+            <tr>
+                <td class="creditLeftCell">Supervisão de produção de mídia:</td>
+                <td class="creditRightCell">Alline Belmiro Pontes</td>
+            </tr>
+            <tr>
+                <td class="creditLeftCell">lustração e animação:</td>
+                <td class="creditRightCell">Alexandre Antonio de Oliveira<br>
+                    Alexandre Borges Peetz<br>
+                    Alexandre Cid de Oliveira<br>
+                    Alline Belmiro Pontes<br>
+                    Carla Viana<br>
+                    Douglas Angelo da Nobrega<br>
+                    Fábio Rogerio Marques<br>
+                    Fabricio Carlos Vieira<br>
+                    Fagner Duarte<br>
+                    Jonathas Henrique de Moura<br>
+                    Marcos Antonio de Lima Junior<br>
+                    Mauricio Hiroyuki Ohphata<br>
+                    Pedro Virgilio Damião Zanin<br>
+                    Renan Salgado de Souza<br>
+                    Roberson Jun Kimura<br>
+                    Wellington Elias Carvalho<br>
+                    Wesley De Souza Goiano<br>
+                    Willi Lopes Ferreira<br>
+                    Wladas Savickas</td>
+            </tr>
+            <tr>
+                <td class="creditLeftCell">Assistência administrativa:</td>
+                <td class="creditRightCell">Roberta Grisi Emerson</td>
+            </tr>
+        </table>
+
+    </div>
+
+</script>
+
+<script type="text/template" id="navigationPopup">
+<div id="NavPopupContainer" class="creditPopupStyle container" align="center" style="background-color:rgb(249,245,233);">
+<style scoped>
+    .row {
+        padding-bottom: 20px;
+    }
+</style>
+<div class="row navContentContainer">
+    <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
+        <img src="legacy/shell/assets/images/nav_img01.png" class="navHeaderImg">
+    </div>
+    <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
+        <div class="row">
+            <div class="col-xs-6" align="left">
+                <div class="iconHome col-xs-2"></div>
+                <div class="col-xs-8">
+                    <div class="navListTitle">Home</div>
+                    <div class="navListDesc">Volta à primeira tela do objeto.</div>
+                </div>
+            </div>
+            <div class="col-xs-6" align="left">
+                <div class="iconAccessibility col-xs-2"></div>
+                <div class="col-xs-8">
+                    <div class="navListTitle">Acessibilidade</div>
+                    <div class="navListDesc">Mostra a tela de acessibilidade textual.</div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-xs-6" align="left">
+                <div class="iconPrev col-xs-2"></div>
+                <div class="col-xs-8">
+                    <div class="navListTitle">Voltar</div>
+                    <div class="navListDesc">Retorna à parte anterior do texto, imagem ou processo da animação.</div>
+                </div>
+            </div>
+            <div class="col-xs-6" align="left">
+                <div class="iconGreyscale col-xs-2"></div>
+                <div class="col-xs-8">
+                    <div class="navListTitle">Preto e Branco</div>
+                    <div class="navListDesc">Mostra letras pretas em fundo branco.</div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-xs-6" align="left">
+                <div class="iconNext col-xs-2"></div>
+                <div class="col-xs-8">
+                    <div class="navListTitle">Avançar</div>
+                    <div class="navListDesc">Segue à próxima parte do texto, imagem ou processo da animação.</div>
+                </div>
+            </div>
+            <div class="col-xs-6" align="left">
+                <div class="iconInverted col-xs-2"></div>
+                <div class="col-xs-8">
+                    <div class="navListTitle">Branco e Preto</div>
+                    <div class="navListDesc">Mostra letras brancas em fundo preto.</div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-xs-6" align="left">
+                <div class="iconHelp col-xs-2"></div>
+                <div class="col-xs-8">
+                    <div class="navListTitle">Ajuda</div>
+                    <div class="navListDesc">Mostra instruções para a navegação.</div>
+                </div>
+            </div>
+            <div class="col-xs-6" align="left">
+                <div class="iconColor col-xs-2"></div>
+                <div class="col-xs-8">
+                    <div class="navListTitle">Colorido</div>
+                    <div class="navListDesc">Retorna às cores originais da tela.</div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-xs-6" align="left">
+                <div class="iconMenu col-xs-2"></div>
+                <div class="col-xs-8">
+                    <div class="navListTitle">Menu</div>
+                    <div class="navListDesc">Abre e fecha menu de informação.</div>
+                </div>
+            </div>
+            <div class="col-xs-6" align="left">
+                <div class="iconMagnify col-xs-2"></div>
+                <div class="col-xs-8">
+                    <div class="navListTitle">Lupa</div>
+                    <div class="navListDesc">Habilita a lupa.</div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="row navContentContainer">
+    <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
+        <img src="legacy/shell/assets/images/nav_img02.png" class="navPlayerImg">
+    </div>
+    <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
+        <div class="row">
+            <div class="col-xs-6" align="left">
+                <div class="iconPlay col-xs-2"></div>
+                <div class="col-xs-8">
+                    <div class="navListTitle">Play</div>
+                    <div class="navListDesc">Inicia a animação.</div>
+                </div>
+            </div>
+            <div class="col-xs-6" align="left">
+                <div class="iconVolDown col-xs-2"></div>
+                <div class="col-xs-8">
+                    <div class="navListTitle">Volume (sem som)</div>
+                    <div class="navListDesc">Controla o volume do áudio.</div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-xs-6" align="left">
+                <div class="iconPause col-xs-2"></div>
+                <div class="col-xs-8">
+                    <div class="navListTitle">Pause</div>
+                    <div class="navListDesc">Pausa a animação.</div>
+                </div>
+            </div>
+            <div class="col-xs-6" align="left">
+                <div class="iconMute col-xs-2"></div>
+                <div class="col-xs-8">
+                    <div class="navListTitle">Mudo</div>
+                    <div class="navListDesc">Desabilita o áudio.</div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-xs-6" align="left">
+                <div class="iconReplay col-xs-2"></div>
+                <div class="col-xs-8">
+                    <div class="navListTitle">Reiniciar</div>
+                    <div class="navListDesc">Volta ao menu principal ou ao início da animação.</div>
+                </div>
+            </div>
+            <div class="col-xs-6" align="left">
+                <div class="iconAudio col-xs-2"></div>
+                <div class="col-xs-8">
+                    <div class="navListTitle">Áudio</div>
+                    <div class="navListDesc">Habilita o áudio.</div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-xs-6" align="left">
+                <div class="iconVolUp col-xs-2"></div>
+                <div class="col-xs-8">
+                    <div class="navListTitle">Volume (com som)</div>
+                    <div class="navListDesc">Controla o volume do áudio.</div>
+                </div>
+            </div>
+            <div class="col-xs-6" align="left">
+                <div class="iconCC col-xs-2"></div>
+                <div class="col-xs-8">
+                    <div class="navListTitle">Legenda</div>
+                    <div class="navListDesc">Controla o aparecimento da legenda do áudio na animação ou no vídeo.</div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="row navContentContainer">
+    <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
+        <img src="legacy/shell/assets/images/nav_img03.png" class="navMiscImg">
+    </div>
+    <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
+        <div class="row">
+            <div class="col-xs-6" align="left">
+                <div class="iconSave col-xs-2"></div>
+                <div class="col-xs-8">
+                    <div class="navListTitle">Salvar</div>
+                    <div class="navListDesc">Salva o documento.</div>
+                </div>
+            </div>
+            <div class="col-xs-6" align="left">
+                <div class="iconZoomIn col-xs-2"></div>
+                <div class="col-xs-8">
+                    <div class="navListTitle">Ampliar</div>
+                    <div class="navListDesc">Amplia a imagem.</div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-xs-6" align="left">
+                <div class="iconPrint col-xs-2"></div>
+                <div class="col-xs-8">
+                    <div class="navListTitle">Imprimir</div>
+                    <div class="navListDesc">Imprimi o documento.</div>
+                </div>
+            </div>
+            <div class="col-xs-6" align="left">
+                <div class="iconZoomOut col-xs-2"></div>
+                <div class="col-xs-8">
+                    <div class="navListTitle">Diminuir</div>
+                    <div class="navListDesc">Diminui a imagem.</div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-xs-6" align="left">
+                <div class="iconMap col-xs-2"></div>
+                <div class="col-xs-8">
+                    <div class="navListTitle">Mapa</div>
+                    <div class="navListDesc">Mostra o mapa.</div>
+                </div>
+            </div>
+            <div class="col-xs-6" align="left">
+                <div class="iconClose col-xs-2"></div>
+                <div class="col-xs-8">
+                    <div class="navListTitle">Fechar</div>
+                    <div class="navListDesc">Fecha caixas de texto, imagens, gráficos, mapas etc.</div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-xs-6" align="left">
+                <div class="iconCalc col-xs-2"></div>
+                <div class="col-xs-8">
+                    <div class="navListTitle">Calculadora</div>
+                    <div class="navListDesc">Habilita a calculadora.</div>
+                </div>
+            </div>
+            <div class="col-xs-6" align="left">
+                <div class="iconPlus col-xs-2"></div>
+                <div class="col-xs-8">
+                    <div class="navListTitle">Saiba mais</div>
+                    <div class="navListDesc">Mostra informações adicionais.</div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="closeBtnParentDiv" align="right">
+    <div id="btnClose" class="popupCloseBtnStyle" ></div>
+</div>
+</div>
+</script>
+
+<script type="text/template" id="textPopup">
+
+    <div id="creditPopupContainer" class="creditPopupStyle" align="center">
+        <div class="closeBtnParentDiv" align="right">
+            <div id="btnClose" class="popupCloseBtnStyle" ></div>
+            <div id="btnZoomIn" class="zoomInBtnStyle" ></div>
+            <div id="btnZoomOut" class="zoomOutBtnStyle" ></div>
+        </div>
+        <div id="textContainer" maxZoomSize="60" minZoomSize="20">
+            Hello....
+        </div>
+    </div>
+</script>
+
+<script type="text/template" id="helpPopup">
+    <div>
+        <div id="helpTextContainer" class="helpPopup">
+            Help text goes here
+        </div>
+        <div class="popupArrow helpPopupArrow"></div>
+    </div>
+</script>
+
+<script type="text/template" id="instructionPopup">
+    <div>
+        <div id="instructionTextContainer" class="instructionPopup">
+            Instruction text goes here
+        </div>
+        <div class="popupArrow instructionPopupArrow"></div>
+    </div>
+
+</script>
+
+<script type="text/template" id="menuPopup">
+    <div id="menuPopupContainer" class="menuPopupContainer">
+        <!--<div class="menuPopupManualBtn">Teacher Manual</div>-->
+        <div class="menuPopupNavBtn"></div>
+        <div class="menuPopupCreditsBtn"></div>
+    </div>
+</script>
+

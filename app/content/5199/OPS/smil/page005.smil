@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" version="3.0">
+<body>
+<par id="id1">
+<text src="../page005.xhtml"/>
+<audio clipBegin="0.000000" clipEnd="99.186939" src="../audio/pg_5.mp3"/>
+</par>
+</body>
+</smil>

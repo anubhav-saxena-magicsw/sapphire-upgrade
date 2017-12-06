@@ -1,0 +1,1450 @@
+@font-face {
+	font-family:f0generic;
+	src:url(../fonts/f0.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f1generic;
+	src:url(../fonts/f1.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f2generic;
+	src:url(../fonts/f2.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f3generic;
+	src:url(../fonts/f3.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f4generic;
+	src:url(../fonts/f4.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f5generic;
+	src:url(../fonts/f5.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f6generic;
+	src:url(../fonts/f6.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f7generic;
+	src:url(../fonts/f7.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f8generic;
+	src:url(../fonts/f8.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f9generic;
+	src:url(../fonts/f9.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f10generic;
+	src:url(../fonts/f10.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f11generic;
+	src:url(../fonts/f11.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f12generic;
+	src:url(../fonts/f12.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f13generic;
+	src:url(../fonts/f13.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f14generic;
+	src:url(../fonts/f14.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f15generic;
+	src:url(../fonts/f15.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f16generic;
+	src:url(../fonts/f16.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f17generic;
+	src:url(../fonts/f17.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f18generic;
+	src:url(../fonts/f18.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f19generic;
+	src:url(../fonts/f19.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f20generic;
+	src:url(../fonts/f20.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f21generic;
+	src:url(../fonts/f21.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f22generic;
+	src:url(../fonts/f22.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f23generic;
+	src:url(../fonts/f23.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f24generic;
+	src:url(../fonts/f24.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f25generic;
+	src:url(../fonts/f25.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f26generic;
+	src:url(../fonts/f26.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f27generic;
+	src:url(../fonts/f27.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f28generic;
+	src:url(../fonts/f28.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f29generic;
+	src:url(../fonts/f29.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f30generic;
+	src:url(../fonts/f30.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f31generic;
+	src:url(../fonts/f31.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f32generic;
+	src:url(../fonts/f32.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f33generic;
+	src:url(../fonts/f33.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f34generic;
+	src:url(../fonts/f34.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f35generic;
+	src:url(../fonts/f35.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f36generic;
+	src:url(../fonts/f36.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f37generic;
+	src:url(../fonts/f37.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f38generic;
+	src:url(../fonts/f38.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f39generic;
+	src:url(../fonts/f39.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f40generic;
+	src:url(../fonts/f40.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f41generic;
+	src:url(../fonts/f41.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f42generic;
+	src:url(../fonts/f42.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f43generic;
+	src:url(../fonts/f43.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f44generic;
+	src:url(../fonts/f44.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f45generic;
+	src:url(../fonts/f45.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f46generic;
+	src:url(../fonts/f46.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f47generic;
+	src:url(../fonts/f47.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f48generic;
+	src:url(../fonts/f48.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f49generic;
+	src:url(../fonts/f49.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f50generic;
+	src:url(../fonts/f50.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f51generic;
+	src:url(../fonts/f51.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f52generic;
+	src:url(../fonts/f52.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f53generic;
+	src:url(../fonts/f53.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f54generic;
+	src:url(../fonts/f54.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f55generic;
+	src:url(../fonts/f55.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f56generic;
+	src:url(../fonts/f56.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f57generic;
+	src:url(../fonts/f57.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f58generic;
+	src:url(../fonts/f58.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f59generic;
+	src:url(../fonts/f59.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f60generic;
+	src:url(../fonts/f60.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f61generic;
+	src:url(../fonts/f61.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f62generic;
+	src:url(../fonts/f62.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f63generic;
+	src:url(../fonts/f63.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f64generic;
+	src:url(../fonts/f64.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f65generic;
+	src:url(../fonts/f65.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f66generic;
+	src:url(../fonts/f66.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f67generic;
+	src:url(../fonts/f67.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f68generic;
+	src:url(../fonts/f68.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f69generic;
+	src:url(../fonts/f69.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f70generic;
+	src:url(../fonts/f70.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f71generic;
+	src:url(../fonts/f71.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f72generic;
+	src:url(../fonts/f72.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f73generic;
+	src:url(../fonts/f73.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f76generic;
+	src:url(../fonts/f76.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f74generic;
+	src:url(../fonts/f74.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f75generic;
+	src:url(../fonts/f75.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f78generic;
+	src:url(../fonts/f78.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f77generic;
+	src:url(../fonts/f77.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f79generic;
+	src:url(../fonts/f79.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f80generic;
+	src:url(../fonts/f80.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f81generic;
+	src:url(../fonts/f81.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f82generic;
+	src:url(../fonts/f82.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f83generic;
+	src:url(../fonts/f83.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f84generic;
+	src:url(../fonts/f84.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f85generic;
+	src:url(../fonts/f85.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f86generic;
+	src:url(../fonts/f86.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f87generic;
+	src:url(../fonts/f87.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f88generic;
+	src:url(../fonts/f88.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f89generic;
+	src:url(../fonts/f89.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f90generic;
+	src:url(../fonts/f90.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f91generic;
+	src:url(../fonts/f91.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f92generic;
+	src:url(../fonts/f92.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f93generic;
+	src:url(../fonts/f93.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f94generic;
+	src:url(../fonts/f94.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f95generic;
+	src:url(../fonts/f95.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f96generic;
+	src:url(../fonts/f96.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f97generic;
+	src:url(../fonts/f97.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f98generic;
+	src:url(../fonts/f98.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f99generic;
+	src:url(../fonts/f99.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f100generic;
+	src:url(../fonts/f100.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f101generic;
+	src:url(../fonts/f101.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f102generic;
+	src:url(../fonts/f102.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f103generic;
+	src:url(../fonts/f103.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f104generic;
+	src:url(../fonts/f104.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f105generic;
+	src:url(../fonts/f105.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f106generic;
+	src:url(../fonts/f106.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f107generic;
+	src:url(../fonts/f107.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f108generic;
+	src:url(../fonts/f108.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f109generic;
+	src:url(../fonts/f109.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f110generic;
+	src:url(../fonts/f110.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f111generic;
+	src:url(../fonts/f111.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f112generic;
+	src:url(../fonts/f112.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f113generic;
+	src:url(../fonts/f113.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f114generic;
+	src:url(../fonts/f114.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f115generic;
+	src:url(../fonts/f115.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f116generic;
+	src:url(../fonts/f116.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f117generic;
+	src:url(../fonts/f117.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f118generic;
+	src:url(../fonts/f118.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f119generic;
+	src:url(../fonts/f119.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f120generic;
+	src:url(../fonts/f120.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f121generic;
+	src:url(../fonts/f121.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f122generic;
+	src:url(../fonts/f122.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f123generic;
+	src:url(../fonts/f123.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f124generic;
+	src:url(../fonts/f124.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f125generic;
+	src:url(../fonts/f125.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f126generic;
+	src:url(../fonts/f126.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f127generic;
+	src:url(../fonts/f127.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f128generic;
+	src:url(../fonts/f128.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f129generic;
+	src:url(../fonts/f129.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f130generic;
+	src:url(../fonts/f130.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f131generic;
+	src:url(../fonts/f131.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f132generic;
+	src:url(../fonts/f132.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f133generic;
+	src:url(../fonts/f133.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f134generic;
+	src:url(../fonts/f134.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f135generic;
+	src:url(../fonts/f135.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f136generic;
+	src:url(../fonts/f136.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f137generic;
+	src:url(../fonts/f137.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f138generic;
+	src:url(../fonts/f138.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f139generic;
+	src:url(../fonts/f139.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f140generic;
+	src:url(../fonts/f140.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f141generic;
+	src:url(../fonts/f141.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f142generic;
+	src:url(../fonts/f142.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f143generic;
+	src:url(../fonts/f143.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f144generic;
+	src:url(../fonts/f144.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f145generic;
+	src:url(../fonts/f145.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f146generic;
+	src:url(../fonts/f146.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f147generic;
+	src:url(../fonts/f147.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f148generic;
+	src:url(../fonts/f148.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f149generic;
+	src:url(../fonts/f149.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f150generic;
+	src:url(../fonts/f150.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f151generic;
+	src:url(../fonts/f151.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f154generic;
+	src:url(../fonts/f154.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f152generic;
+	src:url(../fonts/f152.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f153generic;
+	src:url(../fonts/f153.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f155generic;
+	src:url(../fonts/f155.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f156generic;
+	src:url(../fonts/f156.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f157generic;
+	src:url(../fonts/f157.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f158generic;
+	src:url(../fonts/f158.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f159generic;
+	src:url(../fonts/f159.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f160generic;
+	src:url(../fonts/f160.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f161generic;
+	src:url(../fonts/f161.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f162generic;
+	src:url(../fonts/f162.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f163generic;
+	src:url(../fonts/f163.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f164generic;
+	src:url(../fonts/f164.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f165generic;
+	src:url(../fonts/f165.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f166generic;
+	src:url(../fonts/f166.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f167generic;
+	src:url(../fonts/f167.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f168generic;
+	src:url(../fonts/f168.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f169generic;
+	src:url(../fonts/f169.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f170generic;
+	src:url(../fonts/f170.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f171generic;
+	src:url(../fonts/f171.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f172generic;
+	src:url(../fonts/f172.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f173generic;
+	src:url(../fonts/f173.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f174generic;
+	src:url(../fonts/f174.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f175generic;
+	src:url(../fonts/f175.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f176generic;
+	src:url(../fonts/f176.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f177generic;
+	src:url(../fonts/f177.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f178generic;
+	src:url(../fonts/f178.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f179generic;
+	src:url(../fonts/f179.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f180generic;
+	src:url(../fonts/f180.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f181generic;
+	src:url(../fonts/f181.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f182generic;
+	src:url(../fonts/f182.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f183generic;
+	src:url(../fonts/f183.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f184generic;
+	src:url(../fonts/f184.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f185generic;
+	src:url(../fonts/f185.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f186generic;
+	src:url(../fonts/f186.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f187generic;
+	src:url(../fonts/f187.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f188generic;
+	src:url(../fonts/f188.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f189generic;
+	src:url(../fonts/f189.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f190generic;
+	src:url(../fonts/f190.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f191generic;
+	src:url(../fonts/f191.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f192generic;
+	src:url(../fonts/f192.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f193generic;
+	src:url(../fonts/f193.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f194generic;
+	src:url(../fonts/f194.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f195generic;
+	src:url(../fonts/f195.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f196generic;
+	src:url(../fonts/f196.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f197generic;
+	src:url(../fonts/f197.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f198generic;
+	src:url(../fonts/f198.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f199generic;
+	src:url(../fonts/f199.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f200generic;
+	src:url(../fonts/f200.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f201generic;
+	src:url(../fonts/f201.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f202generic;
+	src:url(../fonts/f202.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f203generic;
+	src:url(../fonts/f203.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f204generic;
+	src:url(../fonts/f204.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f205generic;
+	src:url(../fonts/f205.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f206generic;
+	src:url(../fonts/f206.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f207generic;
+	src:url(../fonts/f207.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f208generic;
+	src:url(../fonts/f208.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f209generic;
+	src:url(../fonts/f209.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f210generic;
+	src:url(../fonts/f210.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f211generic;
+	src:url(../fonts/f211.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f212generic;
+	src:url(../fonts/f212.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f213generic;
+	src:url(../fonts/f213.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f214generic;
+	src:url(../fonts/f214.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f215generic;
+	src:url(../fonts/f215.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f216generic;
+	src:url(../fonts/f216.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f217generic;
+	src:url(../fonts/f217.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f218generic;
+	src:url(../fonts/f218.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f219generic;
+	src:url(../fonts/f219.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f220generic;
+	src:url(../fonts/f220.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f221generic;
+	src:url(../fonts/f221.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f222generic;
+	src:url(../fonts/f222.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f223generic;
+	src:url(../fonts/f223.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f224generic;
+	src:url(../fonts/f224.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f225generic;
+	src:url(../fonts/f225.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f226generic;
+	src:url(../fonts/f226.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f227generic;
+	src:url(../fonts/f227.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f228generic;
+	src:url(../fonts/f228.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f229generic;
+	src:url(../fonts/f229.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f230generic;
+	src:url(../fonts/f230.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f231generic;
+	src:url(../fonts/f231.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f232generic;
+	src:url(../fonts/f232.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f233generic;
+	src:url(../fonts/f233.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f234generic;
+	src:url(../fonts/f234.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f235generic;
+	src:url(../fonts/f235.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f236generic;
+	src:url(../fonts/f236.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f237generic;
+	src:url(../fonts/f237.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f238generic;
+	src:url(../fonts/f238.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f239generic;
+	src:url(../fonts/f239.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f240generic;
+	src:url(../fonts/f240.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f241generic;
+	src:url(../fonts/f241.otf) format("opentype");
+}

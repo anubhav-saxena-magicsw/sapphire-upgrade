@@ -1,0 +1,1 @@
+define(["marionette"],function(){var e;return e=Backbone.Marionette.Controller.extend({objActivity:null,screenId:void 0,model:void 0}),e.prototype.init=function(){return console.log("screenHelper init!!!!!!!!!!!!!"),"hello"},e});

@@ -1,0 +1,52 @@
+@font-face {
+	font-family:f8generic;
+	src:url(../fonts/f8.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f4generic;
+	src:url(../fonts/f4.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f5generic;
+	src:url(../fonts/f5.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f0generic;
+	src:url(../fonts/f0.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f1generic;
+	src:url(../fonts/f1.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f2generic;
+	src:url(../fonts/f2.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f3generic;
+	src:url(../fonts/f3.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f7generic;
+	src:url(../fonts/f7.otf) format("opentype");
+}
+
+
+@font-face {
+	font-family:f6generic;
+	src:url(../fonts/f6.otf) format("opentype");
+}

@@ -1,0 +1,1 @@
+define('text!components/videoplayer/templates/videoplayer-tmpl.html',[],function () { return '<video id="objVideo" width="100px" height="100px">\r\n\t{{# _.each(data, function(item){ }}\r\n\t<source src = "{{ item.path }}"></source>\r\n\t{{# }); }} \t\t   \t\t\r\n</video>';});

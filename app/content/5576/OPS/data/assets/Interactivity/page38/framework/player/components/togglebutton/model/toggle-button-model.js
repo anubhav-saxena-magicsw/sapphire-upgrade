@@ -1,0 +1,1 @@
+define([],function(){var e=Backbone.Model.extend({defaults:{normalClass:"DefaultbtnNormal",label:"ToggleButton",shouldToggle:!0,state:0}});return e});

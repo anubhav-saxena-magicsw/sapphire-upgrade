@@ -1,0 +1,1 @@
+define(["marionette"],function(){var t=function(){};return t.prototype.testMethod=function(){},t});

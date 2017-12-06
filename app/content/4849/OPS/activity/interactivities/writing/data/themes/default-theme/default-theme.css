@@ -1,0 +1,39 @@
+body{
+	margin:0px;
+	padding:0px;
+	width:100%;
+	height:100%;
+	position: absolute;
+}
+
+.theme1 .mPlayer {
+	width: 100%;
+	height: 100%;
+	position: absolute;
+}
+
+.theme1 .mRegion {
+	width: 100%;
+	height: 100%;
+	position: relative;
+}
+
+.theme1 .defaultActivityStyle {
+	width: 100%;
+	height: 100%;
+	position:absolute;
+}
+
+.theme1 .screenHolderStyle{
+	width: 100%;
+	height: 100%;
+	overflow: scroll;
+	position:relative;
+}
+
+.theme1 .screenBlocker {
+	width: 100%;
+	height: 100%;
+	display: block;
+}
+

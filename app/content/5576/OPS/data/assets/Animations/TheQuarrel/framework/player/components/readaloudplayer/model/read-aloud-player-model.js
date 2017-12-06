@@ -1,0 +1,1 @@
+define([],function(){var e=Backbone.Model.extend({defaults:{audioPlayerRef:null,audioSource:void 0,xmlPath:"framework/player/components/readAloudPlayer/template/xml/roads.xml",strHotSpots:"",map:[],highlightClass:"DefaultHotSpotHighlight"}});return e});

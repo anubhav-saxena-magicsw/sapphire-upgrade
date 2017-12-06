@@ -1,0 +1,1 @@
+define([],function(){var S={CONSTANTS:{HORIZONTAL:"horizontal",VERTICAL:"vertical"},EVENTS:{SLIDING_STARTED:"SliderStarted",SLIDING_IN_PROGRESS:"SliderInProgress",SLIDING_STOPPED:"SliderStopped",MOUSEUP_ON_THUMB:"MouseupOnThumb",MOUSEDOWN_ON_THUMB:"MouseDownThumb"}};return S});

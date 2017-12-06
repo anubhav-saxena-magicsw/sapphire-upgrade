@@ -1,0 +1,1 @@
+define(["components/physicsengine/js/body"],function(i){var e=function(i){this.init(i)};return e.prototype=new i,e.prototype.setRadius=function(i,e){void 0!==i&&(this.fixDef.shape=new this.BOX2D.b2CircleShape(i)),void 0!==e&&(this.view=e)},e});

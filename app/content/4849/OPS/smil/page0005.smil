@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" version="3.0">
+	<body>
+		<par id="id-1">
+			<text src="../page0005.xhtml#word1"/>
+			<audio clipBegin="0.000000" clipEnd="1.794530" src="../Audio/TCM18362_toc1.mp3"/>
+		</par>
+		<par id="id-2">
+			<text src="../page0005.xhtml#word2"/>
+			<audio clipBegin="0.000000" clipEnd="3.343036" src="../Audio/TCM18362_toc2.mp3"/>
+		</par>
+		<par id="id-3">
+			<text src="../page0005.xhtml#word3"/>
+			<audio clipBegin="0.000000" clipEnd="3.271817" src="../Audio/TCM18362_toc3.mp3"/>
+		</par>
+		<par id="id-4">
+			<text src="../page0005.xhtml#word4"/>
+			<audio clipBegin="0.000000" clipEnd="3.174954" src="../Audio/TCM18362_toc4.mp3"/>
+		</par>
+		<par id="id-5">
+			<text src="../page0005.xhtml#word5"/>
+			<audio clipBegin="0.000000" clipEnd="3.602613" src="../Audio/TCM18362_toc5.mp3"/>
+		</par>
+		<par id="id-6">
+			<text src="../page0005.xhtml#word6"/>
+			<audio clipBegin="0.000000" clipEnd="3.845023" src="../Audio/TCM18362_toc6.mp3"/>
+		</par>
+		<par id="id-7">
+			<text src="../page0005.xhtml#word7"/>
+			<audio clipBegin="0.000000" clipEnd="4.041379" src="../Audio/TCM18362_toc7.mp3"/>
+		</par>
+		<par id="id-8">
+			<text src="../page0005.xhtml#word8"/>
+			<audio clipBegin="0.000000" clipEnd="3.525733" src="../Audio/TCM18362_toc8.mp3"/>
+		</par>
+		<par id="id-9">
+			<text src="../page0005.xhtml#word9"/>
+			<audio clipBegin="0.000000" clipEnd="2.780513" src="../Audio/TCM18362_toc9.mp3"/>
+		</par>
+		<par id="id-10">
+			<text src="../page0005.xhtml#word10"/>
+			<audio clipBegin="0.000000" clipEnd="2.836000" src="../Audio/TCM18362_toc10.mp3"/>
+		</par>
+		<par id="id-11">
+			<text src="../page0005.xhtml#word11"/>
+			<audio clipBegin="0.000000" clipEnd="3.318959" src="../Audio/TCM18362_toc11.mp3"/>
+		</par>
+	</body>
+</smil>

@@ -1,0 +1,1 @@
+define('text!components/carousel/template/carousel.html',[],function () { return '<div id="carouselWrapper">\r\n\t\r\n\t<div id="btnPrevious" class="PreviousButtonStyle">\r\n\t\t\r\n\t</div>\r\n\t<div id="imageContainer" class="CarouselItemContainer">\r\n\t\t\r\n\t</div>\t\r\n\t<div id="btnNext" class="NextButtonStyle">\r\n\t\t\r\n\t</div>\r\n</div>';});

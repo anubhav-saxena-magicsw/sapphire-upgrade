@@ -1,0 +1,1 @@
+define([],function(){var N={CONSTANTS:{HIGHLIGHTER:"highlighter",UNDERLINE:"underline"},EVENTS:{TOGGLE:"toggle",MOUSEDOWN_ON_SPAN:"mouseDownSpan",MOUSEUP_ON_SPAN:"mouseUpSpan"}};return N});

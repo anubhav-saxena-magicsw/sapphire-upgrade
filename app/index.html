@@ -1,30 +1,21 @@
 <!DOCTYPE html>
-<html ng-app="myApp">
+<html ng-app="sapphire">
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" type="text/css" href="../new-readium/css/readium-all.css">
     <script type="text/javascript" src="../new-readium/scripts/readium-js-viewer_all.js"></script>
     <script type="text/javascript" src="../new-readium/scripts/fonts.js"></script>
-    <script type="text/javascript">
-
-    </script>
+    <script src="bower_components/angular/angular.min.js"></script>
+    <script src="bower_components/angular-route/angular-route.min.js"></script>
+    <script src="components/wrapper/wrapper.js"></script>
+    <script src="app.js"></script>
 </head>
-<!-- This is all application-specific HTML -->
-<body >
-
-<!--<div id="app-container">-->
-    <!---->
-<!--</div>-->
-<script src="bower_components/angular/angular.min.js"></script>
-<script src="bower_components/angular-route/angular-route.min.js"></script>
-<script src="modules/reader.js"></script>
-<script src="modules/readiumRunConfig.js"></script>
-<script src="app.js"></script>
-<div ng-view></div>
-<div id="app-container" >
+<body>
+<div ng-view>
 
 </div>
+
 </body>
 
 </html>

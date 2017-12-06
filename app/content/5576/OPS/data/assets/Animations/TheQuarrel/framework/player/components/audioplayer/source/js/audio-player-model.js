@@ -1,0 +1,1 @@
+define(["player/base/base-activity-model"],function(e){var t=e.extend({defaults:{data:{},loop:!1,withUi:!1}});return t.prototype.__super__=e,t});

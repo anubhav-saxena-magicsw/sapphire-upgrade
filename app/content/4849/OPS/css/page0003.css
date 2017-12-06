@@ -1,0 +1,15 @@
+.tr3{
+ color:transparent;
+}
+#PageContainer3{
+width:875px;height:1125px;background-image: url("../images/page0003.png");background-repeat:no-repeat;background-size: 875px 1125px; background-position: left bottom;
+}
+#ImageContainer3 {
+bottom:0.00px;left:0.00px;width:875px;height:1125px;position:absolute;
+}
+#page0003_0{
+max-height:289px;vertical-align:middle;left:51px;bottom:791px;position:absolute;content:url("../images/crop_page0003_1.png");
+}
+#page0003_1{
+max-height:64px;vertical-align:middle;left:328px;bottom:73px;position:absolute;content:url("../images/crop_page0003_2.png");
+}

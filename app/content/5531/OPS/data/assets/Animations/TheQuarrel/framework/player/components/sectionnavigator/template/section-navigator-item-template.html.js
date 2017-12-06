@@ -1,0 +1,1 @@
+define('text!components/sectionnavigator/template/section-navigator-item-template.html',[],function () { return '<div id="sectionHotspot">\r\n\t\r\n</div>\r\n<div id="activityNavigation">\r\n\t\r\n</div>';});

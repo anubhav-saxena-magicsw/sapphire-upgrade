@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dndInteractive>
+	<dnd id="dnd1" type="oneToOne" dragCopy="false" dropCopy="false" revert="true" revertToOriginalPosition="true" containment="#dndHolder" multiAccept="false" replace="false" onlyCorrect="false" theme="dnd1">
+		<draggableItem>
+			
+			<option id="opt1" type="draggable" styleClass="draggableItem">
+					<label id="small_plane">The Lincoln Memorial is where Dr. Martin Luther King Jr. gave his "I Have a Dream" speech.</label>
+			</option>
+			<option id="opt2" type="draggable" styleClass="draggableItem">
+					<label id="small_plane">The Supreme Court listens to cases that are important to the country.</label>
+			</option>
+			<option id="opt3" type="draggable" styleClass="draggableItem">
+					<label id="small_plane">The Vietnam Memorial honours the people who died in this war.</label>
+			</option>
+			
+			<option id="opt4" type="draggable" styleClass="draggableItem">
+					<label id="small_plane">The Smithsonian is the world's largest museum and research center.</label>
+			</option>
+					
+			
+		</draggableItem>
+		
+		<droppableItem>
+			<option id="drop1" type="droppable" correctFor="" styleClass="droppableItem" >
+					<!--<label id="high_atlanta"></label>-->
+			</option>
+			<option id="drop2" type="droppable" correctFor="" styleClass="droppableItem" >
+					<!--<label id="high_atlanta"></label>-->
+			</option>
+			<option id="drop3" type="droppable" correctFor="" styleClass="droppableItem" >
+					<!--<label id="high_atlanta"></label>-->
+			</option>
+				
+			<option id="drop4" type="droppable" correctFor="" styleClass="droppableItem" >
+					<!--<label id="high_atlanta"></label>-->
+			</option>
+				
+		</droppableItem>
+	</dnd>	
+
+</dndInteractive>

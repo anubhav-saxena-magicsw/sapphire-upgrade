@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" version="3.0">
+  <body>
+    <par id="id-1">
+      <text src="../page034.xhtml#word1" />
+      <audio clipBegin="0.089135" clipEnd="0.602970" src="../data/assets/Audio/page034.mp3" />
+    </par>
+    <par id="id-2">
+      <text src="../page034.xhtml#word2" />
+      <audio clipBegin="0.602970" clipEnd="1.437296" src="../data/assets/Audio/page034.mp3" />
+    </par>
+  </body>
+</smil>

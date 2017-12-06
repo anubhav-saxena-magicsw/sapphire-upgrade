@@ -1,0 +1,28 @@
+<input id="checkbox_{{ groupName }}_{{ id }}" style="float:left;" type="checkbox" class="checkboxInput">
+<label class="checkboxContent" for="checkbox_{{ groupName }}_{{ id }}" >
+        <span class="checkboxLabel">{{ label }}</span>
+        <div class="checkboxImgDiv">
+            <div style="background-image:url('{{ img }}'); width:100%; height:100%;" class="checkboxImg"></div>
+        </div>
+</label>
+<!--
+    following div is for displaying feedback (if any).
+    It is being used by MCQ for now. By default its display is none
+    and it should be in this state only
+-->
+{{# if(isFeedbackAvailable){ }}
+<div id="correctFB_{{ groupName }}_{{ id }}" style="display:none;" class="correctFb">
+    <span class="correctFbText">{{ correctFeedback.description }}</span>
+    {{# if(correctFeedback.image && correctFeedback.image !== ""){ }}
+    		<img class="correctFbImg" src="{{ correctFeedback.image }}" />
+    {{# } }}
+</div>
+
+<div id="incorrectFB_{{ groupName }}_{{ id }}" style="display:none;" class="incorrectFb">
+    <span class="incorrectFbText">{{ incorrectFeedback.description }}</span>
+    {{# if(incorrectFeedback.image && incorrectFeedback.image !== ""){ }}
+    		<img class="incorrectFb" src="{{ incorrectFeedback.image }}" />
+    {{# } }}
+</div>
+
+{{# } }}

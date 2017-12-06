@@ -1,0 +1,1 @@
+define(["marionette","player/base/base-layout-comp","text!components/option/option.html"],function(t,e,n){var o=e.extend({template:_.template(n),initialize:function(){},onRender:function(){this.storeState()}});return o.prototype.storeState=function(){},o});

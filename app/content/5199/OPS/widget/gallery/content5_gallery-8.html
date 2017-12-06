@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body style="padding: 0; margin: 0; font-family:Arial, Verdana;background-color:#e6e6e6;">
+    <!-- it works the same with all jquery version from 1.x to 2.x -->
+    <link rel="stylesheet" type="text/css" href="css/gallery.css" />
+    <script type="text/javascript" src="js/jquery-1.9.1.min.js"></script>
+    <script type="text/javascript" src="js/jquery-ui.min.js"></script>
+      <script type="text/javascript" src="js/jssor.js"></script>
+    	<script type="text/javascript" src="js/jssor.slider.js"></script>
+     <script type="text/javascript" src="js/gallery.js"></script>
+    
+    
+   
+    
+    
+    <!-- You can move inline styles to css file or css block. -->
+	<div id="outerSliderContainer" class="outerSliderContainer" style="overflow: hidden;">
+	    <div id="slider1_container" class="slider1_container" data-fullscreen-only="no" data-autoplay="no" show-caption="no" imageCount="9" style="overflow: hidden;">
+			
+			<!-- TITLE -->
+			<div id="slider1_title" class="title"><span style="color:#dfb359;">SLIDE SHOW</span> There are nine slides in this series.</div>
+	        
+	        
+	        <!-- Loading Screen -->
+	        <div u="loading" data-fallback="gallery_fallback-2.png" style="position: absolute; top: 33px; left: 0px;">
+	            <div style="filter: alpha(opacity=70); opacity:0.7; position: absolute; display: block;background-color: #000000; top: 0px; left: 0px;width: 100%;height:100%;"></div>
+	            <div style="position: absolute; display: block; background: url(img/loading.gif) no-repeat center center;top: 0px; left: 0px;width: 100%;height:100%;"></div>
+	        </div>
+	        
+	        
+	        
+	        <!-- Slides Container -->
+	        <div z="imgHolder" class="imgHolder" u="slides" style="overflow: hidden;">
+	        	
+	            <div>
+	                <img u="image" src="../../images/Robotic_Spacecraft_Mars_1960.jpg" />
+	                <img u="thumb" src="../../images/Robotic_Spacecraft_Mars_1960-thumb.jpg" />
+	                <div class="zoomBtnContainer" ></div>
+	            </div>
+	            <div>
+	                <img u="image" src="../../images/Mariner_Mars.jpg" />
+	                <img u="thumb" src="../../images/Mariner_Mars-thumb.jpg" />
+	                <div  class="zoomBtnContainer" ></div>
+	            </div>
+	            <div>
+	                <img u="image" src="../../images/Mariner_9_Mars_Surface.jpg" />
+	                <img u="thumb" src="../../images/Mariner_9_Mars_Surface-thumb.jpg" />
+	                <div  class="zoomBtnContainer" ></div>
+	            </div>
+	            <div>
+	                <img u="image" src="../../images/Viking_Mars.jpg" />
+	                <img u="thumb" src="../../images/Viking_Mars-thumb.jpg" />
+	                <div class="zoomBtnContainer" ></div>
+	            </div>
+	            <div>
+	                <img u="image" src="../../images/Mars_Pathfinder.jpg" />
+	                <img u="thumb" src="../../images/Mars_Pathfinder-thumb.jpg" />
+	                <div  class="zoomBtnContainer" ></div>
+	            </div>
+	            <div>
+	                <img u="image" src="../../images/Mars_Global_Surveyor_Surface_Image.jpg" />
+	                <img u="thumb" src="../../images/Mars_Global_Surveyor_Surface_Image-thumb.jpg" />
+	                <div class="zoomBtnContainer" ></div>
+	            </div>
+	            <div>
+	                <img u="image" src="../../images/Mars_Odyssey_THEMIS_Image.jpg" />
+	                <img u="thumb" src="../../images/Mars_Odyssey_THEMIS_Image-thumb.jpg" />
+	                <div class="zoomBtnContainer" ></div>
+	            </div>
+	            <div>
+	                <img u="image" src="../../images/ss3h_263915main_mer-blue-berry-Mars-540-334-px.jpg" />
+	                <img u="thumb" src="../../images/ss3h_263915main_mer-blue-berry-Mars-540-334-px-thumb.jpg" />
+	                <div class="zoomBtnContainer" ></div>
+	            </div>
+	            <div>
+	                <img u="image" src="../../images/Hebes_Chasma.jpg" />
+	                <img u="thumb" src="../../images/Hebes_Chasma-thumb.jpg" />
+	                <div class="zoomBtnContainer" ></div>
+	            </div>
+	            
+	        </div>
+	        <!-- caption Container -->
+	        <div l="captionContainer" class="captionContainer"></div>
+			<div c="imgCaption" class="imgCaption">Flyby: Robotic spacecraft began detailed observation of Mars in the 1960s. On November 28, 1964, Mariner 4 launched. 228 days later it became the first spacecraft ever to fly by the red planet. This image, taken from Mariner 4, is the first photograph clearly showing craters on Mars. Because it passed Mars quickly, it took only a handful of images. Image courtesy: NASA.</div>	        
+	        <div c="imgCaption" class="imgCaption">Flyby: In 1969, Mariner 6 and Mariner 7 completed the first dual mission to Mars, flying over the equator and south polar regions. During this mission, the Martian atmosphere and surface was analyzed with remote sensors, and hundreds of pictures were recorded and relayed. However, these missions missed many of the Earth-like features such as canyons and volcanoes. Image courtesy: NASA/JPL.</div>
+	        <div c="imgCaption" class="imgCaption">Orbit: In 1971, Mariner 9 went into orbit around Mars. This craft mapped about 80% of Mars. It made the first discoveries of the planet's canyons and volcanoes. This image shows a more detailed view of Olympus Mons (volcano) above the Martian Dust Storm. Image courtesy: NASA/JPL.</div>	        
+	        <div c="imgCaption" class="imgCaption">Orbit and Land: The Viking Mission to Mars was composed of two spacecraft, Viking 1 and Viking 2, each consisting of an orbiter and a lander. The Viking landers were the first spacecraft to land successfully on Mars and provided high-resolution images of the surface. The orbiters lasted several years, allowing the first study of the planet over seasons, and more detailed surface views. This compilation of images from the Viking Orbiter 1 shows the entire Valles Marineris canyon system, which is 3,000 km long and 8 km deep. Image courtesy: NASA/NSSDC Photo Gallery.</div>	        
+	        <div c="imgCaption" class="imgCaption">Land: Landing in 1997, Mars Pathfinder was originally designed as a technological demonstration of a way to deliver an instrumented lander and robotic rover to the surface of Mars. Pathfinder not only accomplished this goal, but also returned an unprecedented amount of data. This image shows the Sojourner rover investigating a rock, using its Alpha Proton X-ray Spectrometer, which indicated that the rock was low in quartz content and appeared to be more like the common basalt rocks found on Earth. Image courtesy: NASA.</div>	        
+	        <div c="imgCaption" class="imgCaption">Orbit: Arriving at Mars in 1997, Mars Global Surveyor spent a year and a half stimming its orbit from a looping ellipse to a circular track around the planet. The spacecraft began its prime mapping mission in March 1999. It continued to observe the planet from a low-altitude, nearly polar orbit through most of 2006, studying the entire Martian surface, atmosphere, and interior. Its long life helped scientists track changes on the surface of Mars, such as the gullies that appear in the right-hand picture (taken in 2005) that were not present in 2002. Image courtesy: NASA/JPL/MSSS.</div>	        
+	        <div c="imgCaption" class="imgCaption">Orbit: NASA's 2001 Mars Odyssey spacecraft has collected more than 130,000 images and continues to send information to Earth about Martian geology, climate, and mineralogy. This false-color infrared image taken by the THEMIS camera reveals differences in the composition and nature of the surface. Dark areas mark exposures of relatively cold ground with abundant bare rock, while warmer basaltic sand covers the light blue-green regions. Reddish areas likely have a higher silica content, due either to a different volcanic composition or to weathering. Image courtesy: NASA/JPL/Arizona State University.</div>	        
+	        <div c="imgCaption" class="imgCaption">Land: The Mars Exploration Rover mission consists of two twin Mars rovers, Spirit and Opportunity, which landed at different locations on Mars in 2004. Carrying identical, sophisticated sets of scientific instruments, both rovers have found evidence of ancient Martian environments where intermittently wet and habitable conditions existed. This image from Opportunity rover shows an extreme close-up of round, blueberry-shaped formations in the Martian soil. These are concretions containing hematite, which have helped scientists confirm the former presence of liquid water on Mars. Image courtesy: NASA.</div>	        
+	        <div c="imgCaption" class="imgCaption">Orbit: This image was obtained on September 16, 2005 by the European Space Agency’s Mars Express orbiter, which has been exploring the atmosphere and surface of Mars from polar orbit since arriving at the red planet in 2003. It shows Hebes Chasma, an enclosed trough almost 8,000 meters deep, in Valles Marineris, the Grand Canyon of Mars. Image courtesy: ESA/DLR/FU Berlin-G. Neukum.</div>	        	        
+	        <!-- Thumbnail Navigator Skin Begin -->
+	        <div u="thumbnavigator" class="jssort01 thumbnavigator">
+	            <!-- Thumbnail Item Skin Begin -->
+	            <div u="slides" style="cursor: pointer;">
+	                <div u="prototype" t="thumbnail"class="p" style="position: absolute; width: 100px; height: 100px; top: 0; left: 0;">
+		                    <!-- <div class="z" style=""></div> -->
+		                    <div class="w c">
+		                    	<div class="thumbnailtemplate" u="thumbnailtemplate" ></div>
+		                    </div>
+	                    </div>
+	                </div>
+	            </div>
+	            <!-- Thumbnail Item Skin End -->
+	        </div>
+	        <!-- Thumbnail Navigator Skin End -->
+	    </div>
+    <!-- Jssor Slider End -->
+    </div>
+    <div id="closeBtn" class="closeBtn"></div>
+</body>
+</html>

@@ -1,0 +1,143 @@
+{
+	"screens": [
+		{
+			"id": "screen1",
+			"type": "screen",
+			"templateId": "video_screen",
+			"script": "screens/screen1/screen",
+			"data": {
+				"styleClass": "contentareasmall"
+			},
+			"events": [
+				{
+					"allChildAddedInDom": [
+						{
+							"target": "helper",
+							"method": "hideResetBtn"
+						},  {
+							"region": "mHeader",
+							"target": "self",
+							"method": "changeTitleText",
+							"params": {
+								"param1": "The Quarrel"
+							}
+						}, {
+							"target": "helper",
+							"method": "ChangeVideoPlayBtnState"
+						}
+					]
+				}
+			],
+			"components": [
+				{
+					"id": "comp_video1",
+					"type": "videoplayer",
+					"parentId": "#viodePlayerContainer",
+					"state": "attached",
+					"data": {
+						"source": [
+							{
+								"path": "screens/screen1/assets/videos/main.mp4",
+								"type": "mp4"
+							}, {
+								"path": "screens/screen1/assets/videos/main.ogv",
+								"type": "ogv"
+							}
+						],
+						"height": "510px",
+						"width": "740px"
+						
+					},
+					"events": [
+						{
+							"videoprogress": [
+								{
+									"target": "helper",
+									"method": "hidePreloader"
+								}
+							]
+						}
+					]
+				}, {
+					"id": "btnPlay",
+					"type": "button",
+					"parentId": "#controllsCont",
+					"data": {
+						"styleClass": "btnPlay"
+					},
+					"events": [
+						{
+							"compClick": [
+								{
+									"target": "btnPlay",
+									"method": "hide"
+								}, {
+									"target": "btnPause",
+									"method": "show"
+								}, {
+									"target": "comp_video1",
+									"method": "play"
+								}, {
+									"target": "helper",
+									"method": "showResetBtn"
+								}
+							]
+						}
+					]
+				}, {
+					"id": "btnPause",
+					"type": "button",
+					"parentId": "#controllsCont",
+					"data": {
+						"styleClass": "btnPause"
+					},
+					"events": [
+						{
+							"compClick": [
+								{
+									"target": "btnPause",
+									"method": "hide"
+								}, {
+									"target": "btnPlay",
+									"method": "show"
+								}, {
+									"target": "comp_video1",
+									"method": "pause"
+								}
+							]
+						}
+					]
+				}, {
+					"id": "btnReset",
+					"type": "button",
+					"parentId": "#controllsCont",
+					"data": {
+						"styleClass": "btnReset"
+					},
+					"events": [
+						{
+							"compClick": [
+								{
+									"target": "comp_video1",
+									"method": "setTime",
+									"params": {
+										"param1": 0
+									}
+								}, {
+									"target": "comp_video1",
+									"method": "stop"
+								}, {
+									"target": "btnPause",
+									"method": "hide"
+								}, {
+									"target": "btnPlay",
+									"method": "show"
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}

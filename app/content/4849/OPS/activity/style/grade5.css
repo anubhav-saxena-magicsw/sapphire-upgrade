@@ -1,0 +1,67 @@
+.wrapper {
+    border: 3px solid #ee312b !important;
+    box-shadow: 0 0 1px 1px #ee312b !important;
+}
+#feedbackHead {
+    background: none repeat scroll 0 0 #ee312b !important;
+    border: 1px solid #ee312b !important;
+}
+#head {
+    background: none repeat scroll 0 0 #ee312b !important;
+}
+#heading {
+    background: none repeat scroll 0 0 #ee312b !important;
+}
+.feedbackContainer {
+    border: 1px solid #ee312b !important;
+}
+#next {
+    background-color: #ee312b !important;
+}
+#back {
+    background-color: #ee312b !important;
+}
+.wrapper_screen1 {
+    box-shadow: 0px 0px 1px 1px #ee312b !important;
+    border: 3px solid #ee312b !important;
+}
+#reset{
+	background: none repeat scroll 0 0 #ee312b !important;
+}
+#replay{
+	background: none repeat scroll 0 0 #ee312b !important;
+}
+#show_answer{
+	background: none repeat scroll 0 0 #ee312b !important;
+}
+#showfeedback{
+	background: none repeat scroll 0 0 #ee312b !important;
+}
+#heading{
+	background: none repeat scroll 0 0 #ee312b !important;
+}
+#dndWidgetTmpl{
+    box-shadow: 0px 0px 1px 1px #ee312b !important;
+    border: 3px solid #ee312b !important;
+}
+.buttonStyle {
+	background-color: #ee312b !important;
+}
+.ques{
+	background: none repeat scroll 0 0 #ee312b !important;
+}
+#quesText{
+	background: none repeat scroll 0 0 #ee312b !important;
+}
+.response {
+    background-color: #ee312b !important;
+}
+#btnPrevious {
+	background-color: #ee312b !important;
+}
+#btnNext {
+	background-color: #ee312b !important;
+}
+.btn {
+    background: none repeat scroll 0 0 #ee312b !important;
+}

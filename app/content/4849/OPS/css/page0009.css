@@ -1,0 +1,18 @@
+.tr9{
+ color:transparent;
+}
+#PageContainer9{
+width:875px;height:1125px;background-image: url("../images/page0009.png");background-repeat:no-repeat;background-size: 875px 1125px; background-position: right bottom;
+}
+#ImageContainer9 {
+bottom:0.00px;right:0.00px;width:875px;height:1125px;position:absolute;
+}
+#page0009_para1{
+left:541px; bottom:1020px; color:rgb(35,31,31); line-height:1;
+}
+#page0009_para2{
+left:587px; bottom:114px; color:rgb(35,31,31); line-height:1;
+}
+#page0009_para3{
+left:760px; bottom:54px; color:white; line-height:1;
+}

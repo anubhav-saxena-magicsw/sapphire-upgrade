@@ -1,0 +1,1 @@
+define(["components/slider/js/sliderconst"],function(e){var n=Backbone.Model.extend({defaults:{defalutPosition:0,currentPosition:{thumbMin:0,thumbMax:0},currentPercentage:{thumbMin:0,thumbMax:0},sliderLength:100,steps:2,allignment:e.CONSTANTS.HORIZONTAL,stepsPosition:[],sliderWrapperStyle:"SliderHorizontalWrapperStyle",minSlidingPostion:0,maxSlidingPostion:0}});return n});

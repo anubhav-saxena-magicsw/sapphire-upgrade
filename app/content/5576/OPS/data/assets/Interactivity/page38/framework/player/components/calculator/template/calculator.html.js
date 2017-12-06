@@ -1,0 +1,1 @@
+define('text!components/calculator/template/calculator.html',[],function () { return '<div id="calculatorWrapper">\r\n\t<div id="titleBar" class="CalcultorTitleBarStyle">\r\n\t</div>\r\n\t<div id="calculatorButtonContainer" class="CalculatorButtonContainerStyle">\r\n\t<div id="calcInput" type="display" class="CalcInputStyle"></div>\r\n\t\r\n\t</div>\r\n\t\r\n</div>\r\n';});

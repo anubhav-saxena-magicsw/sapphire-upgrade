@@ -1,0 +1,172 @@
+{
+    "screens": [
+        {
+            "id": "screen1",
+            "type": "screen",
+            "templateId": "screen1_template",
+            "script": "screens/screen1/screen",
+            "data": {
+                "styleClass": "contentareasmall"
+            },
+            "events": [
+                {
+                    "allChildAddedInDom": [
+                        {
+                            "region": "mHeader",
+                            "target": "self",
+                            "method": "changeTitleText",
+                            "params": {
+                                "param1": "Learn words"
+                            }
+                        },
+                        {
+                            "region": "mHeader",
+                            "target": "self",
+                            "method": "showAndAnimateHeader"
+                        },
+                        {
+                            "region": "mFooter",
+                            "target": "self",
+                            "method": "animateNext",
+                            "params": {
+                                "param1": "false"
+                            }
+                        },
+                        {
+                            "region": "mFooter",
+                            "target": "self",
+                            "method": "animatePrevious",
+                            "params": {
+                                "param1": "false"
+                            }
+                        }
+                    ]
+                }
+            ],
+            "components": [
+                {
+                    "id": "widget_1",
+                    "type": "widget",
+                    "parentId": "#dndWidgetHolder",
+                    "data": {
+                        "type": "dndonetoone",
+                        "templateId": "dndWidgetInteraction",
+                        "widgetName": "DND",
+                        "widgetData": {
+                            "correctList": {
+                                "drag1": "drop3",
+                                "drag2": "drop1",
+                                "drag3": "drop2",
+                                "drag4": "drop4"
+                            },
+                            "containment": "#mActivity"
+                        }
+                    },
+                    "events": [
+                        {
+                            "onAnswerChecked": [
+                                {
+                                    "target": "helper",
+                                    "method": "handleWidgetEvent"
+                                }
+                            ]
+                        },
+                        {
+                            "onDragStart": [
+                                {
+                                    "target": "helper",
+                                    "method": "handleWidgetEvent"
+                                }
+                            ]
+                        },
+                        {
+                            "onDrop": [
+                                {
+                                    "target": "helper",
+                                    "method": "handleWidgetEvent"
+                                }
+                            ]
+                        }
+                    ]
+                },{
+					"id": "show_answer",
+					"type": "button",
+					"parentId": "#buttonContainer",
+					"state": "attached",
+					"data": {
+						"styleClass": "buttonStyle"
+					},
+					"style": {
+                        "cursor": "pointer"
+                    },
+					"events": [
+						{
+							"compClick": [
+								{
+									"target": "helper",
+									"method": "onClickShowAns"
+								}
+							]
+						}
+					]
+				},
+                {
+                    "id": "btnResetDnd",
+                    "type": "button",
+                    "parentId": "#buttonContainer",
+                    "state": "attached",
+                    "data": {
+                        "styleClass": "buttonStyle"
+                    },
+                    "style": {
+                        "cursor": "pointer"
+                    },
+                    "events": [
+                        {
+                            "compClick": [
+                                {
+                                    "target": "widget_1",
+                                    "method": "resetDnd",
+                                    "params": {
+                                        "param1": "hello",
+                                        "param2": "hello2",
+                                        "param3": "hello3"
+                                    }
+                                },
+								{
+                                    "target": "helper",
+                                    "method": "resetDnd"
+                                   
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "btnCheckAnswer",
+                    "type": "button",
+                    "parentId": "#buttonContainer",
+                    "state": "attached",
+                    "data": {
+                        "styleClass": "buttonStyle"
+                    },
+                    "style": {
+                        "cursor": "pointer"
+                    },
+                    "events": [
+                        {
+                            "compClick": [
+                                {
+                                    "target": "helper",
+                                    "method": "checkAnswer"
+                                   
+                                }
+								
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

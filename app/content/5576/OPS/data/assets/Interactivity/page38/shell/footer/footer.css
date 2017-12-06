@@ -1,0 +1,72 @@
+.skin1 .footerStyle {
+	visibility: hidden;
+}
+
+.skin1 .footerTagline {
+	background-image: url("../assets/images/global_ui_elements.png");
+	width: 106px;
+	height: 30px;
+	background-position: -1134px -6px;
+	top: 40px;
+	position: relative;
+}
+
+.skin1 .footerTopArea {
+	background: none repeat scroll 0 0 #B9D816;
+	
+	width: 100%;
+	min-height: 40px;
+	max-height: 40px;
+	padding-right: 0px;
+	font-size: 26px;
+	color: white;
+	padding-left: 10px;
+	border-style: none;
+	bottom: 0px;
+	position: fixed;
+}
+
+.skin1 .footerBottomArea {
+	/* text-align: right; */
+	width: 210px;
+	height: 20px;
+	font-size: 15px;
+	position: absolute;
+	color: #004c87;
+	float: right;
+	/* padding-top: 5px; */
+	bottom: 15px;
+	right: 30px;
+}
+
+.container {
+	margin-right: auto;
+	margin-left: auto;
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+.skin1 .footerStyle {
+	visibility: visible;
+	position: absolute;
+	width: 100%;
+	height: 40px;
+	display: block;
+	background-color: transparent;
+	bottom: 0px;
+}
+
+.skin1 .btnPrevious {
+	margin-right: 0px;
+	float: left;
+	margin-top: 12px;
+	background-color: #000000;
+	display: none;
+}
+
+.skin1 .btnNext {
+	margin-right: 22px;
+	margin-top: 12px;
+	background-color: #000000;
+	display: none;
+}

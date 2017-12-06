@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" version="3.0">
+	<body>
+		<par id="id-1">
+			<text src="../page0024.xhtml#word1"/>
+			<audio clipBegin="0.000000" clipEnd="2.365581" src="../Audio/TCM18362_bodytext_pg22.mp3"/>
+		</par>
+		<par id="id-2">
+			<text src="../page0024.xhtml#word2"/>
+			<audio clipBegin="2.365581" clipEnd="18.551138" src="../Audio/TCM18362_bodytext_pg22.mp3"/>
+		</par>
+		<par id="id-3">
+			<text src="../page0024.xhtml#word3"/>
+			<audio clipBegin="18.551138" clipEnd="39.550860" src="../Audio/TCM18362_bodytext_pg22.mp3"/>
+		</par>
+		<par id="id-4">
+			<text src="../page0024.xhtml#word4"/>
+			<audio clipBegin="0.000000" clipEnd="5.189424" src="../Audio/TCM18362_pg22_caption1.mp3"/>
+		</par>
+		<par id="id-5">
+			<text src="../page0024.xhtml#word5"/>
+			<audio clipBegin="0.000000" clipEnd="2.258201" src="../Audio/TCM18362_pg22_sidebar1.mp3"/>
+		</par>
+		<par id="id-6">
+			<text src="../page0024.xhtml#word6"/>
+			<audio clipBegin="2.258201" clipEnd="16.301390" src="../Audio/TCM18362_pg22_sidebar1.mp3"/>
+		</par>
+	</body>
+</smil>

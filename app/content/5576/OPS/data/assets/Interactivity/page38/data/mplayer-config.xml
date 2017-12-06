@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<player>
+	<release>false</release>
+	<!--temp-->
+	<showPreloader>false</showPreloader>
+    <!--temp-->
+	<activityPath>
+		<keyword>dev</keyword>
+		<relativePath>../dev</relativePath>
+	</activityPath>
+	
+	<header visible="true"/>
+	<footer visible="true"/>
+	
+	<debug>
+			<mode>false</mode>
+			<showTacer>true</showTacer>
+			<errorLogger>true</errorLogger>
+	</debug>	
+	
+	<themes defaultTheme="1" prefix="skin">
+		<theme id="1">
+			<label>default Theme 1</label>
+			<path>shell/theme/skin1.css</path>
+		</theme>
+	</themes>
+    <!--temp-->
+    <!--isScalable-->
+    <!--temp-->
+	<language>
+		<support>false</support>
+		<rootPath>data/locale</rootPath>
+		<default>en</default>
+	</language>
+	
+	<webService></webService>
+</player>

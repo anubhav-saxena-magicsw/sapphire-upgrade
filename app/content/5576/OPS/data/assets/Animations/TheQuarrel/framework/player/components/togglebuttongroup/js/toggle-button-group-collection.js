@@ -1,0 +1,1 @@
+define(["backbone"],function(e){var n=e.Collection.extend({});return n});

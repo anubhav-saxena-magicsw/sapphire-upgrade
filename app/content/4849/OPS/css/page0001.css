@@ -1,0 +1,15 @@
+.tr1{
+ color:transparent;
+}
+#PageContainer1{
+width:875px;height:1125px;background-image: url("../images/page0001.png");background-repeat:no-repeat;background-size: 875px 1125px; background-position: left bottom;
+}
+#ImageContainer1 {
+bottom:0.00px;left:0.00px;width:875px;height:1125px;position:absolute;
+}
+#page0001_0{
+max-height:448px;vertical-align:middle;left:0px;bottom:677px;position:absolute;content:url("../images/crop_page0001_1.png");
+}
+#page0001_1{
+max-height:36px;vertical-align:middle;left:607px;bottom:51px;position:absolute;content:url("../images/crop_page0001_2.png");
+}

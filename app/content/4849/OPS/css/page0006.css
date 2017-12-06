@@ -1,0 +1,26 @@
+.tr6{
+ color:transparent;
+}
+#PageContainer6{
+width:875px;height:1125px;background-image: url("../images/page0006.png");background-repeat:no-repeat;background-size: 875px 1125px; background-position: left bottom;
+}
+#ImageContainer6 {
+bottom:0.00px;left:0.00px;width:875px;height:1125px;position:absolute;
+}
+#page0006_para1{
+left:110px; bottom:879px; color:rgb(14,91,170); line-height:1.11808;
+}
+#page0006_para2{
+left:110px; bottom:680px; color:rgb(35,31,31); line-height:1.23663; text-indent:31px;
+}
+#page0006_para3{
+left:110px; bottom:508px; color:rgb(35,31,31); line-height:1.22881; text-indent:31px;
+}
+#page0006_para4{
+left:493px; bottom:139px; color:rgb(35,31,31); line-height:1.07692;
+}
+#page0006_para5{
+left:102px; bottom:48px; color:white; line-height:1;
+}
+
+.a{font-size:25.3px;}

@@ -1,0 +1,123 @@
+.tr6 {
+	color: transparent;
+}
+#P6_1 {
+	left: 62363.4px;
+	bottom: 577.313px;
+	letter-spacing: 0.2px;
+	color: rgb(235,235,235);
+}
+#P6_2 {
+	left: 25763.6px;
+	bottom: 705.313px;
+	letter-spacing: 0.0px;
+	color: rgb(235,235,235);
+}
+#PageContainer6 {
+	width: 1781.76px;
+	height: 1301.52px;
+	background-image: url("../images/bg006.png");
+	background-repeat: no-repeat;
+	background-size: 1782px 1302px;
+	background-position: left bottom;
+}
+#ImageContainer6 {
+	bottom: 0.00px;
+	left: 0.00px;
+	width: 1781.76px;
+	height: 1301.52px;
+	position: absolute;
+}
+#TextContainer6 {
+	-webkit-transform: scale(0.027188);
+	-o-transform: scale(0.027188);
+	-ms-transform: scale(0.027188);
+	-moz-transform: scale(0.027188);
+	transform: scale(0.027188);
+}
+.pop-over9 {
+	width: 20%;
+	left: 78%;
+	height: 26%;
+	top: 9%;
+	cursor: pointer;
+	position: absolute;
+}
+.pop-over8 {
+	width: 16%;
+	left: 81%;
+	height: 27%;
+	top: 66%;
+	cursor: pointer;
+	
+	position: absolute;
+}
+
+.pop-over7 {
+	width: 16%;
+	left: 60%;
+	height: 26%;
+	top: 18%;
+	cursor: pointer;
+	
+	position: absolute;
+}
+
+.pop-over6 {
+	width: 16%;
+	left: 46%;
+	height: 26%;
+	top: 63%;
+	cursor: pointer;
+	
+	position: absolute;
+}
+.pop-over5 {
+	width: 16%;
+	left: 40%;
+	height: 26%;
+	top: 12%;
+	cursor: pointer;
+	
+	position: absolute;
+}
+
+.pop-over4 {
+	width: 16%;
+	left: 25%;
+	height: 26%;
+	top: 68%;
+	cursor: pointer;
+	
+	position: absolute;
+}
+
+.pop-over3 {
+	width: 16%;
+	left: 21%;
+	height: 20%;
+	top: 20%;
+	cursor: pointer;
+	
+	position: absolute;
+}
+
+.pop-over1 {
+    width: 14%;
+    left: 4%;
+    height: 28%;
+    top: 10%;
+    cursor: pointer;
+    
+    position: absolute;
+}
+
+.pop-over2 {
+	width: 15%;
+	left: 8%;
+	height: 28%;
+	top: 60%;
+	cursor: pointer;
+	
+	position: absolute;
+}

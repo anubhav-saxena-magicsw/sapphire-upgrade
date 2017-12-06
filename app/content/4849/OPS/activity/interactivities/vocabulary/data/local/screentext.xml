@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenText lang="all">
+	<!--
+	Add following tag for different languages. In this example the language is English and '<en>' is the unique tag for it.
+	Add as many '<text>' nodes as requirement. The id attribute of '<text>' tag should be unique within a single language tag but should be present in all language tags.   
+	
+	/* For English */ 
+	<en>
+		<text id="introText (key for text which would be common for all languages.)" ><![CDATA[Welcome User (value for the key which could be diffrent for diffrent languages.) ]]></text>
+		<text id="homeText" ><![CDATA[This is Home Screen]]></text>
+	</en>	
+	
+	/* For Kazak */
+	<kz>
+		<text id="introText" ><![CDATA[Құтты пайдаланушы]]></text>
+		<text id="homeText" ><![CDATA[Сол үйдің экранының]]></text>
+	</kz>	
+	-->
+		
+	
+</screenText>

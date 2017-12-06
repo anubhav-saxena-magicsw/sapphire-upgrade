@@ -1,0 +1,336 @@
+.answer{
+    font-size: 18px;
+    padding-top: 2px;
+}
+.wrapper_screen1 {
+	width: 100%;
+	height: 100%;
+	position: relative;
+	
+}
+.skin1 .screenHolder {
+	/*-webkit-overflow-scrolling: touch;*/
+	background: black;
+}
+.skin1 {
+	background: black;
+}
+
+/*.skin1 #mActivity {
+ width: 100%;
+ height: 100%;
+ padding-left: 0px;
+ padding-right: 0px;
+ background-color: #ffede0;
+ }*/
+
+input {
+	text-align: left;
+	border: 1px solid black;
+	width: 75px;
+	position: absolute;
+	left: 40px;
+}
+
+input[type=text]:focus {
+	-webkit-appearance: none;
+	box-shadow: 0 0 40px rgba(81, 203, 258, 1);
+}
+
+ul {
+	list-style-type: none;
+}
+
+.skin1 .optionKey {
+	width: 75px;
+	height: 27px;
+	position: absolute;
+	background: #ffffff;
+	border: 1px solid black;
+	left: 40px;
+	top: 0px;
+}
+
+.skin1 .questionHolder {
+	height: 510px;
+	width: 740px;
+	/*background-image: url('assets/images/bg.png');*/
+	background: #ffede0;
+	position: relative;
+	top: 0px;
+	left: 0px;
+}
+.skin1 .giventext1 {
+	position: absolute;
+	right: 83px;
+}
+.skin1 .giventext2 {
+	position: absolute;
+	left: 118px;
+	top: 0px;
+}
+.skin1 .giventext3 {
+	position: absolute;
+	left: 78px;
+	top: 0px;
+}
+
+.giventext4 {
+	position: absolute;
+	left: 260px;
+}
+.skin1 .quesText {
+	font-size: 22px;
+	color: #004c87 !important;
+	text-align: left;
+	position: relative;
+	top: 25px;
+	left: 20px;
+	font-weight:bold;
+	width: 90%;
+}
+.skin1 .numberText {
+	font-size: 17px;
+	color: black;
+	text-align: left;
+	position: relative;
+	top: 50px;
+	left: 0px;
+	width: 90%;
+}
+.skin1 .btnHolder {
+	position: absolute;
+	right: 15px;
+	bottom: 20px;
+	/*border: 1px solid black;*/
+	height: 30px;
+	width: 340px;
+}
+#show_answer {
+	height: 29px;
+	width: 110px;
+	background-image: url('assets/images/showAnsClick.png');
+	position: relative;
+	float: left;
+	left: 0px;
+}
+#btnResetDnd {
+	height: 29px;
+	width: 111px;
+	background-image: url('assets/images/retry_click.png');
+	position: relative;
+	float: left;
+	left: 0px;
+}
+#btnCheckAnswer {
+	height: 31px;
+	width: 116px;
+	background-image: url('assets/images/submit_click.png');
+	position: relative;
+	float: left;
+	left: 0px;
+}
+.skin1 .btnDisable {
+	pointer-events: none;
+	opacity: 0.5;
+	cursor: default;
+}
+.skin1 .btnEnable {
+	pointer-events: auto;
+	opacity: 1;
+	cursor: pointer;
+}
+.right {
+	height: 15px;
+	left: 116px;
+	position: absolute;
+	top: 5px;
+	width: 26px;
+	display: inline-block;
+	background-image: url("assets/images/right.png");
+	background-repeat: no-repeat;
+}
+.wrong {
+
+	display: inline-block;
+	background-image: url("assets/images/cross.png");
+	background-repeat: no-repeat;
+	height: 15px;
+	left: 116px;
+	position: absolute;
+	top: 5px;
+	width: 26px;
+}
+input[disabled] {
+	/*background: transparent;*/
+	opacity: 0.7;
+}
+#btnPrevious {
+	display: none;
+}
+.blue_box {
+	background-color: #98e3e8;
+	border-radius: 9px;
+	height: 80px;
+	position: relative;
+	top: 35px;
+	width: 550px;
+}
+.top1 {
+	display: inline-block;
+	font-size: 18px;
+	margin-right: 70px;
+	width: 100px;
+	position: relative;
+	top: 10px;
+}
+.top2 {
+	display: inline-block;
+	font-size: 18px;
+	margin-right: 70px;
+	position: relative;
+	top: 20px;
+	width: 100px;
+}
+.droparea {
+	width: 100px;
+	height: 50px;
+	display: inline-block;
+	float: left;
+}
+
+.buttonContainerStyle {
+	height: 32px;
+	left: 180px;
+	position: relative;
+	top: -60px;
+	width: 50%;
+}
+.buttonStyle {
+}
+.dndRootDiv {
+	background-color: #ffede0;
+	height: 510px;
+	position: relative;
+	width: 740px;
+}
+.draggableItem {
+	width: 100px;
+	height: 30px;
+	position: absolute;
+	text-align: center;
+	vertical-align: middle;
+	display: "table-cell";
+	font-size: 18px;
+	cursor:pointer;
+	padding-top: 4px;
+}
+.droppableItem {
+	width: 100px;
+	height: 30px;
+	position: absolute;
+	left: 50px;
+	border: 1px solid #000000;
+	text-align: center;
+}
+.pos1 {
+	left: 55px;
+	top: 15px;
+}
+.pos2 {
+	top: 15px;
+	left: 215px;
+}
+.pos3 {
+	top: 15px;
+	left: 385px;
+}
+.pos4 {
+	top: 60px;
+	left: 55px;
+	font-size: 18px;
+	height: 30px;
+	position: absolute;
+	text-align: center;
+	vertical-align: middle;
+	width: 100px;
+}
+.pos5 {
+	top: 60px;
+	left: 215px;
+}
+.pos6 {
+	top: 60px;
+	left: 385px;
+}
+
+.dragupper {
+	background-color: #a5edf1;
+	border-radius: 10px;
+	height: 100px;
+	position: relative;
+	top: 35px;
+	width: 550px;
+}
+.posi1 {
+
+	top: 155px;
+	left: 5px;
+}
+.posi2 {
+	left: 5px;
+	top: 200px;
+}
+.posi3 {
+	left: 5px;
+	top: 247px;
+}
+.posi4 {
+	left: 5px;
+	top: 295px;
+}
+.giventext4 {
+	font-size: 18px;
+	left: 225px;
+	position: absolute;
+	top: 160px;
+}
+.giventext5 {
+	font-size: 18px;
+	left: 225px;
+	position: absolute;
+	top: 200px;
+}
+.giventext6 {
+	font-size: 18px;
+	left: 225px;
+	position: absolute;
+	top: 247px;
+}
+.giventext7 {
+	font-size: 18px;
+	left: 225px;
+	position: absolute;
+	top: 295px;
+}
+.posi11 {
+	position: absolute;
+	left: 5px;
+	top: 115px;
+	width: 100px;
+	height: 30px;
+	font-size: 18px;
+	border: 1px solid #000000;
+	padding-top: 2px;
+}
+.giventext8 {
+	font-size: 18px;
+	left: 225px;
+	position: absolute;
+	top: 115px;
+}
+.disabledBtn{
+	pointer-events:none;
+	opacity:0.5;
+	cursor:default;
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<product>
+	<activityConfig src="interactivities/comp/data/activity-config.xml"></activityConfig>
+</product>

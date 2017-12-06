@@ -1,0 +1,92 @@
+#vdController{
+	position:absolute !important;  
+	top: 85px;
+}
+
+#videoContainer{
+	width: auto;
+	height: auto;
+	border; solid;
+}
+
+#poster{
+	
+	position: absolute;
+	background: url('../images/poster0.png') no-repeat;
+	width: 200px;
+	height: 200px;
+}
+video{
+	
+	position: absolute;
+}
+.SliderWrapperStyle
+{	
+	position:absolute !important;  
+	background: url('../images/slider-base.png') no-repeat;
+	width: 537px;
+	height: 48px;
+}
+
+.SliderBoundingBoxStyle
+{
+	position: absolute;
+	height: 10px;
+	width: 100%;
+	left: 0px;
+	top: 0px;
+}
+
+.SliderThumbStyle
+{		
+	position: absolute !important;
+	background: url('../images/slider-thumb.png') no-repeat;
+	height: 40px;
+	width: 40px;
+	top: 3px;
+	left: 0px;
+	-ms-touch-action: none!important;
+	-webkit-transform: translatez(0)!important;
+    -moz-transform: translatez(0)!important;
+    -ms-transform: translatez(0)!important;
+    -o-transform: translatez(0)!important;
+    transform: translatez(0)!important;
+}
+
+#thumbBlocker{
+	background: url('')!important;;	
+	cursor: default !important;
+	display: block;
+	/*border: solid;*/
+}
+
+.SliderBarStyle
+{
+	position: absolute !important;
+	background: url('../images/slider-seekbar.png') no-repeat;
+	background-position: center;
+	width: 454px;
+	height: 48px;
+	left: 65px;
+}
+/*
+.compBlocker
+{
+	position:absolute;
+	background-color:white;
+	opacity: 0;
+}
+*/
+
+.btnPlayPause {
+	
+	position: absolute !important;
+	
+	width: 40px;
+	height: 40px;
+	top: 4px;
+	left: 8px;
+	background: url("../images/play_pause.png") no-repeat scroll 0 0 transparent;
+	cursor: pointer;
+	display: block;
+}

@@ -1,0 +1,50 @@
+<html>
+	<head>
+		<title>Interactive Images</title>
+		<script src="../../js/jquery-1.11.2.min.js"></script>
+		<link rel="stylesheet" type="text/css" href="css/interIm.css">
+		<script src="js/interIm.js"></script>
+	</head>
+		<div id="interActiveWidget" object-type="interactive_image_widget">
+			<div id="title_text" style=" font-size: 25px; padding:10px; font-family: Arial">
+				<span class="widget_name">INTERACTIVE IMAGE</span> 
+				Tap labels or parts of the image to reveal more information about it. This image is of a cell in late prophase.
+				<div class="image_zoom_out_btn"></div>
+			</div>
+			<div id="interIm_cont" >
+					<div object-type="image_container" id="img_cont" src="images/HAV5_3_Mitosis_late_prophase.jpg" style="background-size: 100% 100%;">
+						<svg>
+							<filter id = "i1" width = "150%" height = "150%">
+						        <feOffset result = "offOut" in = "SourceAlpha" dx = "3" dy = "3"/>
+						        <feGaussianBlur result = "blurOut" in = "offOut" stdDeviation = "5"/>
+						        <feBlend in = "SourceGraphic" in = "blurOut" mode = "normal"/>
+						    </filter>
+						     <filter id="i2" x="-50%" y="-50%" width="200%" height="300%">
+							      <feOffset dx="5" dy="5" in="SourceAlpha" result="offset" />
+							      <feFlood flood-color="#000" flood-opacity="0.5" />
+							      <feComposite in="offset" operator="in" />
+							      <feGaussianBlur stdDeviation="1" result="blur" />
+							      <feMerge>
+							        <feMergeNode in="blur" />
+							        <feMergeNode in="SourceGraphic" />
+							      </feMerge>
+							    </filter>
+						</svg>
+						<div id="label_0" class="label" x="48" y="-55" cx="322" cy="213" scl="1">
+							<span class="heading">Chromosomes</span>
+							<p class="desc">Structure composed of DNA and protein</p>
+						</div>
+						<div id="label_1" class="label" x="700" y="-37" cx="718" cy="212" scl="1">
+							<span class="heading">Centrioles</span>
+							<p class="desc">Coordinate chromosome division</p>
+						</div>
+						<div id="label_2" class="label" x="300" y="900" cx="462" cy="746" scl="1">
+							<span class="heading">Spindle</span>
+							<p class="desc">Split sister chromatids during cell division</p>
+						</div>
+					</div>
+					<div class="image_zoom_btn"></div>
+				</div>
+			</div>
+	
+</html>

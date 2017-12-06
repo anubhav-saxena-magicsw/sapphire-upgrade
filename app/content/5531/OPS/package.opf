@@ -1,0 +1,596 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="pub-id" prefix="rendition: http://www.idpf.org/vocab/rendition/#" version="3.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:identifier id="pub-id">urn:uuid:97eaf3be-4f46-45d9-aafb-4486e2251896</dc:identifier>
+    <dc:title>NB 5 CB Chapter 3 Clever Somu</dc:title>
+    <dc:language>en-US</dc:language>
+    <meta property="dcterms:modified">2014-07-22T06:34:24Z</meta>
+    <meta content="cover_image" name="cover">
+    </meta>
+    <meta property="rendition:layout">pre-paginated</meta>
+  </metadata>
+  <manifest>
+    <item properties="cover-image" id="cover_image" href="images/cover.jpg" media-type="image/jpeg">
+    </item>
+    <item id="cover" href="cover.xhtml" media-type="application/xhtml+xml">
+    </item>
+    
+    <item id="page034" href="page034.xhtml" media-type="application/xhtml+xml" media-overlay="smil_page034">
+    </item>
+    <item id="page035" href="page035.xhtml" media-type="application/xhtml+xml" media-overlay="smil_page035">
+    </item>
+    <item id="page036" href="page036.xhtml" media-type="application/xhtml+xml" media-overlay="smil_page036">
+    </item>
+    <item id="page037" href="page037.xhtml" media-type="application/xhtml+xml" media-overlay="smil_page037">
+    </item>
+    <item id="page038" href="page038.xhtml" media-type="application/xhtml+xml">
+    </item>
+    <item id="page039" href="page039.xhtml" media-type="application/xhtml+xml">
+    </item>
+    <item id="page040" href="page040.xhtml" media-type="application/xhtml+xml">
+    </item>
+    <item id="page041" href="page041.xhtml" media-type="application/xhtml+xml">
+    </item>
+    <item id="page042" href="page042.xhtml" media-type="application/xhtml+xml">
+    </item>
+    <item id="page043" href="page043.xhtml" media-type="application/xhtml+xml">
+    </item>
+    <item id="page044" href="page044.xhtml" media-type="application/xhtml+xml" media-overlay="smil_page044">
+    </item>
+    <item id="page045" href="page045.xhtml" media-type="application/xhtml+xml">
+    </item>
+
+    <item id="styles" href="css/Styles.css" media-type="text/css">
+    </item>
+    <item id="font-faces" href="css/FontSrc.css" media-type="text/css">
+    </item>
+    <item id="bg001" href="images/bg001.jpg" media-type="image/jpeg">
+    </item>
+    
+    <item id="bg034" href="images/bg034.jpg" media-type="image/jpeg">
+    </item>
+    <item id="bg035" href="images/bg035.jpg" media-type="image/jpeg">
+    </item>
+    <item id="bg036" href="images/bg036.jpg" media-type="image/jpeg">
+    </item>
+    <item id="bg037" href="images/bg037.jpg" media-type="image/jpeg">
+    </item>
+    <item id="bg038" href="images/bg038.jpg" media-type="image/jpeg">
+    </item>
+    <item id="bg039" href="images/bg039.jpg" media-type="image/jpeg">
+    </item>
+    <item id="bg040" href="images/bg040.jpg" media-type="image/jpeg">
+    </item>
+    <item id="bg041" href="images/bg041.jpg" media-type="image/jpeg">
+    </item>
+    <item id="bg042" href="images/bg042.jpg" media-type="image/jpeg">
+    </item>
+    <item id="bg043" href="images/bg043.jpg" media-type="image/jpeg">
+    </item>
+    <item id="bg044" href="images/bg044.jpg" media-type="image/jpeg">
+    </item>
+    <item id="bg045" href="images/bg045.jpg" media-type="image/jpeg">
+    </item>
+
+	
+	<item id="activity.png" href="images/activity.png" media-type="image/png">
+    </item>
+		
+	<item id="game.png" href="images/game.png" media-type="image/png">
+    </item>
+	<item id="audio.png" href="images/audio.png" media-type="image/png">
+    </item>
+	<item id="reference.png" href="images/reference.png" media-type="image/png">
+    </item>
+	<item id="audio.png" href="images/audio.png" media-type="image/png">
+    </item>
+	
+	<item id="Answer-key.png" href="images/Answer-key.png" media-type="image/png">
+    </item>
+	<item id="assement-tecniques.png" href="images/assement-tecniques.png" media-type="image/png">
+    </item>
+	<item id="comprehensive-lesson-plan.png" href="images/comprehensive-lesson-plan.png" media-type="image/png">
+    </item>
+	<item id="lesson-plan.png" href="images/lesson-plan.png" media-type="image/png">
+    </item>
+	<item id="worksheet.png" href="images/worksheet.png" media-type="image/png">
+    </item>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<item id="smil_page034" href="smil/page034.smil" media-type="application/smil+xml" />
+	<item id="smil_page035" href="smil/page035.smil" media-type="application/smil+xml" />
+	<item id="smil_page036" href="smil/page036.smil" media-type="application/smil+xml" />
+	<item id="smil_page037" href="smil/page037.smil" media-type="application/smil+xml" />
+	<item id="smil_page044" href="smil/page044.smil" media-type="application/smil+xml" />
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+    <item id="f41" href="fonts/f41.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f42" href="fonts/f42.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f44" href="fonts/f44.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f43" href="fonts/f43.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f46" href="fonts/f46.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f45" href="fonts/f45.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f47" href="fonts/f47.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f48" href="fonts/f48.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f9" href="fonts/f9.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f14" href="fonts/f14.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f13" href="fonts/f13.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f12" href="fonts/f12.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f11" href="fonts/f11.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f10" href="fonts/f10.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f16" href="fonts/f16.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f15" href="fonts/f15.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f17" href="fonts/f17.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f18" href="fonts/f18.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f26" href="fonts/f26.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f25" href="fonts/f25.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f24" href="fonts/f24.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f22" href="fonts/f22.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f21" href="fonts/f21.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f20" href="fonts/f20.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f19" href="fonts/f19.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f23" href="fonts/f23.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f30" href="fonts/f30.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f29" href="fonts/f29.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f27" href="fonts/f27.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f32" href="fonts/f32.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f28" href="fonts/f28.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f31" href="fonts/f31.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f34" href="fonts/f34.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f33" href="fonts/f33.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f35" href="fonts/f35.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f36" href="fonts/f36.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f38" href="fonts/f38.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f37" href="fonts/f37.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f40" href="fonts/f40.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f39" href="fonts/f39.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f49" href="fonts/f49.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f50" href="fonts/f50.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f5" href="fonts/f5.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f6" href="fonts/f6.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f7" href="fonts/f7.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f8" href="fonts/f8.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f0" href="fonts/f0.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f1" href="fonts/f1.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f2" href="fonts/f2.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f3" href="fonts/f3.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item id="f4" href="fonts/f4.otf" media-type="application/vnd.ms-opentype">
+    </item>
+    <item properties="nav" id="nav" href="nav.xhtml" media-type="application/xhtml+xml">
+    </item>
+    <item id="page0001" href="css/page0001.css" media-type="text/css" />
+    <item id="page0002" href="css/page0002.css" media-type="text/css" />
+    <item id="page0003" href="css/page0003.css" media-type="text/css" />
+    <item id="page0004" href="css/page0004.css" media-type="text/css" />
+    <item id="page0005" href="css/page0005.css" media-type="text/css" />
+    <item id="page0006" href="css/page0006.css" media-type="text/css" />
+    <item id="page0007" href="css/page0007.css" media-type="text/css" />
+    <item id="page0008" href="css/page0008.css" media-type="text/css" />
+    <item id="page0009" href="css/page0009.css" media-type="text/css" />
+    <item id="page0010" href="css/page0010.css" media-type="text/css" />
+    <item id="page0011" href="css/page0011.css" media-type="text/css" />
+    <item id="page0012" href="css/page0012.css" media-type="text/css" />
+    <item id="page0013" href="css/page0013.css" media-type="text/css" />
+    <item id="page0014" href="css/page0014.css" media-type="text/css" />
+    <item id="page0015" href="css/page0015.css" media-type="text/css" />
+    <item id="page0016" href="css/page0016.css" media-type="text/css" />
+    <item id="page0017" href="css/page0017.css" media-type="text/css" />
+    <item id="page0018" href="css/page0018.css" media-type="text/css" />
+    <item id="page0019" href="css/page0019.css" media-type="text/css" />
+    <item id="page0020" href="css/page0020.css" media-type="text/css" />
+    <item id="page0021" href="css/page0021.css" media-type="text/css" />
+    <item id="page0022" href="css/page0022.css" media-type="text/css" />
+    <item id="page0023" href="css/page0023.css" media-type="text/css" />
+    <item id="page0024" href="css/page0024.css" media-type="text/css" />
+    <item id="page0025" href="css/page0025.css" media-type="text/css" />
+    <item id="page0026" href="css/page0026.css" media-type="text/css" />
+    <item id="page0027" href="css/page0027.css" media-type="text/css" />
+    <item id="page0028" href="css/page0028.css" media-type="text/css" />
+    <item id="page0029" href="css/page0029.css" media-type="text/css" />
+    <item id="page0030" href="css/page0030.css" media-type="text/css" />
+    <item id="page0031" href="css/page0031.css" media-type="text/css" />
+    <item id="page0032" href="css/page0032.css" media-type="text/css" />
+    <item id="page0033" href="css/page0033.css" media-type="text/css" />
+    <item id="page0034" href="css/page0034.css" media-type="text/css" />
+    <item id="page0035" href="css/page0035.css" media-type="text/css" />
+    <item id="page0036" href="css/page0036.css" media-type="text/css" />
+    <item id="page0037" href="css/page0037.css" media-type="text/css" />
+    <item id="page0038" href="css/page0038.css" media-type="text/css" />
+    <item id="page0039" href="css/page0039.css" media-type="text/css" />
+    <item id="page0040" href="css/page0040.css" media-type="text/css" />
+    <item id="page0041" href="css/page0041.css" media-type="text/css" />
+    <item id="page0042" href="css/page0042.css" media-type="text/css" />
+    <item id="page0043" href="css/page0043.css" media-type="text/css" />
+    <item id="page0044" href="css/page0044.css" media-type="text/css" />
+    <item id="page0045" href="css/page0045.css" media-type="text/css" />
+    <item id="page0046" href="css/page0046.css" media-type="text/css" />
+    <item id="page0047" href="css/page0047.css" media-type="text/css" />
+    <item id="page0048" href="css/page0048.css" media-type="text/css" />
+    <item id="page0049" href="css/page0049.css" media-type="text/css" />
+    <item id="page0050" href="css/page0050.css" media-type="text/css" />
+    <item id="page0051" href="css/page0051.css" media-type="text/css" />
+    <item id="page0052" href="css/page0052.css" media-type="text/css" />
+    <item id="page0053" href="css/page0053.css" media-type="text/css" />
+    <item id="page0054" href="css/page0054.css" media-type="text/css" />
+    <item id="page0055" href="css/page0055.css" media-type="text/css" />
+    <item id="page0056" href="css/page0056.css" media-type="text/css" />
+    <item id="page0057" href="css/page0057.css" media-type="text/css" />
+    <item id="page0058" href="css/page0058.css" media-type="text/css" />
+    <item id="page0059" href="css/page0059.css" media-type="text/css" />
+    <item id="page0060" href="css/page0060.css" media-type="text/css" />
+    <item id="page0061" href="css/page0061.css" media-type="text/css" />
+    <item id="page0062" href="css/page0062.css" media-type="text/css" />
+    <item id="page0063" href="css/page0063.css" media-type="text/css" />
+    <item id="page0064" href="css/page0064.css" media-type="text/css" />
+    <item id="page0065" href="css/page0065.css" media-type="text/css" />
+    <item id="page0066" href="css/page0066.css" media-type="text/css" />
+    <item id="page0067" href="css/page0067.css" media-type="text/css" />
+    <item id="page0068" href="css/page0068.css" media-type="text/css" />
+    <item id="page0069" href="css/page0069.css" media-type="text/css" />
+    <item id="page0070" href="css/page0070.css" media-type="text/css" />
+    <item id="page0071" href="css/page0071.css" media-type="text/css" />
+    <item id="page0072" href="css/page0072.css" media-type="text/css" />
+    <item id="page0073" href="css/page0073.css" media-type="text/css" />
+    <item id="page0074" href="css/page0074.css" media-type="text/css" />
+    <item id="page0075" href="css/page0075.css" media-type="text/css" />
+    <item id="page0076" href="css/page0076.css" media-type="text/css" />
+    <item id="page0077" href="css/page0077.css" media-type="text/css" />
+    <item id="page0078" href="css/page0078.css" media-type="text/css" />
+    <item id="page0079" href="css/page0079.css" media-type="text/css" />
+    <item id="page0080" href="css/page0080.css" media-type="text/css" />
+    <item id="page0081" href="css/page0081.css" media-type="text/css" />
+    <item id="page0082" href="css/page0082.css" media-type="text/css" />
+    <item id="page0083" href="css/page0083.css" media-type="text/css" />
+    <item id="page0084" href="css/page0084.css" media-type="text/css" />
+    <item id="page0085" href="css/page0085.css" media-type="text/css" />
+    <item id="page0086" href="css/page0086.css" media-type="text/css" />
+    <item id="page0087" href="css/page0087.css" media-type="text/css" />
+    <item id="page0088" href="css/page0088.css" media-type="text/css" />
+    <item id="page0089" href="css/page0089.css" media-type="text/css" />
+    <item id="page0090" href="css/page0090.css" media-type="text/css" />
+    <item id="page0091" href="css/page0091.css" media-type="text/css" />
+    <item id="page0092" href="css/page0092.css" media-type="text/css" />
+    <item id="page0093" href="css/page0093.css" media-type="text/css" />
+    <item id="page0094" href="css/page0094.css" media-type="text/css" />
+    <item id="page0095" href="css/page0095.css" media-type="text/css" />
+    <item id="page0096" href="css/page0096.css" media-type="text/css" />
+    <item id="page0097" href="css/page0097.css" media-type="text/css" />
+    <item id="page0098" href="css/page0098.css" media-type="text/css" />
+    <item id="page0099" href="css/page0099.css" media-type="text/css" />
+    <item id="page0100" href="css/page0100.css" media-type="text/css" />
+    <item id="page0101" href="css/page0101.css" media-type="text/css" />
+    <item id="page0102" href="css/page0102.css" media-type="text/css" />
+    <item id="page0103" href="css/page0103.css" media-type="text/css" />
+    <item id="page0104" href="css/page0104.css" media-type="text/css" />
+    <item id="page0105" href="css/page0105.css" media-type="text/css" />
+    <item id="page0106" href="css/page0106.css" media-type="text/css" />
+    <item id="page0107" href="css/page0107.css" media-type="text/css" />
+    <item id="page0108" href="css/page0108.css" media-type="text/css" />
+    <item id="page0109" href="css/page0109.css" media-type="text/css" />
+    <item id="page0110" href="css/page0110.css" media-type="text/css" />
+    <item id="page0111" href="css/page0111.css" media-type="text/css" />
+    <item id="page0112" href="css/page0112.css" media-type="text/css" />
+    <item id="page0113" href="css/page0113.css" media-type="text/css" />
+    <item id="page0114" href="css/page0114.css" media-type="text/css" />
+    <item id="page0115" href="css/page0115.css" media-type="text/css" />
+    <item id="page0116" href="css/page0116.css" media-type="text/css" />
+    <item id="page0117" href="css/page0117.css" media-type="text/css" />
+    <item id="page0118" href="css/page0118.css" media-type="text/css" />
+    <item id="page0119" href="css/page0119.css" media-type="text/css" />
+    <item id="page0120" href="css/page0120.css" media-type="text/css" />
+    <item id="page0121" href="css/page0121.css" media-type="text/css" />
+    <item id="page0122" href="css/page0122.css" media-type="text/css" />
+    <item id="page0123" href="css/page0123.css" media-type="text/css" />
+    <item id="page0124" href="css/page0124.css" media-type="text/css" />
+    <item id="page0125" href="css/page0125.css" media-type="text/css" />
+    <item id="page0126" href="css/page0126.css" media-type="text/css" />
+    <item id="page0127" href="css/page0127.css" media-type="text/css" />
+    <item id="page0128" href="css/page0128.css" media-type="text/css" />
+    <item id="page0129" href="css/page0129.css" media-type="text/css" />
+    <item id="page0130" href="css/page0130.css" media-type="text/css" />
+    <item id="page0131" href="css/page0131.css" media-type="text/css" />
+    <item id="page0132" href="css/page0132.css" media-type="text/css" />
+    <item id="page0133" href="css/page0133.css" media-type="text/css" />
+    <item id="page0134" href="css/page0134.css" media-type="text/css" />
+    <item id="page0135" href="css/page0135.css" media-type="text/css" />
+    <item id="page0136" href="css/page0136.css" media-type="text/css" />
+    <item id="page0137" href="css/page0137.css" media-type="text/css" />
+    <item id="page0138" href="css/page0138.css" media-type="text/css" />
+    <item id="page0139" href="css/page0139.css" media-type="text/css" />
+    <item id="page0140" href="css/page0140.css" media-type="text/css" />
+    <item id="page0141" href="css/page0141.css" media-type="text/css" />
+    <item id="page0142" href="css/page0142.css" media-type="text/css" />
+    <item id="page0143" href="css/page0143.css" media-type="text/css" />
+    <item id="page0144" href="css/page0144.css" media-type="text/css" />
+    <item id="page0145" href="css/page0145.css" media-type="text/css" />
+    <item id="page0146" href="css/page0146.css" media-type="text/css" />
+    <item id="page0147" href="css/page0147.css" media-type="text/css" />
+    <item id="page0148" href="css/page0148.css" media-type="text/css" />
+	
+    <item id="cover_t" href="images/thumbnails/cover_t.jpg" media-type="image/jpeg" />
+   
+    <item id="page034_t" href="images/thumbnails/page034_t.jpg" media-type="image/jpeg" />
+    <item id="page035_t" href="images/thumbnails/page035_t.jpg" media-type="image/jpeg" />
+    <item id="page036_t" href="images/thumbnails/page036_t.jpg" media-type="image/jpeg" />
+    <item id="page037_t" href="images/thumbnails/page037_t.jpg" media-type="image/jpeg" />
+    <item id="page038_t" href="images/thumbnails/page038_t.jpg" media-type="image/jpeg" />
+    <item id="page039_t" href="images/thumbnails/page039_t.jpg" media-type="image/jpeg" />
+    <item id="page040_t" href="images/thumbnails/page040_t.jpg" media-type="image/jpeg" />
+    <item id="page041_t" href="images/thumbnails/page041_t.jpg" media-type="image/jpeg" />
+    <item id="page042_t" href="images/thumbnails/page042_t.jpg" media-type="image/jpeg" />
+    <item id="page043_t" href="images/thumbnails/page043_t.jpg" media-type="image/jpeg" />
+    <item id="page044_t" href="images/thumbnails/page044_t.jpg" media-type="image/jpeg" />
+    <item id="page045_t" href="images/thumbnails/page045_t.jpg" media-type="image/jpeg" />
+   
+
+
+
+
+
+
+<!--***********************************************************Asset Entries Start***********************************************************-->
+
+<item id="html_7" href="data/assets/Interactivity/page38/launch.html" media-type="application/html" title="Interactivity page38" data-visibilty="0"></item>
+
+
+<item id="html_14" href="data/assets/Animations/TheQuarrel/launch.html" media-type="application/html" title="The Quarrel" data-visibilty="0"></item>
+
+
+
+
+
+<!--***********************************************************Asset Entries End***********************************************************-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<item title="Sample_0.7MB" caption="done" data-visibilty="0" id="MjAxNi0wMi0yM1QxMTowMjozMi44MjBa" href="data/contentnote/1456225386841-07MB.mp3" media-type="audio/mp3" spineid="page035" />
+<item title="Photo" caption="added" data-visibilty="1" id="MjAxNi0wMi0yNVQwNzoyOTowNC40ODFa" href="data/contentnote/1452062596804-Screen-Shot-20160105-at-113153-AM.png" media-type="image/png" spineid="page043" />
+<item title="PDF" caption="added" data-visibilty="1" id="MjAxNi0wMi0yNVQwNzoyODozNi45NjFa" href="data/contentnote/1455688083444-Unit-1-Section-III-Think-Like-a-Tree.pdf" media-type="application/pdf" spineid="page043" />
+<item title="yyy" caption="yyy" data-visibilty="1" id="MjAxNi0wMy0wM1QwNDowNDozMy41NDBa" href="" media-type="text/contentnote" spineid="page043" />
+<item title="TExt" caption="visible to teacher" data-visibilty="0" id="MjAxNi0wMy0wOVQwNTo0MTozMi4yNjNa" href="" media-type="text/contentnote" spineid="page044" />
+<item title="Recording 11111" caption="sdvdfvdfv" data-visibilty="0" id="MjAxNi0wMy0wOVQwODowNjo0Ny40NTBa" href="" media-type="[mediatype]" spineid="page044" />
+<item title="Audio" caption="edfvbg" data-visibilty="1" id="MjAxNi0wMy0wOVQwNTo0MzowMy40MjJa" href="data/contentnote/1411814704086-Kalimba.mp3" media-type="audio/mpeg" spineid="page044" />
+<item title="Document" caption="dfbdf" data-visibilty="1" id="MjAxNi0wMy0wOVQwNTo0NDowMy45MzJa" href="data/contentnote/1411814859384-AFishwithaWish.pdf" media-type="application/pdf" spineid="page044" />
+<item title="mytest2" caption="" data-visibilty="1" id="MjAxNi0wMy0xMVQwNjoxNTozMS41ODha" href="data/contentnote/1456225386841-07MB.mp3" media-type="audio/mp3" spineid="page044" />
+<item title="ergerg" caption="rgbhrfgbh" data-visibilty="0" id="MjAxNi0wMy0wOVQwNTo0Mjo0NS45NjBa" href="" media-type="text/contentnote" spineid="page044" />
+<item title="Video" caption="the quarrel" data-visibilty="1" id="MjAxNi0wMy0wOVQwNTo0MjoyNy40NzJa" href="data/contentnote/1445241432264-video.mp4" media-type="video/mp4" spineid="page044" />
+<item title="Recod 123445" caption="tyj tjrtyj n5ej67e" data-visibilty="0" id="MjAxNi0wMy0wOVQwODowNzoxMC4yNjla" href="" media-type="[mediatype]" spineid="page044" />
+<item title="mytest" caption="" data-visibilty="1" id="MjAxNi0wMy0xMVQwNjoxNDoyMi45MTNa" href="data/contentnote/1455722619117-SampleAudio05mb.mp3" media-type="audio/mp3" spineid="page044" />
+<item title="Image" caption="Tiger" data-visibilty="1" id="MjAxNi0wMy0wOVQwNTo0MzoyNy43OTBa" href="data/contentnote/1438677262383-tiger1.jpg" media-type="image/jpeg" spineid="page044" />
+<item title="Web link" caption="" data-visibilty="1" id="MjAxNi0wMy0wOVQwNTo0NDoyNC4xMzBa" href="http://www.google.com" media-type="application/hta" spineid="page044" />
+<item title="CB Mothers Day" caption="added" data-visibilty="0" id="MjAxNi0wMi0yM1QxMDo1OTowOC4xMjRa" href="data/contentnote/1455687983573-CB-Mothers-Day.mp3" media-type="audio/mpeg" spineid="page034" />
+<item title="Sample_Audio_0.5MB" caption="done" data-visibilty="0" id="MjAxNi0wMi0yM1QxMDo1OTo0MC4xNDha" href="data/contentnote/1455722619117-SampleAudio05mb.mp3" media-type="audio/mp3" spineid="page034" />
+<item title="Possibility" caption="added" data-visibilty="0" id="MjAxNi0wMi0yM1QxMDo1ODoxMS41NDBa" href="data/contentnote/1440649191714-Possibility-Soundtrack.mp3" media-type="audio/mpeg" spineid="cover" />
+<item title="added" caption="lol" data-visibilty="0" id="MjAxNi0wMi0yNFQxNDozMTowNS43MDla" href="data/contentnote/1445241289501-20150910.png" media-type="image/png" spineid="cover" />
+<item title="Directions" caption="added" data-visibilty="0" id="MjAxNi0wMi0yM1QxMDo1Njo1OC45NTla" href="data/contentnote/1445424772783-directions.mp3" media-type="audio/mp3" spineid="cover" />
+<item title="url" caption="" data-visibilty="0" id="MjAxNi0wMi0yNFQxNDozMToyMi42OTJa" href="http://www.google.com" media-type="application/hta" spineid="cover" />
+<item title="text" caption="added" data-visibilty="0" id="MjAxNi0wMi0yNFQxNDozMDo1My43OTda" href="" media-type="text/contentnote" spineid="cover" />
+<item title="teacher" caption="hhh" data-visibilty="1" id="MjAxNi0wMi0yNFQxNDozMTo0MC4wMzZa" href="" media-type="text/contentnote" spineid="cover" />
+<item title="desktop" caption="" data-visibilty="0" id="MjAxNi0wMi0yNFQxNDozMDoxNS4yMzBa" href="data/contentnote/1450341959809-H264-content.mp4" media-type="video/mp4" spineid="cover" />
+<item title="dobne" caption="added" data-visibilty="0" id="MjAxNi0wMi0yNFQxNDozMDozNC44OTVa" href="data/contentnote/1455721030706-SampleAudio07mb-1.mp3" media-type="audio/mp3" spineid="cover" />
+<item title="Sleep-Away" caption="done" data-visibilty="0" id="MjAxNi0wMi0yM1QxMDo1ODozMC42Njda" href="data/contentnote/1414744950311-Sleep-Away.mp3" media-type="audio/mpeg" spineid="cover" />
+<item title="Abhinav_mangla" caption="added" data-visibilty="0" id="MjAxNi0wMi0yM1QxMDo1Nzo1MS4yNTJa" href="data/contentnote/1411724073646-Abhinav-Mangla-Elearning2.mp3" media-type="audio/mp3" spineid="cover" />
+<item title="Kalimba" caption="added" data-visibilty="0" id="MjAxNi0wMi0yM1QxMDo1NzoxOS4zNjVa" href="data/contentnote/1411814704086-Kalimba.mp3" media-type="audio/mpeg" spineid="cover" />
+</manifest>
+  <spine>
+    <itemref idref="cover">
+    </itemref>
+    
+    <itemref idref="page034">
+    </itemref>
+    <itemref idref="page035">
+    </itemref>
+    <itemref idref="page036">
+    </itemref>
+    <itemref idref="page037">
+    </itemref>
+    <itemref idref="page038">
+    </itemref>
+    <itemref idref="page039">
+    </itemref>
+    <itemref idref="page040">
+    </itemref>
+    <itemref idref="page041">
+    </itemref>
+    <itemref idref="page042">
+    </itemref>
+    <itemref idref="page043">
+    </itemref>
+    <itemref idref="page044">
+    </itemref>
+    <itemref idref="page045">
+    </itemref>
+   
+  </spine>
+</package>

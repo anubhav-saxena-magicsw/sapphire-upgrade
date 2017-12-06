@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<script src="js/jquery-1.11.2.min.js"></script>
+		<script src="js/jquery-ui.min.js"></script>
+		<script src='js/bootstrap.js'></script>
+		<script src='js/popover.js'></script>
+		<link rel="stylesheet" type="text/css"  href='css/bootstrap.css'/>
+		<meta charset="utf-8" />
+		<title>Page 6 of 10</title>
+		<link type="text/css" rel="stylesheet" href="css/Styles.css" />
+		<meta content="width=1781.76, height=1301.52" name="viewport" />
+
+		<link rel="stylesheet" type="text/css" href="css/page0006.css" />
+	</head>
+	<body style="margin:0;background-color:#808080;width:1781.76px;height:1301.52px;"><annotation_object objectid="page006_page006">
+		<div id="PageContainer6" class="PageContainer">
+			<div id="TextContainer6" class="TextContainer" data-scalemultiplier="37">
+				<span class="s1 f2 fs0 l0" id="P6_1">21</span><span class="s1 f2 fs0 l0" id="P6_2">Solar System: Earth in Space 1.3.2</span>
+			</div>
+			<div id="pop-over1" class="pop-over1 pop_over" data-toggle="popover" data-placement="auto" data-content="Aristotle was the first to offer proof, based on his observations of lunar eclipses, that Earth is round. He also believed Earth was the center of the universe."></div>
+			<div id="pop-over2" class="pop-over2 pop_over" ></div>
+			<div id="pop-over3" class="pop-over3 pop_over" data-toggle="popover" data-placement="bottom" data-content="Eratosthenes used geometry to build on Aristotle’s work on the Sun and Earth to calculate the size of Earth."></div>
+			<div id="pop-over4" class="pop-over4 pop_over" data-toggle="popover" data-placement="auto" data-content="Ptolemy's geocentric model of the Solar System explained the paths of the five known planets, as well as the paths of the Sun and the Moon. It included epicycles, the secondary circular orbit of planets, that seemed to explain retrograde motion. The Ptolemaic model was the accepted theory for well over a thousand years."></div>
+			<div id="pop-over5" class="pop-over5 pop_over" ></div>
+			<div id="pop-over6" class="pop-over6 pop_over" data-toggle="popover" data-placement="auto" data-content="Tycho Brahe is thought to be one of the best astronomers of all time. His observations of the planets, even though made with the unaided eye, were extremely accurate. Part of his claim to fame was his hiring of Johannes Kepler who used Brahe’s data to argue for a heliocentric Solar System, which Brahe himself did not believe in."></div>
+			<div id="pop-over7" class="pop-over7 pop_over" data-toggle="popover" data-placement="auto" data-content="Galileo Galilei, recognizing the power of the just invented telescope, built his own and through observations discovered four moons orbiting Jupiter and the phases of Venus. This data provided crucial evidence in support for the Copernican heliocentric model of the Solar System. His works were banned by the Roman Church and he was imprisoned for his radical beliefs. He remained under house arrest until he died."></div>
+			<div id="pop-over8" class="pop-over8 pop_over" data-toggle="popover" data-placement="left" data-content="Johannes Kepler was Galileo’s contemporary and Brahe’s successor. Kepler used Brahe’s observations to establish his Three Laws of Planetary Motion. These laws did away with circular orbits, settling instead on elliptical orbits, and explained that the speed of a planet’s orbits is determined by its distance from the Sun. Keeping a low profile, he avoided Galileo’s fate, even though his work supported the concept of a heliocentric Solar System."></div>
+			<div id="pop-over9" class="pop-over9 pop_over" data-toggle="popover" data-placement="left" data-content="Isaac Newton's contribution to our understanding of the Solar System was grounded in his ability to explain (through his Laws of Motion) the reason objects in the Solar System behave as others observed. This was crucial in terms of supporting the observations of Galileo and Kepler. Newton explained the physics behind their observations, solidifying the heliocentric model first alluded to by Aristarchus, and built upon by Copernicus, Galileo, and Kepler."></div>
+		</div>
+	</annotation_object></body>
+	<script>
+	
+		var oImg2  = document.createElement("img");
+		var div2 = document.createElement("div");
+		oImg2.setAttribute('src', 'images/aristarchus_1.jpg');
+		oImg2.onload = function() {
+			oImg2.style.width = (oImg2.width * 1.1) + "px";
+			oImg2.style.transform = "translate(10%)";
+			oImg2.style.webkitTransform = "translate(7%)";
+			oImg2.style.margin="10px";
+			console.log(oImg2);
+			var maxWidth2 = Number("508");
+			var text2 = document.createTextNode("Aristarchus used observations of the Sun and Moon to determine that the Sun was much bigger than it appeared and therefore much farther away than thought. This led to his belief in the Sun being at the center of the Universe.");
+			div2.appendChild(text2);
+			div2.appendChild(oImg2);
+			$('#pop-over2').popover({
+				placement : 'auto',
+				content : function() {
+					return div2;
+				},
+				html : true
+			});
+			$('#pop-over2').on("show.bs.popover", function(e) {
+				$('#pop-over2').data()["bs.popover"].$tip.css("max-width", maxWidth2 + 200 + "px");
+			});
+		};
+	
+		var oImg5 = document.createElement("img");
+		var div5 = document.createElement("div");
+		oImg5.setAttribute('src', 'images/shutterstock_4303822.jpg');
+		oImg5.onload = function() {
+			console.log(oImg5);
+			oImg5.style.width = "400px";
+			oImg5.style.height = "300px";
+			oImg5.style.float = "right";
+			oImg5.style.clear = "right";
+			oImg5.style.margin="10px";
+			var text5 = document.createTextNode("Nicholas Copernicus recognized the need to simplify the Ptolemaic model. He stated that Earth, along with the other planets, orbited the Sun and that the daily and seasonal observations of the objects in the sky could best be explained by a heliocentric model. ");
+			var text5_1 = document.createTextNode("Although his model was not accepted as the standard of his time, his work set the foundation for the Copernican revolution that drove future astronomical studies.");
+			div5.appendChild(text5);
+			div5.appendChild(oImg5);
+			div5.appendChild(text5_1);
+			$('#pop-over5').popover({
+				placement : 'auto',
+				content : function() {
+					return div5;
+				},
+				html : true
+			});
+			$('#pop-over5').on("show.bs.popover", function(e) {
+				$('#pop-over5').data()["bs.popover"].$tip.css("max-width", "800px").css("height", "550px");
+			});
+		};
+		$('#pop-over9').on("show.bs.popover", function(e) {
+			$('#pop-over9').data()["bs.popover"].$tip.css("max-width", "750px");
+		});
+		$('#pop-over8').on("show.bs.popover", function(e) {
+			$('#pop-over8').data()["bs.popover"].$tip.css("max-width", "700px");
+		});
+		$('#pop-over7').on("show.bs.popover", function(e) {
+			$('#pop-over7').data()["bs.popover"].$tip.css("max-width", "500px");
+		});
+	</script>
+
+	
+
+</html>

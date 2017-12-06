@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<regions>
+
+	<region id="mHeader" type="header" styleClass="headerStyle navbar-fixed-top " loadPriority="1">
+		<activities defaultLaunchID="1">
+			<activity id="1" name="headerActivity" modelPath="" groupName="" lang="sample" class="shell/header/header">
+				<html source="shell/header/header.html"></html>
+			</activity>
+		</activities>
+	</region>
+<region id="mActivity" type="mActivity" styleClass="container-fluid" loadPriority="3">
+<activities defaultLaunchID="1">
+<activity id="1" name="Video player with with full controls" modelPath="" modelName="" groupName="" lang="sample" class="sim-pictor">
+<html source="screens/screen1/screen.html"></html>
+<data source="screens/screen1/screen.json"></data>
+<style source="screens/screen1/screen.css"></style>
+</activity>
+</activities></region>
+
+	<region id="mFooter" type="footer" styleClass="container footerStyle navbar-fixed-bottom" loadPriority="2">
+		<activities defaultLaunchID="1">
+			<activity id="1" name="footerAct1" modelPath="" groupName="" lang="sample" class="shell/footer/footer">
+				<html source="shell/footer/footer.html"></html>
+				<style source="shell/footer/footer.css"></style>
+			</activity>
+		</activities>
+	</region>
+
+
+</regions>

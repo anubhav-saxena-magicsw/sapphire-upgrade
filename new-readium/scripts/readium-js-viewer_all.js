@@ -14867,6 +14867,7 @@ if (function (e) {
             function o(e, t) {
                 if (e.defaultView && e.defaultView.parent) {
                     var n = e.defaultView.parent;
+
                     if (-1 !== Object.keys(n).indexOf("document") && n.location.search.match(/goto=.*cfi/i)) {
                         var i = e.createElement("link");
                         i.setAttribute("rel", "canonical"), i.setAttribute("href", n.location.href), e.head.appendChild(i), l[t.idref].canonicalLinkElement = i
@@ -24816,6 +24817,7 @@ var Hogan = {};
                     epub: n,
                     epubs: r
                 };
+
                 e(window).triggerHandler("readepub", a)
             } else {
                 var a = r;
@@ -24867,6 +24869,7 @@ var Hogan = {};
                 }, "Readium Viewer", d), o = !1, u(t)
             }
         }), e(window).on("loadlibrary", function (e, t) {
+
             var r = void 0,
                 a = void 0;
             "string" == typeof t ? r = t : a = t, r = n.ensureUrlIsRelativeToApp(r);

@@ -1,0 +1,597 @@
+<?xml version="1.0"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" version="3.0">
+  <body>
+    <par id="id-1">
+      <text src="../page044.xhtml#word1" />
+      <audio clipBegin="0.503292" clipEnd="0.745885" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-2">
+      <text src="../page044.xhtml#word2" />
+      <audio clipBegin="0.745885" clipEnd="0.849078" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-3">
+      <text src="../page044.xhtml#word3" />
+      <audio clipBegin="0.849078" clipEnd="1.459184" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-4">
+      <text src="../page044.xhtml#word4" />
+      <audio clipBegin="1.459184" clipEnd="1.759710" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-5">
+      <text src="../page044.xhtml#word5" />
+      <audio clipBegin="1.759710" clipEnd="1.841178" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-6">
+      <text src="../page044.xhtml#word6" />
+      <audio clipBegin="1.841178" clipEnd="2.069289" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-7">
+      <text src="../page044.xhtml#word7" />
+      <audio clipBegin="2.069289" clipEnd="3.164582" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-8">
+      <text src="../page044.xhtml#word8" />
+      <audio clipBegin="3.164582" clipEnd="3.477781" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-9">
+      <text src="../page044.xhtml#word9" />
+      <audio clipBegin="3.477781" clipEnd="3.618993" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-10">
+      <text src="../page044.xhtml#word10" />
+      <audio clipBegin="3.618993" clipEnd="3.763825" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-11">
+      <text src="../page044.xhtml#word11" />
+      <audio clipBegin="3.763825" clipEnd="4.306945" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-12">
+      <text src="../page044.xhtml#word12" />
+      <audio clipBegin="4.306945" clipEnd="4.848255" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-13">
+      <text src="../page044.xhtml#word13" />
+      <audio clipBegin="4.848255" clipEnd="5.172317" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-14">
+      <text src="../page044.xhtml#word14" />
+      <audio clipBegin="5.172317" clipEnd="6.302008" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-15">
+      <text src="../page044.xhtml#word15" />
+      <audio clipBegin="6.302008" clipEnd="6.727452" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-16">
+      <text src="../page044.xhtml#word16" />
+      <audio clipBegin="6.727452" clipEnd="7.259710" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-17">
+      <text src="../page044.xhtml#word17" />
+      <audio clipBegin="7.259710" clipEnd="7.542133" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-18">
+      <text src="../page044.xhtml#word18" />
+      <audio clipBegin="7.542133" clipEnd="7.683344" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-19">
+      <text src="../page044.xhtml#word19" />
+      <audio clipBegin="7.683344" clipEnd="8.501646" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-20">
+      <text src="../page044.xhtml#word20" />
+      <audio clipBegin="8.501646" clipEnd="8.838381" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-21">
+      <text src="../page044.xhtml#word21" />
+      <audio clipBegin="8.838381" clipEnd="9.191409" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-22">
+      <text src="../page044.xhtml#word22" />
+      <audio clipBegin="9.191409" clipEnd="9.560731" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-23">
+      <text src="../page044.xhtml#word23" />
+      <audio clipBegin="9.560731" clipEnd="10.420671" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-24">
+      <text src="../page044.xhtml#word24" />
+      <audio clipBegin="10.420671" clipEnd="10.764648" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-25">
+      <text src="../page044.xhtml#word25" />
+      <audio clipBegin="10.764648" clipEnd="11.032587" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-26">
+      <text src="../page044.xhtml#word26" />
+      <audio clipBegin="11.032587" clipEnd="12.187623" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-27">
+      <text src="../page044.xhtml#word27" />
+      <audio clipBegin="12.187623" clipEnd="12.377716" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-28">
+      <text src="../page044.xhtml#word28" />
+      <audio clipBegin="12.377716" clipEnd="12.830316" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-29">
+      <text src="../page044.xhtml#word29" />
+      <audio clipBegin="12.830316" clipEnd="13.100066" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-30">
+      <text src="../page044.xhtml#word30" />
+      <audio clipBegin="13.100066" clipEnd="13.974490" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-31">
+      <text src="../page044.xhtml#word31" />
+      <audio clipBegin="13.974490" clipEnd="14.490454" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-32">
+      <text src="../page044.xhtml#word32" />
+      <audio clipBegin="14.490454" clipEnd="14.800033" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-33">
+      <text src="../page044.xhtml#word33" />
+      <audio clipBegin="14.800033" clipEnd="14.943055" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-34">
+      <text src="../page044.xhtml#word34" />
+      <audio clipBegin="14.943055" clipEnd="15.413759" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-35">
+      <text src="../page044.xhtml#word35" />
+      <audio clipBegin="15.413759" clipEnd="15.969552" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-36">
+      <text src="../page044.xhtml#word36" />
+      <audio clipBegin="15.969552" clipEnd="16.295425" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-37">
+      <text src="../page044.xhtml#word37" />
+      <audio clipBegin="16.295425" clipEnd="16.456550" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-38">
+      <text src="../page044.xhtml#word38" />
+      <audio clipBegin="16.456550" clipEnd="17.068466" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-39">
+      <text src="../page044.xhtml#word39" />
+      <audio clipBegin="17.068466" clipEnd="17.669519" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-40">
+      <text src="../page044.xhtml#word40" />
+      <audio clipBegin="17.669519" clipEnd="17.863232" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-41">
+      <text src="../page044.xhtml#word41" />
+      <audio clipBegin="17.863232" clipEnd="18.035221" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-42">
+      <text src="../page044.xhtml#word42" />
+      <audio clipBegin="18.035221" clipEnd="18.770244" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-43">
+      <text src="../page044.xhtml#word43" />
+      <audio clipBegin="18.770244" clipEnd="19.338710" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-44">
+      <text src="../page044.xhtml#word44" />
+      <audio clipBegin="19.338710" clipEnd="20.479263" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-45">
+      <text src="../page044.xhtml#word45" />
+      <audio clipBegin="20.479263" clipEnd="20.995227" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-46">
+      <text src="../page044.xhtml#word46" />
+      <audio clipBegin="20.995227" clipEnd="21.181698" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-47">
+      <text src="../page044.xhtml#word47" />
+      <audio clipBegin="21.181698" clipEnd="21.726629" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-48">
+      <text src="../page044.xhtml#word48" />
+      <audio clipBegin="21.726629" clipEnd="22.407340" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-49">
+      <text src="../page044.xhtml#word49" />
+      <audio clipBegin="22.407340" clipEnd="22.550362" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-50">
+      <text src="../page044.xhtml#word50" />
+      <audio clipBegin="22.550362" clipEnd="23.250987" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-51">
+      <text src="../page044.xhtml#word51" />
+      <audio clipBegin="23.250987" clipEnd="23.560566" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-52">
+      <text src="../page044.xhtml#word52" />
+      <audio clipBegin="23.560566" clipEnd="24.040323" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-53">
+      <text src="../page044.xhtml#word53" />
+      <audio clipBegin="24.040323" clipEnd="24.353522" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-54">
+      <text src="../page044.xhtml#word54" />
+      <audio clipBegin="24.353522" clipEnd="25.278637" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-55">
+      <text src="../page044.xhtml#word55" />
+      <audio clipBegin="25.278637" clipEnd="25.539335" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-56">
+      <text src="../page044.xhtml#word56" />
+      <audio clipBegin="25.539335" clipEnd="25.713134" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-57">
+      <text src="../page044.xhtml#word57" />
+      <audio clipBegin="25.713134" clipEnd="26.485270" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-58">
+      <text src="../page044.xhtml#word58" />
+      <audio clipBegin="26.485270" clipEnd="26.695276" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-59">
+      <text src="../page044.xhtml#word59" />
+      <audio clipBegin="26.695276" clipEnd="26.881748" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-60">
+      <text src="../page044.xhtml#word60" />
+      <audio clipBegin="26.881748" clipEnd="27.444783" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-61">
+      <text src="../page044.xhtml#word61" />
+      <audio clipBegin="27.444783" clipEnd="27.643927" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-62">
+      <text src="../page044.xhtml#word62" />
+      <audio clipBegin="27.643927" clipEnd="28.083855" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-63">
+      <text src="../page044.xhtml#word63" />
+      <audio clipBegin="28.083855" clipEnd="28.246791" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-64">
+      <text src="../page044.xhtml#word64" />
+      <audio clipBegin="28.246791" clipEnd="28.527403" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-65">
+      <text src="../page044.xhtml#word65" />
+      <audio clipBegin="28.527403" clipEnd="29.289582" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-66">
+      <text src="../page044.xhtml#word66" />
+      <audio clipBegin="29.289582" clipEnd="29.772054" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-67">
+      <text src="../page044.xhtml#word67" />
+      <audio clipBegin="29.772054" clipEnd="30.090685" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-68">
+      <text src="../page044.xhtml#word68" />
+      <audio clipBegin="30.090685" clipEnd="30.231896" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-69">
+      <text src="../page044.xhtml#word69" />
+      <audio clipBegin="30.231896" clipEnd="30.862821" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-70">
+      <text src="../page044.xhtml#word70" />
+      <audio clipBegin="30.862821" clipEnd="31.380596" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-71">
+      <text src="../page044.xhtml#word71" />
+      <audio clipBegin="31.380596" clipEnd="31.715520" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-72">
+      <text src="../page044.xhtml#word72" />
+      <audio clipBegin="31.715520" clipEnd="31.842248" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-73">
+      <text src="../page044.xhtml#word73" />
+      <audio clipBegin="31.842248" clipEnd="32.737492" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-74">
+      <text src="../page044.xhtml#word74" />
+      <audio clipBegin="32.737492" clipEnd="33.207291" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-75">
+      <text src="../page044.xhtml#word75" />
+      <audio clipBegin="33.207291" clipEnd="33.547646" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-76">
+      <text src="../page044.xhtml#word76" />
+      <audio clipBegin="33.547646" clipEnd="33.687953" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-77">
+      <text src="../page044.xhtml#word77" />
+      <audio clipBegin="33.687953" clipEnd="34.308920" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-78">
+      <text src="../page044.xhtml#word78" />
+      <audio clipBegin="34.308920" clipEnd="34.543367" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-79">
+      <text src="../page044.xhtml#word79" />
+      <audio clipBegin="34.543367" clipEnd="35.276580" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-80">
+      <text src="../page044.xhtml#word80" />
+      <audio clipBegin="35.276580" clipEnd="36.645244" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-81">
+      <text src="../page044.xhtml#word81" />
+      <audio clipBegin="36.645244" clipEnd="36.872449" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-82">
+      <text src="../page044.xhtml#word82" />
+      <audio clipBegin="36.872449" clipEnd="37.125000" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-83">
+      <text src="../page044.xhtml#word83" />
+      <audio clipBegin="37.125000" clipEnd="37.447251" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-84">
+      <text src="../page044.xhtml#word84" />
+      <audio clipBegin="37.447251" clipEnd="37.632818" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-85">
+      <text src="../page044.xhtml#word85" />
+      <audio clipBegin="37.632818" clipEnd="37.748683" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-86">
+      <text src="../page044.xhtml#word86" />
+      <audio clipBegin="37.748683" clipEnd="38.423963" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-87">
+      <text src="../page044.xhtml#word87" />
+      <audio clipBegin="38.423963" clipEnd="38.768845" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-88">
+      <text src="../page044.xhtml#word88" />
+      <audio clipBegin="38.768845" clipEnd="39.195194" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-89">
+      <text src="../page044.xhtml#word89" />
+      <audio clipBegin="39.195194" clipEnd="39.365372" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-90">
+      <text src="../page044.xhtml#word90" />
+      <audio clipBegin="39.365372" clipEnd="40.356567" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-91">
+      <text src="../page044.xhtml#word91" />
+      <audio clipBegin="40.356567" clipEnd="40.591014" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-92">
+      <text src="../page044.xhtml#word92" />
+      <audio clipBegin="40.591014" clipEnd="40.802831" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-93">
+      <text src="../page044.xhtml#word93" />
+      <audio clipBegin="40.802831" clipEnd="41.239138" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-94">
+      <text src="../page044.xhtml#word94" />
+      <audio clipBegin="41.239138" clipEnd="42.013989" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-95">
+      <text src="../page044.xhtml#word95" />
+      <audio clipBegin="42.013989" clipEnd="42.192314" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-96">
+      <text src="../page044.xhtml#word96" />
+      <audio clipBegin="42.192314" clipEnd="42.577024" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-97">
+      <text src="../page044.xhtml#word97" />
+      <audio clipBegin="42.577024" clipEnd="43.619816" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-98">
+      <text src="../page044.xhtml#word98" />
+      <audio clipBegin="43.619816" clipEnd="43.986422" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-99">
+      <text src="../page044.xhtml#word99" />
+      <audio clipBegin="43.986422" clipEnd="44.313199" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-100">
+      <text src="../page044.xhtml#word100" />
+      <audio clipBegin="44.313199" clipEnd="44.803818" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-101">
+      <text src="../page044.xhtml#word101" />
+      <audio clipBegin="44.803818" clipEnd="45.550609" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-102">
+      <text src="../page044.xhtml#word102" />
+      <audio clipBegin="45.550609" clipEnd="45.717166" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-103">
+      <text src="../page044.xhtml#word103" />
+      <audio clipBegin="45.717166" clipEnd="45.920836" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-104">
+      <text src="../page044.xhtml#word104" />
+      <audio clipBegin="45.920836" clipEnd="46.190586" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-105">
+      <text src="../page044.xhtml#word105" />
+      <audio clipBegin="46.190586" clipEnd="47.217989" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-106">
+      <text src="../page044.xhtml#word106" />
+      <audio clipBegin="47.217989" clipEnd="47.436142" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-107">
+      <text src="../page044.xhtml#word107" />
+      <audio clipBegin="47.436142" clipEnd="47.828094" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-108">
+      <text src="../page044.xhtml#word108" />
+      <audio clipBegin="47.828094" clipEnd="47.968400" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-109">
+      <text src="../page044.xhtml#word109" />
+      <audio clipBegin="47.968400" clipEnd="48.114138" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-110">
+      <text src="../page044.xhtml#word110" />
+      <audio clipBegin="48.114138" clipEnd="48.682604" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-111">
+      <text src="../page044.xhtml#word111" />
+      <audio clipBegin="48.682604" clipEnd="48.986751" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-112">
+      <text src="../page044.xhtml#word112" />
+      <audio clipBegin="48.986751" clipEnd="49.704575" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-113">
+      <text src="../page044.xhtml#word113" />
+      <audio clipBegin="49.704575" clipEnd="49.991524" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-114">
+      <text src="../page044.xhtml#word114" />
+      <audio clipBegin="49.991524" clipEnd="50.829740" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-115">
+      <text src="../page044.xhtml#word115" />
+      <audio clipBegin="50.829740" clipEnd="50.959184" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-116">
+      <text src="../page044.xhtml#word116" />
+      <audio clipBegin="50.959184" clipEnd="51.038841" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-117">
+      <text src="../page044.xhtml#word117" />
+      <audio clipBegin="51.038841" clipEnd="51.512261" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-118">
+      <text src="../page044.xhtml#word118" />
+      <audio clipBegin="51.512261" clipEnd="51.664335" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-119">
+      <text src="../page044.xhtml#word119" />
+      <audio clipBegin="51.664335" clipEnd="51.891540" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-120">
+      <text src="../page044.xhtml#word120" />
+      <audio clipBegin="51.891540" clipEnd="52.335089" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-121">
+      <text src="../page044.xhtml#word121" />
+      <audio clipBegin="52.335089" clipEnd="52.667298" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-122">
+      <text src="../page044.xhtml#word122" />
+      <audio clipBegin="52.667298" clipEnd="53.090026" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-123">
+      <text src="../page044.xhtml#word123" />
+      <audio clipBegin="53.090026" clipEnd="53.218565" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-124">
+      <text src="../page044.xhtml#word124" />
+      <audio clipBegin="53.218565" clipEnd="53.998848" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-125">
+      <text src="../page044.xhtml#word125" />
+      <audio clipBegin="53.998848" clipEnd="54.221527" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-126">
+      <text src="../page044.xhtml#word126" />
+      <audio clipBegin="54.221527" clipEnd="54.371791" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-127">
+      <text src="../page044.xhtml#word127" />
+      <audio clipBegin="54.371791" clipEnd="54.943878" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-128">
+      <text src="../page044.xhtml#word128" />
+      <audio clipBegin="54.943878" clipEnd="55.205481" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-129">
+      <text src="../page044.xhtml#word129" />
+      <audio clipBegin="55.205481" clipEnd="55.458937" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-130">
+      <text src="../page044.xhtml#word130" />
+      <audio clipBegin="55.458937" clipEnd="55.624589" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-131">
+      <text src="../page044.xhtml#word131" />
+      <audio clipBegin="55.624589" clipEnd="56.050938" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-132">
+      <text src="../page044.xhtml#word132" />
+      <audio clipBegin="56.050938" clipEnd="56.184003" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-133">
+      <text src="../page044.xhtml#word133" />
+      <audio clipBegin="56.184003" clipEnd="57.258476" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-134">
+      <text src="../page044.xhtml#word134" />
+      <audio clipBegin="57.258476" clipEnd="57.629608" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-135">
+      <text src="../page044.xhtml#word135" />
+      <audio clipBegin="57.629608" clipEnd="58.233377" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-136">
+      <text src="../page044.xhtml#word136" />
+      <audio clipBegin="58.233377" clipEnd="58.504937" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-137">
+      <text src="../page044.xhtml#word137" />
+      <audio clipBegin="58.504937" clipEnd="59.482554" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-138">
+      <text src="../page044.xhtml#word138" />
+      <audio clipBegin="59.482554" clipEnd="59.965932" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-139">
+      <text src="../page044.xhtml#word139" />
+      <audio clipBegin="59.965932" clipEnd="60.035632" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-140">
+      <text src="../page044.xhtml#word140" />
+      <audio clipBegin="60.035632" clipEnd="60.950790" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-141">
+      <text src="../page044.xhtml#word141" />
+      <audio clipBegin="60.950790" clipEnd="61.491195" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-142">
+      <text src="../page044.xhtml#word142" />
+      <audio clipBegin="61.491195" clipEnd="61.562706" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-143">
+      <text src="../page044.xhtml#word143" />
+      <audio clipBegin="61.562706" clipEnd="61.663183" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-144">
+      <text src="../page044.xhtml#word144" />
+      <audio clipBegin="61.663183" clipEnd="62.409068" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-145">
+      <text src="../page044.xhtml#word145" />
+      <audio clipBegin="62.409068" clipEnd="62.827271" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-146">
+      <text src="../page044.xhtml#word146" />
+      <audio clipBegin="62.827271" clipEnd="62.978440" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-147">
+      <text src="../page044.xhtml#word147" />
+      <audio clipBegin="62.97844" clipEnd="63.356814" src="../data/assets/Audio/page044.mp3" />
+    </par>
+    <par id="id-148">
+      <text src="../page044.xhtml#word148" />
+      <audio clipBegin="63.356814" clipEnd="64.519997" src="../data/assets/Audio/page044.mp3" />
+    </par>
+  </body>
+</smil>

@@ -1,0 +1,1 @@
+define('text!components/screennavigator/templates/screen-navigator-tmpl.html',[],function () { return '<button id="btnPrevious">{{ nextBtnLbl }}</button>\n\n<!-- START: container for having navigation button -->\n<div id="screenNavContainer"></div>\n<!-- END: container for having navigation button -->\n\n<button id="btnNext">{{ nextBtnLbl }}</button>';});

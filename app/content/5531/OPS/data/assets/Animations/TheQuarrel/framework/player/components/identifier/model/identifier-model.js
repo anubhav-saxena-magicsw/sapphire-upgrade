@@ -1,0 +1,1 @@
+define(["components/slider/js/sliderconst"],function(){var n=Backbone.Model.extend({defaults:{content:null,property:null,color:null}});return n});

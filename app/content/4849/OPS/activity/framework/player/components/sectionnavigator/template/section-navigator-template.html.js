@@ -1,0 +1,1 @@
+define('text!components/sectionnavigator/template/section-navigator-template.html',[],function () { return '<div id="sectionNavigatorWrapper">\r\n\t<div>\r\n\t\t<div id="sectionNavigatorAxis" class="SectionNavigatorAxisStyle">\r\n\t\t</div>\t\r\n\t</div>\r\n\t<div id="sectionHotspotContainer" class="SectionHotspotContainerStyle row">\r\n\t\t\r\n\t</div>\r\n\t\r\n</div>';});

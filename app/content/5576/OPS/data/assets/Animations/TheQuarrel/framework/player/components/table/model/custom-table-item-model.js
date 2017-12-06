@@ -1,0 +1,1 @@
+define(["backbone"],function(e){var n=e.Model.extend({updateIndex:function(e){this.set({index:this.get("index")+e})}});return n});

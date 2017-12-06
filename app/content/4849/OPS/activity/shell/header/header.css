@@ -1,0 +1,21 @@
+.skin1 .headerStyle{
+	padding:0px ! important;
+	height: 48px;
+}
+.navbar-header{
+	width:100%;
+}
+/*
+.headerblock{
+	background-color: #e4100d;
+	height: 48px;
+    width: 100%;
+}*/
+
+.navbar-fixed-top, .navbar-fixed-bottom{
+	position: relative ! important;
+}
+.logo{
+	padding-top: 10px;
+	padding-left: 10px;
+}

@@ -1,0 +1,1 @@
+define(["backbone"],function(e){var n=e.Model.extend({defaults:{canWidth:400,canHeight:300,canId:"phy_world"}});return n});

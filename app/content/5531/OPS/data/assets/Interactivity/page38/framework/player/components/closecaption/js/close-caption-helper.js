@@ -1,0 +1,1 @@
+define(["require","exports","module"],function(){var n={init:function(){console.log("close caption comp helper initialized!")},appendCaption:function(n,e){n.$el.append(e)},destroy:function(){}};return n});

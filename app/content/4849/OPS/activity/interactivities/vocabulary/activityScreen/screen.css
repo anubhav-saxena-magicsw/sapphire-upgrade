@@ -1,0 +1,530 @@
+.contentareasmall {
+	left: 0px ! important;
+	top: 0px ! important;
+	background-color: #fff;
+	border-radius: 12px;
+	border: 2px solid #000;
+	box-shadow: 2px 2px 6px 3px #BEBCBC;
+}
+.wrapper_screen1 {
+	width: 100%;
+	height: auto;
+	margin-top: 0px;
+}
+@media screen and (max-width: 1024) {
+	.wrapper_screen1 {
+		margin-top: 20px;
+	}
+}
+
+.directions {
+	height: 71px;
+	width: 100%;
+	font-size: 17.5px;
+	text-align: left;
+	padding-left: 10px;
+	padding-top: 4px;
+	cursor: pointer;
+	margin-top: 17px;
+}
+
+.directions:hover {
+	color: #67C87F;
+}
+
+#direction_text {
+	font-family: 'MyriadPro-Bold';
+}
+
+#directionLine {
+	font-family: 'MyriadPro-Regular';
+}
+
+.popupfeedback {
+	height: 304px;
+	width: 403px;
+	left: 157px;
+	top: 82px;
+	display: block;
+	position: absolute;
+	z-index:11000;
+	background-image: url('assets/images/Result.png');
+	background-repeat: no-repeat;
+	display:none;
+}
+
+.tryagain {
+	height: 510px;
+	width: 740px;
+	position: absolute;
+	display: none;
+	left: 0px;
+	bottom: 0px;
+	right: 0px;
+	margin: auto auto;
+	background-image: url('assets/images/tryagain.png');
+	top: 0px;
+	z-index: 20000;
+}
+.btnReset {
+	background-image: url('assets/images/reset1.png');
+	height: 135px;
+	width: 130px;
+	position: relative;
+	top: 52%;
+	left: 13%;
+	border-radius: 18px;
+	cursor: pointer;
+}
+
+.drop_img {
+	display: none;
+	position: absolute;
+	left: 30px;
+	background: #ffffff;
+	border: 3px solid #0081BB;
+	height: 52px !important;
+    width: 16% !important;
+	/*height: 45px;*/
+	border-radius: 10px;
+	bottom: 209px;
+	/*width: 14% ! important;*/
+	font-size: 18px;
+	padding: 7px;
+	z-index: 20;
+	text-align: center;
+	box-shadow: 2px 2px 1px 1px #ccc;
+}
+#drop_img1 {
+   left: 22px;
+}
+
+#drop_img2 {
+	left: 314px;
+}
+
+#drop_img3 {
+	left: 172px;
+}
+
+#drop_img4 {
+  left: 455px;
+}
+
+#drop_img5 {
+   left: 602px;
+}
+
+.btnReveal {
+	background-image: url('assets/images/reveal1.png');
+	height: 135px;
+	width: 130px;
+	position: relative;
+	top: 25%;
+	border-radius: 18px;
+	cursor: pointer;
+	left: 201px;
+	float: left;
+}
+
+.temp_header {
+	background-image: url('assets/images/vocabulary.png');
+	height: 52px;
+	width: 300px;
+	position: absolute;
+	top: -28px;
+	background-size: 100% 100%;
+	left: 22px;
+}
+
+.blocker {
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	display: none;
+	background-color: black;
+	opacity: 0.6;
+	z-index: 10;
+}
+
+.btnClose {
+	width: 33px;
+	height: 30px;
+	position: relative;
+	top: 11px;
+	right: 1px;
+	float: right;
+	cursor: pointer;
+}
+
+#menubutton {
+	margin-top: -36px;
+	margin-left: 30px;
+}
+#menubutton :hover {
+	color: #008000;
+}
+
+@media screen and (max-width: 1024px) {
+	#menubutton {
+		margin-left: 5px;
+	}
+}
+@media screen and (max-width: 768px) {
+	#menubutton {
+		margin-left: 30px;
+	}
+}
+.actionbtnsback {
+	background-color: #fff;
+	border: 4px solid #000;
+	border-radius: 10px;
+	font-size: 25px;
+	text-align: center;
+	height: 52px;
+	padding-top: 3px;
+	width: 155px;
+	cursor: pointer;
+}
+
+.act_header {
+	position: absolute;
+	top: 5px;
+	left: 5px;
+	background: url("assets/images/tcm.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+	height: 58px;
+	width: 270px;
+}
+
+.main_textarea {
+	width: 97%;
+	float: left;
+	margin-top: 5px;
+	margin-left: 13px;
+}
+.titlebox {
+	height: 39px;
+	border-bottom: 1px solid #000;
+	background-color: #fff
+}
+.subjectbox {
+	height: 75px;
+	border-bottom: 1px solid #000;
+	background-color: #EDEDED;
+}
+.msgbox {
+	height: 257px;
+	background-color: #fff;
+	text-align: left;
+}
+.ansboxes {
+	height: 60px;
+	border: 1px solid #000;
+	width: 90%;
+	margin-left: 25px;
+	margin-bottom: 15px;
+	font-size: 17px;
+	overflow-y: auto;
+	padding-left: 5px;
+}
+.titleimagesblock {
+	float: left;
+	padding: 5px;
+}
+.titlemsg {
+	font-size: 20px;
+	float: left;
+	margin-left: 35px;
+	padding: 5px;
+	font-family: 'HMAvenir-Bold';
+}
+.particularImages {
+	height: 29px;
+	width: 37px;
+}
+
+.titleDear {
+	font-size: 18px;
+	margin-left: 24px;
+	/* margin-bottom: 8px; */
+	text-align: left;
+	cursor: default;
+}
+
+.overClass {
+	cursor: pointer;
+}
+.overClass:hover {
+	color: #67C87F;
+}
+
+.sincerelyText {
+	outline: none;
+	width: 216px;
+	height: 23px;
+	box-shadow: 1px 1px 1px 1px #ccc;
+	border: 1px solid #000;
+	margin-left: 25px;
+	font-size: 17px;
+	-webkit-user-select: text;
+	-moz-user-select: text;
+	user-select: text;
+	padding-left: 5px;
+	overflow: hidden;
+}
+.thirdansbox {//
+	margin-top: 130px;
+}
+.lastDiv {
+	margin-top: -10px;
+}
+
+.closeBtn {
+	float: right;
+	width: 57px;
+	margin-top: -24px;
+	cursor: pointer;
+}
+#textCrossBlock {
+	height: 72px;
+}
+
+.dnd1 #opt1:hover, .dnd1 #opt2:hover, .dnd1 #opt3:hover {
+	color: #67C87F;
+}
+
+.img_left {
+  height: 131px;
+  width: 136px;
+  position: relative;
+  background-image: url('assets/images/cards0001.png');
+  background-size: 100% 100%;
+  margin-left: 9px;
+  float: left;
+}
+.img_mid {
+  height: 131px;
+  width: 136px;
+  position: relative;
+  background-image: url('assets/images/cards0002.png');
+  background-size: 100% 100%;
+  margin-left: -131px;
+  float: left;
+}
+
+.img_mid_1 {
+  height: 131px;
+  width: 136px;
+  position: relative;
+  background-image: url('assets/images/cards0003.png');
+  background-size: 100% 100%;
+  margin-left: 297px;
+  float: left;
+  margin-top: -130px;
+}
+
+.img_mid_2 {
+  height: 131px;
+  width: 136px;
+  position: relative;
+  background-image: url('assets/images/cards0004.png');
+  background-size: 100% 100%;
+  margin-left: 441px;
+  float: left;
+  margin-top: -130px;
+}
+
+.img_right {
+  height: 131px;
+  width: 136px;
+  position: relative;
+  background-image: url('assets/images/cards0005.png');
+  background-size: 100% 100%;
+  float: right;
+  margin-top: -130px;
+  margin-right: -5px;
+}
+
+/*-----------------------------------------------DRAG N DROP--------------------------------------------------------*/
+#dndContainer {
+   width:740px;
+   left:0px;
+   top:79px;
+   position: absolute;
+}
+.dnd1 {
+	width: 100%;
+	height: 301px;
+}
+.dnd1 #dndHolder {
+	width: 100%;
+	height: 301px;
+	top:0px;
+	left:0px;
+	position: absolute;
+}
+.dnd1 .draggableItem {
+	cursor: pointer;
+	height: 52px !important;
+width: 16% !important;
+	background-size: 100% 100% !important;
+	font-family: 'MyriadPro-Regular';
+	bottom:6px;
+	
+	font-size: 18px;
+	padding: 7px;
+	border: 3px solid #0081BB;
+	margin-left:-3px;
+	margin-top:-3px;
+	box-shadow: 2px 2px 6px 3px #BEBCBC;
+}
+
+.dnd1 .draggableItem:hover {
+		color: #67C87F;
+}
+
+.dnd1 .droppableItem {
+	height: 52px !important;
+	width: 16% !important;
+	background-color: #fff;
+	border-radius: 12px;
+	background: #80AAD5;
+	top: 168px !important;
+}
+
+.dnd1 #opt1 {
+	position: absolute;
+	left: 30px;
+	background: #ffffff;
+	height: 70px;
+	border-radius: 10px;
+}
+
+.dnd1 #opt2 {
+	position: absolute;
+	left: 179px;
+	background: #ffffff;
+	height: 70px;
+	border-radius: 10px;
+}
+
+.dnd1 #opt3 {
+	position: absolute;
+	left: 324px;
+	background: #ffffff;
+	height: 70px;
+	border-radius: 10px;
+}
+
+.dnd1 #opt4 {
+	position: absolute;
+	left: 464px;
+	background: #ffffff;
+	height: 70px;
+	border-radius: 10px;
+}
+
+.dnd1 #opt5 {
+	position: absolute;
+	left: 610px;
+	background: #ffffff;
+	height: 70px;
+	border-radius: 10px;
+}
+
+.dnd1 #drop1 {
+	position: absolute;
+	left: 23px !important;
+	background: #80AAD5;
+}
+
+.dnd1 #drop2 {
+	position: absolute;
+	left: 173px;
+	top: 255px;
+}
+
+.dnd1 #drop3 {
+	position: absolute;
+	left: 314px;
+	top: 255px;
+}
+
+.dnd1 #drop4 {
+	position: absolute;
+	left: 455px;
+	top: 255px;
+}
+
+.dnd1 #drop5 {
+	position: absolute;
+	left: 602px;
+	top: 255px;
+}
+.btnsubmit {
+	height: 114px;
+	width: 122px;
+	position: absolute;
+	background-image: url('assets/images/submit_hov.png');
+	background-size: 100% 100%;
+	opacity:0.5;
+	float: right;
+	bottom: 8px;
+	right: 8px;
+	pointer-events: none;
+}
+
+.popupImage {
+	height: 160px;
+	width: 144px;
+}
+.BlockImagePopup {
+	height: 100%;
+	width: 100%;
+}
+
+.disableBtn {
+	pointer-events: none;
+}
+
+.dropPrintableImages {
+	width: 100%;
+	height: 100%;
+	visibility: hidden;
+}
+.dropImages {
+	height: 83px;
+	width: 135px;
+}
+#dropImg1 {
+	float: left;
+	margin-left: 4px;
+	margin-top: 16px;
+}
+
+#dropImg2 {
+	float: left;
+	margin-top: -94px;
+	margin-left: 335px;
+}
+
+#dropImg3 {
+	float: left;
+	margin-top: -94px;
+	margin-left: 335px;
+}
+
+#dropImg4 {
+	float: left;
+	margin-top: -94px;
+	margin-left: 335px;
+}
+
+#dropImg5 {
+	float: left;
+	margin-top: -94px;
+	margin-left: 335px;
+}
+

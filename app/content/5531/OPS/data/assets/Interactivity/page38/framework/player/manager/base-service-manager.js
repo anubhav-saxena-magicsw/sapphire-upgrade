@@ -1,0 +1,1 @@
+BaseServiceManager=function(){},BaseServiceManager.prototype.send=function(){},BaseServiceManager.prototype.success=function(){},BaseServiceManager.prototype.error=function(){},BaseServiceManager.prototype.complete=function(){};

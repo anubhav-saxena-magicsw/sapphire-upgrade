@@ -1,0 +1,39 @@
+.SliderHorizontalWrapperStyle {
+	position: relative;
+/*	background: url('../images/background-horizontal.png') no-repeat;*/
+	height: 30px;
+}
+
+.SliderThumbStyle {
+/*	background: url('../images/thumb.png') no-repeat;*/
+	height: 20px;
+	width: 20px;
+	top: 5px;
+	-ms-touch-action: none !important;
+	-webkit-transform: translatez(0) !important;
+	-moz-transform: translatez(0) !important;
+	-ms-transform: translatez(0) !important;
+	-o-transform: translatez(0) !important;
+	transform: translatez(0) !important;
+}
+
+.SliderBoundingBoxStyle {
+	left: 0px;
+	top: 5px;
+	height: 20px;
+	width: 100%;
+}
+
+.SliderBarStyle {
+	position: absolute;
+/*	background: url('../images/bar-horizontal.png') no-repeat;*/
+	background-position: center;
+	height: 4px;
+	top: 13px;
+}
+
+.compBlocker {
+	position: absolute;
+	background-color: white;
+	opacity: 0;
+}
